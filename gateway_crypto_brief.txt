@@ -1,0 +1,126 @@
+GATEWAY CRYPTO — B2B SALES & PARTNERSHIP BRIEF
+================================================
+
+
+WHAT IT IS
+----------
+Gateway Crypto is a crypto payment processing platform for high-risk businesses.
+It handles two use cases:
+
+- C2B (Consumer-to-Business): Merchants collecting payments from end users and
+  making payouts — the main use case
+- B2B: Corporate on-ramp/off-ramp, manual large transactions, invoicing,
+  exchange capabilities
+
+
+KEY DIFFERENTIATORS (YOUR SALES ARGUMENTS)
+-------------------------------------------
+
+1. Network-agnostic USDT/USDC — the killer pitch
+Most competitors charge for cross-chain swaps just like any exchange. Gateway
+doesn't. No cross-chain swap fees, no manual operations, no risk of running out
+of liquidity on a specific chain at 4am when your players can't withdraw.
+If the prospect understands crypto at all, this lands hard.
+
+2. Fully customizable role management
+Merchants can mirror their existing security protocols — e.g., "any transaction
+above $X requires owner approval." They don't have to adapt their compliance
+rules to fit the crypto processor. It fits them.
+
+3. Track record
+- Never hacked
+- 99.9% uptime
+- Zero merchant churn in 18 months — no one has left for a competitor
+
+4. Speed to launch
+Up and running within 24 hours if the merchant is responsive.
+KYB and integration can run in parallel.
+
+5. Full client support
+Dedicated account manager + 24/7 integration support throughout the entire
+client lifecycle.
+
+6. Simplified KYC for end users
+First deposit requires simplified KYC, but after that users can transact up to
+$10K without additional KYC. Good pitch for gaming/forex clients with high
+player volumes.
+
+
+TARGET CLIENTS
+--------------
+
+Direct merchants:
+- iGaming / Sports Betting — high volume, take all comers, it's a numbers game
+- Licensed Forex — lower volume risk, higher quality leads, requires some
+  substance (not cover-up operations)
+- High-risk service businesses — marketing agencies, lead gen, VPN-adjacent
+  businesses that can't access traditional banking rails
+- Adult — growing traction, not a core focus
+
+Channel partners (B2B partnership angle):
+- iGaming platforms that white-label or aggregate merchants under them.
+  If Gateway integrates at the platform level, all sub-merchants get access
+  automatically. This is the partnership play.
+
+
+GEO & COMPLIANCE RULES
+-----------------------
+- No USA (no US-registered businesses, no merchants targeting US retail,
+  no US transactions)
+- No China
+- No OFAC-sanctioned countries — edge cases handled practically, not rigidly
+  (e.g., dual-passport owners, Curacao entities are fine)
+- They do practical due diligence, not just paperwork. They can spot cover-up
+  operations.
+- They're fine with high-risk businesses presenting themselves as-is.
+  A storefront in crypto actually raises red flags, not lowers them.
+
+
+VOLUME REQUIREMENTS
+-------------------
+iGaming / Betting       No minimum — take all, sort later
+Forex                   No hard minimum — quality converts
+Services / Adult / Other  ~$75K–$100K/month
+
+
+PRICING STRUCTURE (talking points, not a sheet)
+------------------------------------------------
+They don't distribute PDFs with fixed pricing — it circulates in the market.
+Share verbally or in a private message. The framework:
+
+- Deposit (no exchange): Base fee
+- Deposit with auto-exchange (user pays in altcoin, merchant accumulates USDT):
+  Slightly higher
+- Manual internal exchange (merchant swaps BTC → USDT in dashboard):
+  Separate fee
+- Withdrawal: Free — only network fee charged; fees are collected on deposit side
+- Withdrawal with exchange (user withdraws in different currency than deposited):
+  Same as deposit rate
+- C2B on-ramp cost: Passed to end user, net-zero for the merchant
+- B2B on-ramp/off-ramp: Negotiated per client
+
+Key framing: when a prospect says "I'm paying 0.4% for crypto processing" —
+they're almost certainly quoting deposit-only. Push them to compare full-cycle
+cost, same way you'd compare fiat processors.
+
+
+PARTNERSHIP PROCESS
+--------------------
+1. You identify a merchant and drop: business type, needs, geos into a shared
+   Telegram channel
+2. Gateway pre-approves in chat (fast filter, avoids wasted time)
+3. They create a group with your client and handle KYB + integration from there
+4. You can stay in the chat or step out — your call
+
+Revenue share options:
+- Gateway sets up an account for you on their platform and settles your cut
+  directly in crypto
+- Monthly/bi-weekly reconciliation invoice paid in crypto
+- Automated referral dashboard coming ~Q3 (real-time fee tracking)
+
+
+WHAT YOU CAN SHARE WITH PROSPECTS
+-----------------------------------
+- A one-pager on product features (ask Gateway team for it)
+- Pricing communicated as a message/verbally, not a PDF
+- KYB requirements doc — Gateway sends this once a group is created
