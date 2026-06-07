@@ -1,0 +1,831 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Weekly Report</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif;
+      background: #f5f5f7;
+      color: #1d1d1f;
+      min-height: 100vh;
+      padding: 40px 20px 80px;
+    }
+
+    .page { max-width: 720px; margin: 0 auto; }
+
+    /* ── Header ── */
+    .header {
+      margin-bottom: 36px;
+    }
+
+    .header h1 {
+      font-size: 28px;
+      font-weight: 700;
+      letter-spacing: -0.03em;
+      color: #1d1d1f;
+      margin-bottom: 16px;
+    }
+
+    .week-row {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .week-label {
+      font-size: 13px;
+      color: #86868b;
+      font-weight: 500;
+    }
+
+    .week-input {
+      background: white;
+      border: 1px solid #d2d2d7;
+      border-radius: 8px;
+      color: #1d1d1f;
+      font-size: 13px;
+      font-family: inherit;
+      padding: 6px 10px;
+      outline: none;
+    }
+
+    .week-input:focus { border-color: #0071e3; }
+    .week-sep { color: #86868b; font-size: 13px; }
+
+    /* ── Section card ── */
+    .section {
+      background: white;
+      border-radius: 16px;
+      padding: 28px;
+      margin-bottom: 12px;
+      box-shadow: 0 1px 3px rgba(0,0,0,.06), 0 1px 2px rgba(0,0,0,.04);
+    }
+
+    .section-head {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 24px;
+    }
+
+    .section-title {
+      font-size: 15px;
+      font-weight: 600;
+      color: #1d1d1f;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .section-title .dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
+
+    .dot-blue   { background: #0071e3; }
+    .dot-green  { background: #30d158; }
+    .dot-purple { background: #bf5af2; }
+    .dot-orange { background: #ff9f0a; }
+    .dot-yellow { background: #ffd60a; }
+
+    /* ── Stat grid ── */
+    .stat-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 8px;
+      margin-bottom: 20px;
+    }
+
+    .stat-grid-2 {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 8px;
+      margin-bottom: 20px;
+    }
+
+    .stat {
+      background: #f5f5f7;
+      border-radius: 10px;
+      padding: 14px 14px 12px;
+    }
+
+    .stat-name {
+      font-size: 11px;
+      color: #86868b;
+      font-weight: 500;
+      margin-bottom: 8px;
+      display: block;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+
+    .stat input[type="number"] {
+      width: 100%;
+      background: none;
+      border: none;
+      color: #1d1d1f;
+      font-size: 26px;
+      font-weight: 700;
+      font-family: inherit;
+      outline: none;
+      letter-spacing: -0.02em;
+    }
+
+    .stat input[type="number"]::placeholder { color: #d2d2d7; }
+    .stat input[type="number"]::-webkit-outer-spin-button,
+    .stat input[type="number"]::-webkit-inner-spin-button { -webkit-appearance: none; }
+
+    /* ── Fields ── */
+    .field { margin-bottom: 14px; }
+    .field:last-child { margin-bottom: 0; }
+
+    .field label {
+      display: block;
+      font-size: 12px;
+      font-weight: 500;
+      color: #86868b;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      margin-bottom: 6px;
+    }
+
+    textarea {
+      width: 100%;
+      background: #f5f5f7;
+      border: none;
+      border-radius: 10px;
+      color: #1d1d1f;
+      font-size: 14px;
+      font-family: inherit;
+      padding: 12px 14px;
+      resize: vertical;
+      min-height: 76px;
+      outline: none;
+      transition: box-shadow 0.15s;
+    }
+
+    textarea:focus { box-shadow: inset 0 0 0 1.5px #0071e3; }
+    textarea::placeholder { color: #c7c7cc; }
+
+    input[type="text"] {
+      width: 100%;
+      background: #f5f5f7;
+      border: none;
+      border-radius: 10px;
+      color: #1d1d1f;
+      font-size: 14px;
+      font-family: inherit;
+      padding: 10px 14px;
+      outline: none;
+      transition: box-shadow 0.15s;
+    }
+
+    input[type="text"]:focus { box-shadow: inset 0 0 0 1.5px #0071e3; }
+    input[type="text"]::placeholder { color: #c7c7cc; }
+
+    .row-2 {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+    }
+
+    /* ── Leads summary ── */
+    .leads-bar {
+      display: flex;
+      gap: 20px;
+      padding: 10px 14px;
+      background: #f5f5f7;
+      border-radius: 10px;
+      font-size: 13px;
+      margin-bottom: 16px;
+      flex-wrap: wrap;
+    }
+
+    .leads-bar .total { font-weight: 600; color: #1d1d1f; }
+    .leads-bar span   { color: #86868b; }
+
+    /* ── Lead card ── */
+    .lead-card {
+      background: #f5f5f7;
+      border-radius: 12px;
+      padding: 16px;
+      margin-bottom: 8px;
+    }
+
+    .lead-card-top {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 12px;
+    }
+
+    .lead-idx {
+      font-size: 11px;
+      font-weight: 600;
+      color: #86868b;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+    }
+
+    .btn-remove {
+      background: none;
+      border: none;
+      color: #c7c7cc;
+      font-size: 20px;
+      cursor: pointer;
+      line-height: 1;
+      padding: 0;
+      font-family: inherit;
+      transition: color 0.15s;
+    }
+
+    .btn-remove:hover { color: #ff3b30; }
+
+    .lead-row {
+      display: grid;
+      grid-template-columns: 2fr 1fr 1fr;
+      gap: 8px;
+      margin-bottom: 8px;
+    }
+
+    .lead-row-2 {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 8px;
+    }
+
+    .lf label {
+      display: block;
+      font-size: 11px;
+      font-weight: 500;
+      color: #86868b;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      margin-bottom: 5px;
+    }
+
+    .lf input[type="text"] { padding: 8px 12px; font-size: 13px; }
+
+    select {
+      width: 100%;
+      background: white;
+      border: none;
+      border-radius: 10px;
+      color: #1d1d1f;
+      font-size: 13px;
+      font-family: inherit;
+      padding: 8px 30px 8px 12px;
+      outline: none;
+      appearance: none;
+      -webkit-appearance: none;
+      cursor: pointer;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6'%3E%3Cpath d='M0 0l5 6 5-6z' fill='%2386868b'/%3E%3C/svg%3E");
+      background-repeat: no-repeat;
+      background-position: right 10px center;
+      transition: box-shadow 0.15s;
+    }
+
+    select:focus { box-shadow: inset 0 0 0 1.5px #0071e3; }
+
+    .btn-add {
+      width: 100%;
+      background: none;
+      border: 1.5px dashed #d2d2d7;
+      border-radius: 10px;
+      color: #86868b;
+      font-size: 13px;
+      font-family: inherit;
+      padding: 10px;
+      cursor: pointer;
+      transition: all 0.15s;
+      margin-bottom: 16px;
+    }
+
+    .btn-add:hover {
+      border-color: #0071e3;
+      color: #0071e3;
+    }
+
+    /* ── Toggle ── */
+    .toggle-wrap { display: flex; align-items: center; gap: 8px; }
+
+    .toggle-hint { font-size: 12px; color: #86868b; }
+
+    .toggle {
+      position: relative;
+      display: inline-block;
+      width: 40px;
+      height: 24px;
+    }
+
+    .toggle input { opacity: 0; width: 0; height: 0; }
+
+    .t-slider {
+      position: absolute;
+      inset: 0;
+      background: #e5e5ea;
+      border-radius: 24px;
+      cursor: pointer;
+      transition: 0.2s;
+    }
+
+    .t-slider::before {
+      content: '';
+      position: absolute;
+      width: 18px;
+      height: 18px;
+      left: 3px;
+      top: 3px;
+      background: white;
+      border-radius: 50%;
+      transition: 0.2s;
+      box-shadow: 0 1px 3px rgba(0,0,0,.2);
+    }
+
+    .toggle input:checked + .t-slider { background: #30d158; }
+
+    .toggle input:checked + .t-slider::before { transform: translateX(16px); }
+
+    .ex-body {
+      overflow: hidden;
+      max-height: 0;
+      transition: max-height 0.35s ease, opacity 0.25s;
+      opacity: 0;
+    }
+
+    .ex-body.open { max-height: 900px; opacity: 1; }
+
+    .ex-divider { height: 1px; background: #f0f0f5; margin: 4px 0 20px; }
+
+    /* ── Generate button ── */
+    .btn-generate {
+      display: block;
+      width: 100%;
+      background: #0071e3;
+      border: none;
+      border-radius: 12px;
+      color: white;
+      font-size: 15px;
+      font-weight: 600;
+      font-family: inherit;
+      padding: 15px;
+      cursor: pointer;
+      margin: 20px 0 12px;
+      transition: background 0.15s;
+      letter-spacing: -0.01em;
+    }
+
+    .btn-generate:hover  { background: #0077ed; }
+    .btn-generate:active { background: #006edb; }
+
+    /* ── Output ── */
+    .output { display: none; }
+    .output.on { display: block; }
+
+    .out-head {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 14px;
+    }
+
+    .btn-copy {
+      background: #f5f5f7;
+      border: none;
+      border-radius: 8px;
+      color: #1d1d1f;
+      font-size: 13px;
+      font-weight: 500;
+      font-family: inherit;
+      padding: 7px 16px;
+      cursor: pointer;
+      transition: background 0.15s;
+    }
+
+    .btn-copy:hover { background: #e8e8ed; }
+    .btn-copy.done  { background: #d1f5da; color: #1a7f37; }
+
+    pre {
+      background: #f5f5f7;
+      border-radius: 12px;
+      padding: 20px;
+      font-size: 12.5px;
+      font-family: 'SF Mono', 'Fira Code', monospace;
+      color: #3a3a3c;
+      white-space: pre-wrap;
+      word-break: break-word;
+      line-height: 1.8;
+    }
+
+    @media (max-width: 580px) {
+      .stat-grid   { grid-template-columns: repeat(2, 1fr); }
+      .stat-grid-2 { grid-template-columns: repeat(2, 1fr); }
+      .lead-row    { grid-template-columns: 1fr 1fr; }
+      .row-2       { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+<div class="page">
+
+  <!-- Header -->
+  <div class="header">
+    <h1>Weekly Report</h1>
+    <div class="week-row">
+      <span class="week-label">Тиждень</span>
+      <input class="week-input" type="date" id="wStart" />
+      <span class="week-sep">–</span>
+      <input class="week-input" type="date" id="wEnd" />
+    </div>
+  </div>
+
+  <!-- LinkedIn -->
+  <div class="section">
+    <div class="section-head">
+      <div class="section-title">
+        <span class="dot dot-blue"></span>
+        LinkedIn
+      </div>
+    </div>
+
+    <div class="stat-grid">
+      <div class="stat">
+        <span class="stat-name">Надіслані запити</span>
+        <input type="number" id="li-sent" placeholder="0" min="0" />
+      </div>
+      <div class="stat">
+        <span class="stat-name">Конекти</span>
+        <input type="number" id="li-conn" placeholder="0" min="0" />
+      </div>
+      <div class="stat">
+        <span class="stat-name">Повідомлень</span>
+        <input type="number" id="li-msgs" placeholder="0" min="0" />
+      </div>
+    </div>
+
+    <div class="stat-grid-2">
+      <div class="stat">
+        <span class="stat-name">Отримані відповіді</span>
+        <input type="number" id="li-replies" placeholder="0" min="0" />
+      </div>
+      <div class="stat">
+        <span class="stat-name">Зустрічі заброньовані</span>
+        <input type="number" id="li-meetings" placeholder="0" min="0" />
+      </div>
+    </div>
+
+    <div class="field">
+      <label>Нотатки</label>
+      <textarea id="li-notes" placeholder="Ключові розмови, що спрацювало..."></textarea>
+    </div>
+  </div>
+
+  <!-- Incoming Leads -->
+  <div class="section">
+    <div class="section-head">
+      <div class="section-title">
+        <span class="dot dot-green"></span>
+        Вхідні ліди
+      </div>
+    </div>
+
+    <div class="leads-bar" id="leads-bar">
+      <span class="total">Всього: 0</span>
+      <span>🔴 Гарячих: 0</span>
+      <span>🟡 Теплих: 0</span>
+      <span>🔵 Холодних: 0</span>
+    </div>
+
+    <div id="leads-list"></div>
+
+    <button class="btn-add" onclick="addLead()">+ Додати лід</button>
+
+    <div class="field">
+      <label>Загальний коментар</label>
+      <textarea id="leads-note" placeholder="Спостереження, якість лідів..."></textarea>
+    </div>
+  </div>
+
+  <!-- Exhibition -->
+  <div class="section">
+    <div class="section-head">
+      <div class="section-title">
+        <span class="dot dot-purple"></span>
+        Виставка
+      </div>
+      <div class="toggle-wrap">
+        <span class="toggle-hint">Була виставка?</span>
+        <label class="toggle">
+          <input type="checkbox" id="ex-on" onchange="toggleEx()" />
+          <span class="t-slider"></span>
+        </label>
+      </div>
+    </div>
+
+    <div class="ex-body" id="ex-body">
+      <div class="ex-divider"></div>
+
+      <div class="row-2" style="margin-bottom:14px">
+        <div class="field" style="margin:0">
+          <label>Назва події</label>
+          <input type="text" id="ex-name" placeholder="SiGMA Europe 2026" />
+        </div>
+        <div class="field" style="margin:0">
+          <label>Локація</label>
+          <input type="text" id="ex-loc" placeholder="Мальта, Валлетта" />
+        </div>
+      </div>
+
+      <div class="field">
+        <label>Дати</label>
+        <input type="text" id="ex-dates" placeholder="17–19 листопада" />
+      </div>
+
+      <div class="field">
+        <label>Що зроблено</label>
+        <textarea id="ex-done" placeholder="Участь, зустрічі, стенд..."></textarea>
+      </div>
+
+      <div class="field">
+        <label>К-сть нових контактів</label>
+        <input type="text" id="ex-count" placeholder="0" style="width:120px" />
+      </div>
+
+      <div class="field">
+        <label>Ключові контакти</label>
+        <textarea id="ex-contacts" placeholder="Ім'я, компанія..." style="min-height:64px"></textarea>
+      </div>
+
+      <div class="field">
+        <label>План фолоу-апу</label>
+        <textarea id="ex-followup" placeholder="Хто і коли потребує follow-up..."></textarea>
+      </div>
+    </div>
+  </div>
+
+  <!-- Notes -->
+  <div class="section">
+    <div class="section-head">
+      <div class="section-title">
+        <span class="dot dot-orange"></span>
+        Нотатки
+      </div>
+    </div>
+
+    <div id="notes-list"></div>
+    <button class="btn-add" onclick="addNote()">+ Додати нотатку</button>
+  </div>
+
+  <!-- Generate -->
+  <button class="btn-generate" onclick="generate()">Згенерувати звіт</button>
+
+  <!-- Output -->
+  <div class="section output" id="out-block">
+    <div class="out-head">
+      <div class="section-title">
+        <span class="dot dot-yellow"></span>
+        Готовий звіт
+      </div>
+      <button class="btn-copy" id="copy-btn" onclick="copyText()">Копіювати</button>
+    </div>
+    <pre id="out-text"></pre>
+  </div>
+
+</div>
+
+<script>
+  // Default week Mon–Fri
+  (function () {
+    const d = new Date(), day = d.getDay();
+    const mon = new Date(d); mon.setDate(d.getDate() + (day === 0 ? -6 : 1 - day));
+    const fri = new Date(mon); fri.setDate(mon.getDate() + 4);
+    const iso = x => x.toISOString().slice(0, 10);
+    document.getElementById('wStart').value = iso(mon);
+    document.getElementById('wEnd').value   = iso(fri);
+  })();
+
+  // Lead cards
+  let lid = 0;
+
+  function addLead() {
+    lid++;
+    const id = lid;
+    const wrap = document.getElementById('leads-list');
+    const el = document.createElement('div');
+    el.className = 'lead-card';
+    el.id = 'lc-' + id;
+    el.innerHTML = `
+      <div class="lead-card-top">
+        <span class="lead-idx">Лід #${id}</span>
+        <button class="btn-remove" onclick="removeLead(${id})">&times;</button>
+      </div>
+      <div class="lead-row">
+        <div class="lf">
+          <label>Компанія</label>
+          <input type="text" class="lf-company" placeholder="Назва" />
+        </div>
+        <div class="lf">
+          <label>Джерело</label>
+          <select class="lf-source">
+            <option>Форма</option>
+            <option>Реферал</option>
+            <option>LinkedIn</option>
+            <option>Telegram</option>
+            <option>Виставка</option>
+            <option>Інше</option>
+          </select>
+        </div>
+        <div class="lf">
+          <label>Температура</label>
+          <select class="lf-temp" onchange="refreshBar()">
+            <option value="hot">🔴 Гарячий</option>
+            <option value="warm">🟡 Теплий</option>
+            <option value="cold">🔵 Холодний</option>
+          </select>
+        </div>
+      </div>
+      <div class="lead-row-2">
+        <div class="lf">
+          <label>Статус</label>
+          <input type="text" class="lf-status" placeholder="Новий / Відповів..." />
+        </div>
+        <div class="lf">
+          <label>Наступний крок</label>
+          <input type="text" class="lf-next" placeholder="Що далі..." />
+        </div>
+      </div>
+    `;
+    wrap.appendChild(el);
+    refreshBar();
+  }
+
+  function removeLead(id) {
+    const el = document.getElementById('lc-' + id);
+    if (el) el.remove();
+    refreshBar();
+  }
+
+  function refreshBar() {
+    const temps = [...document.querySelectorAll('.lf-temp')];
+    let h = 0, w = 0, c = 0;
+    temps.forEach(s => { if (s.value === 'hot') h++; else if (s.value === 'warm') w++; else c++; });
+    document.getElementById('leads-bar').innerHTML = `
+      <span class="total">Всього: ${h+w+c}</span>
+      <span>🔴 Гарячих: ${h}</span>
+      <span>🟡 Теплих: ${w}</span>
+      <span>🔵 Холодних: ${c}</span>
+    `;
+  }
+
+  function getLeads() {
+    return [...document.querySelectorAll('.lead-card')].map(c => ({
+      company: c.querySelector('.lf-company').value || '—',
+      source:  c.querySelector('.lf-source').value,
+      temp:    c.querySelector('.lf-temp').value,
+      status:  c.querySelector('.lf-status').value || '—',
+      next:    c.querySelector('.lf-next').value   || '—',
+    }));
+  }
+
+  // Notes
+  let nid = 0;
+
+  function addNote() {
+    nid++;
+    const id = nid;
+    const el = document.createElement('div');
+    el.className = 'lead-card';
+    el.id = 'nc-' + id;
+    el.innerHTML = `
+      <div class="lead-card-top">
+        <span class="lead-idx">Нотатка #${id}</span>
+        <button class="btn-remove" onclick="removeNote(${id})">&times;</button>
+      </div>
+      <textarea class="note-text" placeholder="Наприклад: зібрав базу 50 gambling компаній, запускаю enrichment..." style="min-height:60px;background:white"></textarea>
+    `;
+    document.getElementById('notes-list').appendChild(el);
+  }
+
+  function removeNote(id) {
+    const el = document.getElementById('nc-' + id);
+    if (el) el.remove();
+  }
+
+  function getNotes() {
+    return [...document.querySelectorAll('.note-text')]
+      .map(t => t.value.trim())
+      .filter(Boolean);
+  }
+
+  function toggleEx() {
+    document.getElementById('ex-body').classList.toggle('open', document.getElementById('ex-on').checked);
+  }
+
+  function fmtDate(s) {
+    if (!s) return '?';
+    const [y, m, d] = s.split('-').map(Number);
+    const mo = ['січня','лютого','березня','квітня','травня','червня',
+                'липня','серпня','вересня','жовтня','листопада','грудня'];
+    return `${d} ${mo[m-1]} ${y}`;
+  }
+
+  function v(id) { return (document.getElementById(id).value || '').trim(); }
+
+  function generate() {
+    const ws = fmtDate(document.getElementById('wStart').value);
+    const we = fmtDate(document.getElementById('wEnd').value);
+
+    const sent     = v('li-sent')     || '0';
+    const conn     = v('li-conn')     || '0';
+    const msgs     = v('li-msgs')     || '0';
+    const replies  = v('li-replies')  || '0';
+    const meetings = v('li-meetings') || '0';
+    const notes    = v('li-notes');
+    const nlist    = getNotes();
+
+    const leads    = getLeads();
+    const hot      = leads.filter(l => l.temp === 'hot').length;
+    const warm     = leads.filter(l => l.temp === 'warm').length;
+    const cold     = leads.filter(l => l.temp === 'cold').length;
+    const leadsNote = v('leads-note');
+
+    const hasEx    = document.getElementById('ex-on').checked;
+    const exName   = v('ex-name');
+    const exLoc    = v('ex-loc');
+    const exDates  = v('ex-dates');
+    const exDone   = v('ex-done');
+    const exCount  = v('ex-count') || '0';
+    const exCont   = v('ex-contacts');
+    const exFu     = v('ex-followup');
+
+    const D = '─'.repeat(38);
+    const T = '═'.repeat(46);
+
+    let r = `📋 WEEKLY REPORT — ${ws} – ${we}\n${T}\n\n`;
+
+    r += `🔗 LINKEDIN\n${D}\n`;
+    r += `Надіслані запити:     ${sent}\n`;
+    r += `Конекти:             ${conn}\n`;
+    r += `Повідомлень:         ${msgs}\n`;
+    r += `Отримані відповіді:  ${replies}\n`;
+    r += `Зустрічі:            ${meetings}\n`;
+    if (notes) r += `\nНотатки:\n${notes}\n`;
+    r += '\n';
+
+    r += `📥 ВХІДНІ ЛІДИ\n${D}\n`;
+    r += `Всього: ${leads.length}  🔴 ${hot}  🟡 ${warm}  🔵 ${cold}\n`;
+    if (leads.length) {
+      r += '\n';
+      leads.forEach((l, i) => {
+        const tl = l.temp === 'hot' ? '🔴 Гарячий' : l.temp === 'warm' ? '🟡 Теплий' : '🔵 Холодний';
+        r += `${i+1}. ${l.company}  ·  ${l.source}  ·  ${tl}\n`;
+        r += `   Статус: ${l.status}\n`;
+        r += `   Далі: ${l.next}\n\n`;
+      });
+    } else { r += '\n'; }
+    if (leadsNote) r += `Коментар:\n${leadsNote}\n\n`;
+
+    if (hasEx) {
+      r += `🎪 ВИСТАВКА\n${D}\n`;
+      if (exName)  r += `Назва: ${exName}\n`;
+      if (exLoc)   r += `Локація: ${exLoc}\n`;
+      if (exDates) r += `Дати: ${exDates}\n`;
+      if (exDone)  r += `\nЩо зроблено:\n${exDone}\n`;
+      r += `\nНових контактів: ${exCount}\n`;
+      if (exCont)  r += `\nКлючові контакти:\n${exCont}\n`;
+      if (exFu)    r += `\nПлан фолоу-апу:\n${exFu}\n`;
+      r += '\n';
+    }
+
+    if (nlist.length) {
+      r += `📌 НОТАТКИ\n${D}\n`;
+      nlist.forEach((n, i) => { r += `${i+1}. ${n}\n`; });
+      r += '\n';
+    }
+
+    r += `${T}\n`;
+    r += `Згенеровано: ${new Date().toLocaleString('uk-UA')}`;
+
+    document.getElementById('out-text').textContent = r;
+    const ob = document.getElementById('out-block');
+    ob.classList.add('on');
+    setTimeout(() => ob.scrollIntoView({ behavior: 'smooth', block: 'start' }), 50);
+  }
+
+  function copyText() {
+    navigator.clipboard.writeText(document.getElementById('out-text').textContent).then(() => {
+      const b = document.getElementById('copy-btn');
+      b.textContent = '✓ Скопійовано';
+      b.classList.add('done');
+      setTimeout(() => { b.textContent = 'Копіювати'; b.classList.remove('done'); }, 2000);
+    });
+  }
+</script>
+</body>
+</html>

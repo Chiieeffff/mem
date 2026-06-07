@@ -1,0 +1,160 @@
+MOCK CALL SCENARIO — GATEWAY CRYPTO SALE
+Prospect: Operator on Softgamings platform
+Your goal: Qualify + pitch Gateway Crypto as their crypto processing solution
+=============================================================================
+
+
+BEFORE THE CALL — KNOW THIS
+-----------------------------
+- They're already running a gaming operation on Softgamings, so they have volume
+- They likely have some crypto processing already, or they've been asked about it
+  by their players and are now shopping around
+- Your angle: you know their stack (Softgamings), you know their world,
+  and you have a solution that actually fits it
+- Keep the call to 20-30 min. Qualify first, pitch second, close on next step.
+
+
+OPENING (first 2 minutes)
+--------------------------
+You: "Hey [Name], thanks for making time. So you're running on Softgamings —
+good setup. I wanted to jump on a quick call because we work with a number of
+operators in the iGaming space and I think there might be a fit here with
+Gateway Crypto. But before I go into anything, let me just ask — what's your
+current situation with crypto payments? Are you processing at all, or is this
+something you're looking to add?"
+
+[Let them talk. This tells you everything.]
+
+
+QUALIFY — LISTEN FOR THESE
+---------------------------
+Good signals:
+- "We have crypto but it's painful / expensive / unreliable"
+- "Our players ask for it but we haven't set it up yet"
+- "We're paying X% and want to reduce fees"
+- "We've had issues with withdrawals failing or being slow"
+- "Our current provider doesn't support [chain/currency]"
+
+Red flags:
+- They mention US player base as primary geo
+- Very low volumes (<$75K/month) with no clear growth path
+- They want to "just try it with no commitment" but have no real urgency
+
+
+DISCOVERY QUESTIONS (pick 2-3, don't interrogate)
+--------------------------------------------------
+- "What geos are you focused on? Where do most of your players come from?"
+- "Are you currently processing crypto or is this new for you?"
+- "What currencies do your players use most — USDT, BTC, others?"
+- "Have you run into any issues with your current provider — chain-specific
+  problems, failed withdrawals, slow settlement?"
+- "What kind of monthly volumes are we talking roughly?"
+
+
+THE PITCH — LEAD WITH THE PROBLEM THEY JUST DESCRIBED
+------------------------------------------------------
+Don't recite features. Mirror back what they told you, then connect it.
+
+If they mentioned withdrawal issues:
+  "So that's actually exactly the problem Gateway solves at the root level.
+   Most processors handle USDT on a specific chain — TRC20 or ERC20 — and when
+   liquidity runs out on that chain, withdrawals fail. It's a 4am problem.
+   Gateway is network-agnostic — it doesn't matter which chain the USDT is on,
+   it handles it automatically. No cross-chain swap fees, no manual ops,
+   no dry liquidity. For a gaming operator, that's the difference between
+   players getting paid and players charging back."
+
+If they're shopping on price:
+  "Before we talk numbers — what are you quoting right now? Because most
+   operators come to us saying 0.4%, and that's usually just the deposit fee.
+   The full-cycle cost — deposits, auto-exchanges, withdrawals with conversion —
+   is almost always higher than they think. We build pricing around the full
+   picture so there are no surprises."
+
+If they're new to crypto:
+  "Good, then you're not stuck with bad habits from another provider.
+   Gateway can get you live in under 24 hours — KYB and integration run in
+   parallel so you're not waiting around. You'd have a dedicated account manager
+   and 24/7 integration support. For a first crypto setup, that matters a lot."
+
+
+THE TRUST BUILDERS (drop 1-2 naturally, not all at once)
+---------------------------------------------------------
+- "18 months, zero merchant churn. Nobody who's started with us has left
+   for another provider. In this space, that says something."
+- "We've never been hacked. 99.9% uptime. You can't prove security until
+  something goes wrong — but nothing has."
+- "Your players can do a simplified KYC on first deposit and then transact
+  freely up to $10K after that. Frictionless for the player, clean for you."
+
+
+HANDLING COMMON OBJECTIONS
+---------------------------
+
+"We already have a crypto processor."
+→ "What's your biggest frustration with them right now?"
+  [Wait. There's always something. Then position Gateway against that specific thing.]
+
+"It sounds expensive."
+→ "What are you paying now, full cycle? Deposit, exchange, withdrawal?
+   Most operators are surprised when they add it up. Let's compare apples
+   to apples before we decide it's expensive."
+
+"We need to think about it / talk to the team."
+→ "Of course. What specifically do you need to get clarity on?
+   I can get you a one-pager on the product and we can do a quick demo —
+   usually that's enough to make a decision either way. What's your timeline?"
+
+"We're not sure about compliance / KYB process."
+→ "Totally fair question. They do practical due diligence — not just paperwork.
+   They work with high-risk operators directly, no need for storefronts or
+   workarounds. The KYB doc is one page. I can get it to you today."
+
+"What about geos — we have players from [country]?"
+→ Handle anything except USA retail-facing and China. For edge cases
+  (Russian passport holders in EU entities, etc.) — flag it but don't kill
+  the deal. Say "let me confirm that specific case with the team, it's usually
+  fine but I want to give you the right answer."
+
+
+THE CLOSE — ALWAYS CLOSE ON A NEXT STEP, NOT A DECISION
+--------------------------------------------------------
+Don't ask "do you want to sign up?" Ask for the next concrete action.
+
+Option A — They're warm:
+  "Here's what I'd suggest — let me send you the one-pager today, and let's
+   set up a 20-minute demo with the Gateway team this week. You'll see the
+   product, ask your questions, and you'll know quickly if it's the right fit.
+   Does Thursday or Friday work?"
+
+Option B — They need internal alignment:
+  "Makes sense. What I can do is send you the one-pager and a quick summary
+   of pricing so you have something concrete to share with your team.
+   Who else needs to be in the room for a decision like this?"
+
+Option C — They're ready now:
+  "Perfect. Here's how it works — I'll intro you to the Gateway team on
+   Telegram. You send them your business type, geos, and what you need.
+   They pre-approve quickly and then set up a group to handle everything:
+   KYB, integration, pricing. You could be live inside a week."
+
+
+WHAT TO SEND AFTER THE CALL
+-----------------------------
+- Gateway Crypto one-pager (get from Irwin/Roman)
+- Pricing framework (send as a message, not a PDF)
+- Your Telegram contact or intro thread
+- Short follow-up note: what you discussed, what the next step is, by when
+
+
+CALL SUMMARY TEMPLATE (for your notes after)
+---------------------------------------------
+Prospect name:
+Company / platform:
+Current crypto setup:
+Main pain point:
+Geos:
+Monthly volume (approx):
+Red flags (if any):
+Next step agreed:
+Follow-up date:
