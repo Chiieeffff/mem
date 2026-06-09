@@ -32,29 +32,39 @@ python tools/append_to_sheet.py --read-existing
 
 ---
 
-### Step 2 — Run news searches
+### Step 2 — Run news searches with cascading time window
 
-Run the following 9 queries. **Restrict results to the past 7 days only** — ignore any article older than 7 days. Use `--max-results 5` per query.
+Use a cascading window approach:
+1. **First pass — last 7 days:** Run all 9 queries restricted to the past 7 days
+2. **Check:** After Step 3 deduplication, if fewer than 5 new items survive, do a **second pass — last 30 days** (same queries, wider window, skip URLs already collected in first pass)
+3. **If still fewer than 5 new items:** Do a **third pass — last 6 months** (same queries, skip all URLs already collected)
+4. Stop expanding once you have 5+ new items, or once all three windows are exhausted
+
+The goal is always to have a meaningful brief. Prefer fresh news, but don't leave the sheet empty just because the last 7 days were quiet.
 
 **Local:**
 ```
-python tools/search_web.py --max-results 5 --days 7 --queries '[
-  "iGaming B2B platform new launch site:igamingbusiness.com OR site:gambling.com OR site:casinobeats.com",
-  "iGaming platform funding acquisition deal",
-  "Forex broker CRM platform launch",
-  "online casino sportsbook crypto payment integration",
-  "iGaming operator license LATAM OR Africa OR Southeast Asia OR Brazil OR Nigeria OR Philippines",
-  "online casino sportsbook new market launch expansion",
-  "crypto payment processor gambling partnership deal",
-  "online casino payment chargeback problem OR payment provider switch",
-  "stablecoin USDT B2B iGaming payments"
-]'
+python tools/search_web.py --max-results 5 --days 7 --queries '[...]'
+# then retry with --days 30, then --days 180 if needed
 ```
 
 **Remote (WebSearch tool):**
-Run each query with an explicit recency instruction. Prefix each query with: `news last 7 days:` — for example: `news last 7 days: iGaming platform new launch 2026`
+- First pass: prefix queries with `news last 7 days:`
+- Second pass (if needed): prefix queries with `news last 30 days:`
+- Third pass (if needed): prefix queries with `news last 6 months:`
 
-Run all 9 searches. Collect every result with its URL, title, snippet, and publish date where visible.
+Queries (same for all passes):
+1. `iGaming B2B platform new launch site:igamingbusiness.com OR site:casinobeats.com`
+2. `iGaming platform funding round OR acquisition deal`
+3. `Forex broker OR CRM platform launch OR new product`
+4. `online casino OR sportsbook crypto payment integration`
+5. `iGaming operator license LATAM OR Africa OR Southeast Asia OR Brazil OR Nigeria OR Philippines`
+6. `online casino OR sportsbook new market launch expansion`
+7. `crypto payment processor gambling partnership deal`
+8. `online casino payment chargeback problem OR payment provider switch`
+9. `stablecoin USDT B2B iGaming OR Forex payments`
+
+Collect every result with its URL, title, snippet, and publish date where visible.
 
 ---
 
