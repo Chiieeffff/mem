@@ -1,161 +1,184 @@
 # Daily Sales Intelligence Brief
 
 ## Objective
-Surface lead signals and partnership opportunities for GatewayCrypto across iGaming, Forex, and crypto payments. Append findings to the master Google Sheet so Roman reviews them each morning.
+Surface NEW lead signals and partnership opportunities for GatewayCrypto across iGaming, Forex, and crypto payments. Append only genuinely new findings to the master Google Sheet — never repeat a company or story already in the sheet.
 
 ## Inputs
 - None required — all queries are predefined below
 - Current date (use system date)
 
 ## Output
-- Rows appended to `GatewayCrypto — Daily Sales Intel` Google Sheet (GOOGLE_SHEET_ID in .env)
+- New rows appended to the master `GatewayCrypto — Daily Sales Intel` Google Sheet
 - Sheet URL printed at the end
 
 ---
 
 ## Execution Steps
 
-### Step 1 — Run news searches
+### Step 1 — Load seen history (CRITICAL — do this before searching)
 
-Run `tools/search_web.py` with the following query array. Use `--max-results 5` per query.
+**Remote environment (Google Drive MCP):**
+Use the Google Drive MCP to search for the file named `GatewayCrypto — Daily Sales Intel` and read its full contents. Extract two lists:
+- `seen_urls`: all values in the "Source URL" column
+- `seen_companies`: all values in the "Company" column (lowercased)
 
+You will use these to filter out duplicates in Step 3. If the sheet doesn't exist yet, both lists are empty.
+
+**Local environment:**
 ```
-python tools/search_web.py --max-results 5 --queries '[
-  "iGaming B2B platform launch OR new operator 2026",
-  "iGaming platform funding round OR acquisition 2026",
-  "Forex CRM OR trading platform launch OR new broker 2026",
-  "iGaming crypto payments integration announcement 2026",
-  "iGaming licensing news LATAM OR Africa OR Southeast Asia 2026",
-  "B2C online casino OR sportsbook expansion new market 2026",
-  "crypto payment processor iGaming partnership 2026",
-  "iGaming platform payment problems OR chargeback issues 2026",
-  "fintech stablecoin B2B payments partnership iGaming 2026"
+python tools/append_to_sheet.py --read-existing
+```
+(or read the sheet directly via the Sheets API to extract Source URL and Company columns)
+
+---
+
+### Step 2 — Run news searches
+
+Run the following 9 queries. **Restrict results to the past 7 days only** — ignore any article older than 7 days. Use `--max-results 5` per query.
+
+**Local:**
+```
+python tools/search_web.py --max-results 5 --days 7 --queries '[
+  "iGaming B2B platform new launch site:igamingbusiness.com OR site:gambling.com OR site:casinobeats.com",
+  "iGaming platform funding acquisition deal",
+  "Forex broker CRM platform launch",
+  "online casino sportsbook crypto payment integration",
+  "iGaming operator license LATAM OR Africa OR Southeast Asia OR Brazil OR Nigeria OR Philippines",
+  "online casino sportsbook new market launch expansion",
+  "crypto payment processor gambling partnership deal",
+  "online casino payment chargeback problem OR payment provider switch",
+  "stablecoin USDT B2B iGaming payments"
 ]'
 ```
 
-### Step 2 — Synthesize and score
+**Remote (WebSearch tool):**
+Run each query with an explicit recency instruction. Prefix each query with: `news last 7 days:` — for example: `news last 7 days: iGaming platform new launch 2026`
 
-Review all results. For each distinct news item, evaluate:
+Run all 9 searches. Collect every result with its URL, title, snippet, and publish date where visible.
+
+---
+
+### Step 3 — Deduplicate
+
+For each result collected in Step 2:
+- **Skip** if its URL is in `seen_urls`
+- **Skip** if the company name (lowercased) is in `seen_companies` AND the event/trigger is the same story (same funding round, same launch, same announcement)
+- **Skip** generic articles with no named company
+- **Skip** GatewayCrypto itself
+
+Only what survives this filter moves forward.
+
+---
+
+### Step 4 — Synthesize and score surviving items
+
+For each surviving item, assign:
 
 **Category** (pick one):
-- `Lead Signal` — a company that matches GatewayCrypto's ICP has a trigger event
-- `Partnership Intel` — a platform, aggregator, or network that could integrate or co-sell with GatewayCrypto
+- `Lead Signal` — a company matching GatewayCrypto's ICP has a trigger event
+- `Partnership Intel` — a platform/aggregator that could integrate or co-sell with GatewayCrypto
 - `Competitor Move` — a competing crypto payment processor wins a deal, launches a feature, or enters a new market
 - `Market Trend` — regulatory, macro, or industry shift relevant to the sales narrative
 
-**ICP reminder:**
+**GatewayCrypto ICP:**
 - Sales targets: B2C operators (online casino, sportsbook), iGaming platforms (B2B software providers), Forex brokers
-- Partnership targets: iGaming B2B platforms (provide software to operators), Forex CRM/platform providers
+- Partnership targets: iGaming B2B platforms, Forex CRM/platform providers
+- Product: crypto payment processing (USDT/USDC multichain, 300+ assets), fiat off-ramp (EUR via SEPA/SWIFT), zero chargebacks, API + Backoffice
 
 **Lead Potential:**
 - `HIGH` — company fits ICP AND has a clear trigger: new launch, funding round, geo expansion, licensing, or explicit payment pain signal
 - `MEDIUM` — fits ICP but trigger is weak or indirect
 - `LOW` — loosely related; monitor only
 
-**Filter rules:**
-- Skip duplicate news items (same company, same event)
-- Skip generic market trend articles with no named company
-- Skip GatewayCrypto itself
+If zero new items survive after deduplication, report "No new items today — all results already in sheet" and stop. Do not write anything to the sheet.
 
-### Step 3 — Deep research on HIGH leads
+---
 
-For each HIGH-potential company (cap at 3 per run to stay within Tavily limits):
-1. Run `tools/scrape_website.py --url [company homepage]`
-2. Look for: existing payment processor mentioned, crypto support, scale signals (client count, markets), tech stack hints
-3. Add any relevant findings to the "Why It Matters" field for that row
+### Step 5 — Deep research on HIGH leads (cap at 3)
 
-```
-python tools/scrape_website.py --url https://example.com
-```
+For each HIGH-potential company:
 
-### Step 4 — Build row data
+**Local:** `python tools/scrape_website.py --url [company homepage]`
 
-Construct a JSON array of rows. Each row must have these exact keys:
+**Remote:** Use WebFetch on their homepage.
+
+Look for: existing payment processor mentioned, crypto support, scale signals (client count, markets), tech stack hints. Add findings to "Why It Matters".
+
+---
+
+### Step 6 — Build row data
+
+Construct a JSON array of rows. Each row:
 
 ```json
-[
-  {
-    "Date": "2026-06-07",
-    "Category": "Lead Signal",
-    "Company": "Company Name",
-    "Headline": "One sentence describing the news event",
-    "Lead Potential": "HIGH",
-    "Why It Matters": "Why this is relevant to GatewayCrypto in 1-2 sentences. Be specific — mention the trigger, their likely payment gap, and how GWC fits.",
-    "Suggested Action": "Specific next step. Examples: 'Run linkedin_outreach workflow for [Name, Title]', 'Monitor — revisit in 2 weeks', 'Research decision-maker on LinkedIn'",
-    "Status": "",
-    "Source URL": "https://..."
-  }
-]
+{
+  "Date": "2026-06-08",
+  "Category": "Lead Signal",
+  "Company": "Company Name",
+  "Headline": "One sentence describing the news event",
+  "Lead Potential": "HIGH",
+  "Why It Matters": "1-2 sentences — mention the trigger, their likely payment gap, and how GWC fits. Be specific.",
+  "Suggested Action": "Run linkedin_outreach workflow for [Company]",
+  "Status": "",
+  "Source URL": "https://..."
+}
 ```
 
 **Suggested Action guidance:**
-- HIGH leads: `Run linkedin_outreach workflow` or `Run batch_lead_sourcing for [Company]`
-- MEDIUM leads: `Monitor — check again next week` or `Research decision-maker`
+- HIGH: `Run linkedin_outreach workflow for [Company]` or `Run batch_lead_sourcing for [Company]`
+- MEDIUM: `Monitor — check again next week` or `Research decision-maker`
 - Competitor Move: `Note competitive context — update pitch if needed`
 - Market Trend: `Consider referencing in outreach for [geo/topic]`
 
-### Step 5 — Append to Google Sheet
+---
 
+### Step 7 — Write to master sheet
+
+**Remote (Google Drive MCP):**
+Find the existing `GatewayCrypto — Daily Sales Intel` sheet and append the new rows to it. Do NOT create a new sheet each day — always append to the same master sheet. If the sheet doesn't exist, create it once with the header row:
+`Date | Category | Company | Headline | Lead Potential | Why It Matters | Suggested Action | Status | Source URL`
+
+**Local:**
 ```
 python tools/append_to_sheet.py --rows '[... your JSON array ...]'
 ```
 
-The tool reads GOOGLE_SHEET_ID from .env. If the sheet is empty, it creates the header row automatically.
+---
 
-On success, it prints: `{"appended": N, "sheet_url": "https://docs.google.com/spreadsheets/d/..."}`
+### Step 8 — Report
 
-### Step 6 — Report
-
-Print a brief summary:
-- Total items found
+Print:
+- Total new items added today
 - HIGH / MEDIUM / LOW counts
-- Link to the sheet
+- Items skipped as duplicates
+- Link to the master sheet
 
 ---
 
 ## Edge Cases
 
-**No results for a query:** Skip it, continue with remaining queries. Note in summary if more than 3 queries returned empty.
+**No new results after dedup:** Report "0 new items — all results already seen" and return the sheet URL. Do not write anything.
 
-**Tavily rate limit error:** Stop remaining queries, process what was collected, append partial results. Note in summary that results are partial.
+**Search returns only old articles:** Note in summary. Try adding the current month/year to one retry search per category.
 
-**append_to_sheet.py auth error (first run):** Browser will open for OAuth consent. Complete it once — subsequent runs are non-interactive. If running headlessly, set up credentials.json first (see Setup below).
+**Sheet read fails:** Proceed without history (treat seen lists as empty), but note in summary that dedup was skipped.
 
-**Duplicate detection:** Before appending, check the Headline and Company against today's existing rows if any were already written today (rare — but if workflow runs twice in one day, avoid duplicates by checking the source URL).
+**Tavily rate limit (local):** Stop, process what was collected, append partial results, note partial run in summary.
 
 ---
 
-## Setup (one-time)
+## Setup (one-time, local only)
 
-1. **Create the Google Sheet:**
-   - Go to Google Sheets and create a new blank sheet
-   - Name it `GatewayCrypto — Daily Sales Intel`
-   - Copy the sheet ID from the URL: `docs.google.com/spreadsheets/d/[THIS_PART]/edit`
-   - Add it to `.env`: `GOOGLE_SHEET_ID=your_sheet_id_here`
-
-2. **Enable Google Sheets API:**
-   - Go to Google Cloud Console → APIs & Services → Enable APIs
-   - Enable "Google Sheets API"
-   - Create OAuth 2.0 credentials (Desktop App type)
-   - Download as `credentials.json` and place in repo root
-
-3. **First auth run:**
-   - Run: `python tools/append_to_sheet.py --rows '[{"Date":"test"}]' --sheet-id YOUR_ID`
-   - Browser opens → sign in → grant access → `token.json` is saved
-   - Delete the test row from the sheet
-
-4. **Install dependencies:**
-   ```
-   pip install -r requirements.txt
-   ```
+1. Create a blank Google Sheet named `GatewayCrypto — Daily Sales Intel`
+2. Copy the sheet ID from the URL and add to `.env`: `GOOGLE_SHEET_ID=your_id`
+3. Enable Google Sheets API in Google Cloud Console, download `credentials.json`
+4. Run first auth: `python tools/append_to_sheet.py --rows '[{"Date":"test"}]'` → browser opens → approve → delete test row
+5. `pip install -r requirements.txt`
 
 ---
 
 ## Scheduling
 
-**Automatic daily run (via /schedule):**
-Prompt: `Read workflows/daily_sales_brief.md and execute it fully.`
-Time: 7:00 AM local
+**Automatic daily run:** 7:00 AM Nicosia time (4:00 AM UTC) via routine `trig_0152PZyF8TyZLjAYgJGPTtWh`
 
-**Manual trigger:**
-From Claude.ai or Claude Code: `"Run the daily sales brief"` or `"Read workflows/daily_sales_brief.md and execute it."`
+**Manual trigger:** `"Run the daily sales brief"` or `"Read workflows/daily_sales_brief.md and execute it."`
