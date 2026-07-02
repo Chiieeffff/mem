@@ -18,9 +18,17 @@ Surface NEW lead signals and partnership opportunities for GatewayCrypto across 
 ### Step 1 — Load seen history (CRITICAL — do this before searching)
 
 **Remote environment (Google Drive MCP):**
-Use the Google Drive MCP to search for the file named `GatewayCrypto — Daily Sales Intel` and read its full contents. Extract two lists:
+Read the master sheet **by its hardcoded ID** (do NOT rely on name-search alone — name search may return daily additions sheets):
+
+```
+mcp__Google-Drive__read_file_content(fileId="1ukd5R6j3APImr6E4ZgJznme0dQdEXVySDgOQ98VtL1Y")
+```
+
+Extract two lists:
 - `seen_urls`: all values in the "Source URL" column
 - `seen_companies`: all values in the "Company" column (lowercased)
+
+**Also read any pending `daily_briefs/*.json` files from the repo.** These are rows that were found on a previous run but could not be appended to the master sheet due to the Google Drive MCP append limitation (see Step 7). Add their "Source URL" and "Company" values to `seen_urls` and `seen_companies` before deduplication. Delete a pending file from git only after its rows have been manually appended to the master sheet.
 
 You will use these to filter out duplicates in Step 3. If the sheet doesn't exist yet, both lists are empty.
 
@@ -144,14 +152,21 @@ Construct a JSON array of rows. Each row:
 
 ### Step 7 — Write to master sheet
 
-**Remote (Google Drive MCP):**
-Find the existing `GatewayCrypto — Daily Sales Intel` sheet and append the new rows to it. Do NOT create a new sheet each day — always append to the same master sheet. If the sheet doesn't exist, create it once with the header row:
-`Date | Category | Company | Headline | Lead Potential | Why It Matters | Suggested Action | Status | Source URL`
-
-**Local:**
+**Local (preferred — use this whenever credentials are available):**
 ```
 python tools/append_to_sheet.py --rows '[... your JSON array ...]'
 ```
+This requires `credentials.json` + `token.json` in the repo root. If these exist, use this path — it is reliable and appends directly to the master sheet ID in `.env`.
+
+**Remote (Google Drive MCP) — CONSTRAINT:**
+The Google Drive MCP does NOT have an append or update tool. `mcp__Google-Drive__create_file` creates new files only. To work around this:
+
+1. Create a new Google Sheet named `GatewayCrypto — Daily Sales Intel (YYYY-MM-DD additions)` with just today's new rows + header using `mcp__Google-Drive__create_file` with `contentMimeType: "text/csv"`.
+2. Save today's rows as `daily_briefs/YYYY-MM-DD.json` in the repo and commit + push.
+3. Note in the notification: master sheet was NOT updated — user must manually append the rows. Provide the additions sheet URL and the `python tools/append_to_sheet.py --rows '...'` command with the JSON.
+
+Master sheet ID (hardcoded, do NOT change): `1ukd5R6j3APImr6E4ZgJznme0dQdEXVySDgOQ98VtL1Y`
+Master sheet URL: `https://docs.google.com/spreadsheets/d/1ukd5R6j3APImr6E4ZgJznme0dQdEXVySDgOQ98VtL1Y/edit`
 
 ---
 

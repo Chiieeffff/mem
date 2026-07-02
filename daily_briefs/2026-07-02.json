@@ -1,0 +1,57 @@
+[
+  {
+    "Date": "2026-07-02",
+    "Category": "Lead Signal",
+    "Company": "Momentum Group / Fanatics UAE JV",
+    "Headline": "Fanatics and Momentum Group form UAE commercial gaming joint venture covering lottery, iGaming, sportsbook, and content websites under GCGRA approval (June 29)",
+    "Lead Potential": "HIGH",
+    "Why It Matters": "Brand-new jointly-owned gaming entity in the UAE — a market where Islamic banking policies cause banks to block gambling transactions, making crypto the unblockable alternative. No named crypto payment processor identified for Play971 or the new JV sportsbook. GWC's USDT multichain deposits and zero-chargeback model is a direct fit for UAE operators serving international players; EUR SEPA off-ramp handles withdrawals to European customers.",
+    "Suggested Action": "Run linkedin_outreach workflow for Momentum Group / Fanatics UAE JV — target Head of Payments or digital operations",
+    "Status": "",
+    "Source URL": "https://eegaming.org/latest-news/2026/06/29/141705/momentum-forms-uae-commercial-gaming-jv-with-fanatics-after-gcgra-approval/"
+  },
+  {
+    "Date": "2026-07-02",
+    "Category": "Lead Signal",
+    "Company": "DraftKings",
+    "Headline": "DraftKings launches DKeX, its own CFTC-licensed prediction market exchange (July 1), dropping Crypto.com and CME Group as third-party partners — $11.3B annualized weekly trading volume at launch",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "By internalising its exchange, DraftKings is actively re-evaluating its full infrastructure stack. DraftKings Predictions operates in 18 US states with international growth aspirations; GWC's USDT/USDC multichain deposits and zero-chargeback architecture would reduce friction for international prediction market users underserved by US-only payment rails.",
+    "Suggested Action": "Monitor — research DraftKings international payments or product leadership for prediction markets payment infrastructure discussion",
+    "Status": "",
+    "Source URL": "https://bettorsinsider.com/news/2026/07/01/draftkings-launches-dkex-its-own-prediction-market-exchange-posting-11-3-billion-in-weekly-trading-volume/"
+  },
+  {
+    "Date": "2026-07-02",
+    "Category": "Lead Signal",
+    "Company": "Betfred",
+    "Headline": "Betfred (Petfre Gibraltar Ltd) agrees £900K UKGC settlement for safer gambling failings (June 30) — second UKGC action in six months following £825K December 2025 retail penalty",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Major UK B2C operator under active UKGC scrutiny, forcing a compliance and tech stack review. Operators facing regulatory pressure often accelerate payment infrastructure upgrades; GWC's zero-chargeback model reduces high-risk payment flags that attract regulator attention, while the API + Backoffice stack provides the transaction-level audit trail Betfred now needs to satisfy UKGC.",
+    "Suggested Action": "Monitor — research Betfred payments or compliance technology team; check again next week after settlement dust settles",
+    "Status": "",
+    "Source URL": "https://sbcnews.co.uk/sportsbook/2026/06/30/betfred-asserts-plan-in-action-after-900k-gambling-commission-settlement/"
+  },
+  {
+    "Date": "2026-07-02",
+    "Category": "Partnership Intel",
+    "Company": "GiG (Gaming Innovation Group)",
+    "Headline": "GiG Software receives AGLC technology provider approval for Alberta's July 13 regulated iGaming launch, with operator LuckyDays opening pre-registration June 26 — one of the first B2B platforms licensed in Canada's newest market",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "GiG is a B2B iGaming platform provider powering LuckyDays across multiple regulated markets. LuckyDays accepts BTC/ETH/SOL/BNB but explicitly not USDT — a direct gap for GWC's USDT/USDC multichain processing and EUR SEPA fiat off-ramp. A single GiG platform-level integration would extend USDT deposit capability to LuckyDays and all other operators GiG onboards in Canada and globally, amplifying reach through one B2B agreement ahead of competitors establishing exclusivity.",
+    "Suggested Action": "Research decision-maker at GiG Software — target BD or partnerships team for B2B payment rail integration discussion; also consider direct outreach to LuckyDays payments team before July 13 go-live",
+    "Status": "",
+    "Source URL": "https://www.gig.com/news/gig-strengthens-north-american-footprint-as-luckydays-prepares-for-entry-into-albertas-regulated-igaming-market/"
+  },
+  {
+    "Date": "2026-07-02",
+    "Category": "Lead Signal",
+    "Company": "Super Group (Betway / Jackpot City)",
+    "Headline": "Super Group confirms H2 2026 Namibia launch (licences secured, product certification underway) while simultaneously entering Alberta July 13 with 6 brands — expanding across two continents simultaneously",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Super Group's CEO publicly stated payment processing fees run 3-6% of deposits and launched their own ZAR stablecoin to bypass SA bank fees — board-level commitment to cutting payment costs via crypto. Their Namibia entry and 6-brand Alberta launch both involve markets where ZAR Supercoin cannot be deployed, creating immediate demand for a USDT/USDC multichain processor with EUR SEPA off-ramp. No GWC-competitive crypto payment processor identified for Super Group's non-SA markets.",
+    "Suggested Action": "Research decision-maker at Super Group — target Head of Payments or CFO referencing Namibia launch and Alberta go-live as the payment stack evaluation windows",
+    "Status": "",
+    "Source URL": "https://igamingbusiness.com/strategy/super-group-africa-growth-story-continues-namibia-next-target/"
+  }
+]
