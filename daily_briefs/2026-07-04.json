@@ -1,0 +1,57 @@
+[
+  {
+    "Date": "2026-07-02",
+    "Category": "Competitor Move",
+    "Company": "RYKI",
+    "Headline": "RYKI launches iGaming-dedicated service line combining stablecoin payment rails, same-day USD/EUR settlement, and 150+ currency treasury management for casino operators and platforms — July 2, 2026",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "RYKI enters GWC's core iGaming + stablecoin-fiat settlement segment as a BVI-VASP registered competitor targeting casinos, platforms, and suppliers with a single-pathway crypto-to-fiat product. GWC differentiators: 300+ asset USDT/USDC multichain depth, dedicated iGaming backoffice UI, EUR SEPA/SWIFT off-ramp, and live operator track record vs RYKI's newly launched compliance-first BVI-registered layer with no stated operator wins.",
+    "Suggested Action": "Note competitive context — update GWC pitch to contrast 300+ asset multichain, iGaming backoffice UI, and live operator base vs RYKI's new BVI-VASP crypto-fiat payment layer",
+    "Status": "",
+    "Source URL": "https://igamingbusiness.com/tech-innovation/payments/ryki-future-proof-payments/"
+  },
+  {
+    "Date": "2026-06-28",
+    "Category": "Lead Signal",
+    "Company": "MultiFi",
+    "Headline": "New Dubai-based multi-asset CFDs broker MultiFi goes live backed by Tyrus Capital (Monaco PE) under Mauritius license with no existing payment infrastructure — June 28, 2026",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "MultiFi is a brand-new broker with zero legacy payment contracts — the cleanest window to pitch GWC before any processor is selected. Dubai-based with Mauritius offshore license means its international client acquisition focuses on LATAM, Asia, and Middle East where USDT deposits are dominant and card payment friction is highest; GWC's USDT/USDC multichain deposits and EUR SEPA/SWIFT off-ramp are the natural fit.",
+    "Suggested Action": "Research decision-maker at MultiFi — target co-founder Rawad Dagher or Elie Abou Nader directly for crypto payment infrastructure pitch before incumbent processors establish a relationship at launch",
+    "Status": "",
+    "Source URL": "https://fxnewsgroup.com/forex-news/retail-forex/exclusive-cfds-broker-multifi-goes-live-backed-by-tyrus-capital/"
+  },
+  {
+    "Date": "2026-06-18",
+    "Category": "Partnership Intel",
+    "Company": "Greentube",
+    "Headline": "Greentube (NOVOMATIC's Digital Gaming and Entertainment Division) integrates Altenar's sportsbook into its B2B platform, expanding beyond casino content into live sports betting for operators across 30+ regulated markets — June 18, 2026",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Greentube is NOVOMATIC's digital arm supplying casino content and platform services to operators across 30+ regulated markets globally. Integrating Altenar's sportsbook widens payment infrastructure requirements across Greentube's operator client base, and no crypto payment processor is identified in Greentube's platform stack. A GWC integration at the Greentube B2B level would distribute USDT deposit and EUR fiat off-ramp capability across their entire operator network through one partnership — the same platform-multiplier logic as EveryMatrix and K36 already in this sheet.",
+    "Suggested Action": "Research decision-maker at Greentube — target VP Partnerships or Head of Platform Integration for B2B crypto payment rail integration discussion around their sportsbook expansion",
+    "Status": "",
+    "Source URL": "https://eegaming.org/latest-news/2026/06/18/141138/altenar-and-greentube-announce-strategic-sportsbook-partnership/"
+  },
+  {
+    "Date": "2026-07-03",
+    "Category": "Partnership Intel",
+    "Company": "QTech",
+    "Headline": "QTech signs content distribution agreement with InOut Games to deploy casino titles to operators across emerging markets (LATAM, Asia, Africa) via its aggregation platform — July 3, 2026",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "QTech is one of the leading B2B iGaming aggregators specifically focused on emerging markets — exactly GWC's named growth geos where USDT adoption is highest and card payment friction is greatest. A co-sell or payment API integration with QTech would put GWC's USDT multichain deposits and EUR fiat off-ramp in front of every operator QTech onboards in LATAM, Africa, and Asia through one partnership, leveraging QTech's distribution reach — analogous to the K36 and Comtrade Gaming platform-multiplier opportunities already tracked.",
+    "Suggested Action": "Research decision-maker at QTech — target BD or partnerships team for a payment co-sell or API integration within their emerging-markets operator distribution network",
+    "Status": "",
+    "Source URL": "https://eegaming.org/latest-news/2026/07/03/142005/qtech-signs-inout-games-distribution-deal-for-emerging-markets/"
+  },
+  {
+    "Date": "2026-06-16",
+    "Category": "Lead Signal",
+    "Company": "Betinia",
+    "Headline": "Betinia Casino (Soft2Bet's flagship US brand) launches in New Jersey under NJDGE license via Caesars Entertainment market access — Soft2Bet's first regulated US iGaming brand go-live, with multi-state expansion planned",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Betinia is a newly-live B2C casino with no identified crypto payment processor in its US stack — the cleanest entry point for a US payment relationship before any incumbent is locked in. NJ players skew younger and digital-native, making USDT/USDC deposits a customer acquisition differentiator; Soft2Bet's confirmed plan to expand to additional US states means a Betinia NJ crypto rail integration today could extend across their multi-state US rollout, amplifying one partnership.",
+    "Suggested Action": "Research decision-maker at Betinia / Soft2Bet US — target VP Payments or Head of Product for the NJ entity to pitch USDT multichain deposits before a US payment processor contract is signed",
+    "Status": "",
+    "Source URL": "https://readwrite.com/soft2bet-prepares-new-jersey-igaming-launch/"
+  }
+]
