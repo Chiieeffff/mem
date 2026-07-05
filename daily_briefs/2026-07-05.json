@@ -1,0 +1,57 @@
+[
+  {
+    "Date": "2026-07-03",
+    "Category": "Market Trend",
+    "Company": "ESMA (EU Prediction Markets Binary Options Ruling)",
+    "Headline": "ESMA warns prediction market event contracts are banned binary options for EU retail investors under MiFID II — effective immediately with no grace period, affecting platforms like Robinhood, Plus500, and Leverate-powered brokers (July 3, 2026)",
+    "Lead Potential": "HIGH",
+    "Why It Matters": "ESMA's live ruling means every EU-licensed prediction market platform must immediately restructure or halt retail offerings — no grace period. Combined with the July 1 MiCA enforcement already in the sheet, EU Forex brokers with prediction market exposure are simultaneously scrambling for both product compliance and payment infrastructure. GWC's USDT/USDC multichain rails for non-EU markets are the ready-to-deploy solution: outreach framing 'your EU clients can't access prediction markets legally, but your LatAm, Asia, and Middle East clients still can — here's how to fund those deposits compliantly via GWC' is directly actionable this week.",
+    "Suggested Action": "Urgent outreach to EU Forex brokers with prediction market exposure — use ESMA ruling as the pivot to GWC's non-EU USDT/USDC rails as the compliant infrastructure for growing prediction markets in permissive geos",
+    "Status": "",
+    "Source URL": "https://www.financemagnates.com/forex/whats-in-a-name-esma-says-prediction-markets-are-still-binary-options/"
+  },
+  {
+    "Date": "2026-06-29",
+    "Category": "Lead Signal",
+    "Company": "Plus500",
+    "Headline": "Plus500 (LSE: PLUS) launches CFTC-regulated sports event contracts on its US prediction markets platform via Kalshi — covering NFL, NBA, MLB — expanding beyond economic and financial event contracts already live (June 29, 2026)",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Plus500 is a LSE-listed global Forex/CFD broker with 400,000+ active clients in 50+ countries now aggressively scaling its US prediction markets product; its international retail clients trading event contracts globally will increasingly want USDT deposits as the asset class grows. Plus500's US prediction markets run on USD fiat rails only — no crypto deposit option identified for the global base. GWC's USDT/USDC multichain deposits and EUR SEPA/SWIFT fiat off-ramp directly address the international payment friction for Plus500's growing non-US prediction market audience.",
+    "Suggested Action": "Research decision-maker at Plus500 — target Head of Payments or Product for international prediction markets expansion; frame GWC as the USDT deposit infrastructure for non-US clients",
+    "Status": "",
+    "Source URL": "https://www.financemagnates.com/forex/world-cup-impact-plus500-goes-long-on-prediction-markets-with-sports-contracts/"
+  },
+  {
+    "Date": "2026-07-02",
+    "Category": "Market Trend",
+    "Company": "Binance / BlockShoals (Philippines SEC Sandbox)",
+    "Headline": "Binance officially re-enters the Philippines through BlockShoals Technologies' SEC regulatory sandbox approval — 90-day integration phase before retail user onboarding begins (July 2, 2026)",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Binance's regulated re-entry institutionalizes crypto in the Philippines under formal SEC oversight — one of SE Asia's fastest-growing iGaming markets and a territory with documented card processing limitations for gaming operators. As Philippines crypto adoption normalises, PAGCOR-licensed iGaming operators will face rising player demand for USDT deposits. GWC's USDT multichain deposits and EUR SEPA/SWIFT fiat off-ramp are the B2B infrastructure for Philippines operators to capitalise on this demand — operators already tracked (IEC/DigiPlus, TGXI in the sheet) should be revisited with an updated Philippines crypto-demand narrative.",
+    "Suggested Action": "Consider referencing Binance Philippines SEC sandbox legitimacy in outreach to Philippines-licensed iGaming operators — escalate IEC/DigiPlus (already in sheet) with updated narrative; identify additional PAGCOR-licensed operators without named crypto processor",
+    "Status": "",
+    "Source URL": "https://www.financemagnates.com/cryptocurrency/binance-re-enters-philippines-as-regulator-clears-blockshoals-sandbox/"
+  },
+  {
+    "Date": "2026-07-01",
+    "Category": "Competitor Move",
+    "Company": "BetConstruct AI",
+    "Headline": "BetConstruct AI showcases turnkey crypto-enabled B2B iGaming platform at iGB L!VE London with FIFA prediction market integration via ADI Predictstreet — targeting LatAm and Africa operator launches with sub-hour go-live offers and Cup Final discounts (July 1–2, 2026)",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "BetConstruct AI is positioning as an all-in-one B2B iGaming platform with built-in crypto capability (BetChain AI), prediction markets, and FIFA-official streaming rights — specifically targeting operator launches in LatAm and Africa with aggressive pricing. This directly competes with GWC in the same geos. GWC differentiators: independent payment infrastructure working with any platform (not locked to BetConstruct ecosystem), 300+ asset USDT/USDC multichain depth, EUR SEPA/SWIFT fiat off-ramp that BetConstruct's platform-embedded crypto layer does not offer, and institutional-grade B2B settlement vs a platform-bundled crypto solution.",
+    "Suggested Action": "Note competitive context — update pitch for LatAm/Africa operator outreach to contrast GWC's platform-agnostic infrastructure and EUR fiat off-ramp vs BetConstruct's platform-locked crypto layer; use against any prospect considering BetConstruct turnkey",
+    "Status": "",
+    "Source URL": "https://igamingbusiness.com/company-news/betconstruct-ai-heading-to-igb-lve-2026/"
+  },
+  {
+    "Date": "2026-06-27",
+    "Category": "Lead Signal",
+    "Company": "Admirals (INFINOX acquisition target)",
+    "Headline": "INFINOX is in advanced talks to acquire global Forex/CFD broker Admirals — its second major broker acquisition after Skilling; Admirals is simultaneously divesting its global presence and closing operations in select markets (reported late June 2026)",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Admirals is a major global Forex/CFD broker serving retail traders across Europe, Middle East, and Asia-Pacific — a classic payment-stack review moment during M&A-driven vendor integration. With Admirals' owners actively divesting globally and INFINOX acquiring, the combined entity faces full technology and payment vendor consolidation. No crypto payment processor is identified in Admirals' payment infrastructure. GWC's USDT/USDC multichain deposits and EUR SEPA/SWIFT fiat off-ramp serve Admirals' international client base in high-crypto-adoption markets (MENA, SE Asia) where card payment friction is highest — and must be pitched before acquisition close freezes new vendor decisions.",
+    "Suggested Action": "Research decision-maker at Admirals — target Head of Payments or CFO urgently before INFINOX acquisition closes; frame GWC as the low-disruption payment upgrade that adds USDT capability to the combined INFINOX/Admirals entity",
+    "Status": "",
+    "Source URL": "https://www.financemagnates.com/forex/exclusive-infinox-is-in-advanced-talks-to-buy-admirals/"
+  }
+]
