@@ -1,0 +1,57 @@
+[
+  {
+    "Date": "2026-07-08",
+    "Category": "Lead Signal",
+    "Company": "Pure Casino Entertainment",
+    "Headline": "Pure Casino Entertainment — Alberta's largest land-based casino group (Indigenous Gaming Partners, Calgary/Edmonton/Lethbridge) — launches PureCasino.ca online sportsbook on July 13 via Kambi Turnkey Sportsbook partnership (announced July 7, 2026)",
+    "Lead Potential": "HIGH",
+    "Why It Matters": "Pure Casino is Alberta's biggest land-based casino operator going digital for the first time on Day 1 of the province's regulated iGaming launch (July 13). No crypto payment processor has been identified for PureCasino.ca — a clean-slate digital build with no legacy payment contracts in place. AGLC's stablecoin position remains unsettled (confirmed ban is limited to named privacy coins; compliant USDT with full audit trails is unconfirmed as prohibited), leaving a real window to pitch GWC's USDT multichain deposits as the auditable, chargeback-free alternative to card rails facing documented decline friction in Canadian regulated gambling markets.",
+    "Suggested Action": "Run linkedin_outreach workflow for Pure Casino Entertainment — target digital payments or operations lead before July 13 go-live",
+    "Status": "",
+    "Source URL": "https://www.covers.com/industry/kambi-sports-betting-partnership-alberta-pure-casino-launch-july-2026"
+  },
+  {
+    "Date": "2026-07-08",
+    "Category": "Lead Signal",
+    "Company": "Banijay Gaming / JOA",
+    "Headline": "Banijay Gaming (owner of Betclic, Tipico, Admiral) agrees to acquire JOA — France's second-largest casino group with 33 casinos, €430M GGR, and 4.6M annual customers — announced July 6, 2026",
+    "Lead Potential": "HIGH",
+    "Why It Matters": "Banijay Gaming's JOA acquisition creates a mandatory payment vendor consolidation across one of Europe's largest privately-held mixed casino estates. Banijay Gaming's existing online brands — Betclic (major French/Portuguese sportsbook), Tipico (German/Austrian market leader), and Admiral — all carry traditional fiat infrastructure with no named crypto payment processor. As JOA's 33-casino land-based estate adds a digital omnichannel layer post-acquisition, GWC's USDT/USDC multichain deposits and EUR SEPA/SWIFT fiat off-ramp serve Betclic and Tipico's existing online player bases in France, Germany, and Portugal — markets where cross-border payment friction is documented. M&A integration opens a vendor review window before contracts are renewed.",
+    "Suggested Action": "Run linkedin_outreach workflow for Banijay Gaming — target Betclic Head of Payments or Tipico digital product team during JOA acquisition integration window",
+    "Status": "",
+    "Source URL": "https://eegaming.org/latest-news/2026/07/07/142121/banijay-gaming-acquires-french-operator-joa/"
+  },
+  {
+    "Date": "2026-07-08",
+    "Category": "Lead Signal",
+    "Company": "Betcenter Belgium (Merkur Group)",
+    "Headline": "EveryMatrix replaces Betcenter's legacy in-house sportsbook across 50+ Belgium retail shops and online platform in full omnichannel migration deal — announced July 6, 2026",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Betcenter (Merkur Group) is replacing its entire sportsbook platform with EveryMatrix — a complete technology transition that forces a simultaneous payment stack review. No crypto payment processor is identified for Betcenter's online betting platform. Since EveryMatrix is already a HIGH-priority GWC target (Alberta licensing entry in this sheet from June 16), the Betcenter deal extends EveryMatrix's operator roster to Belgium and creates a natural warm-introduction channel: GWC can request that EveryMatrix embed its crypto payment API for Betcenter during the platform migration rather than requiring a separate enterprise sales cycle.",
+    "Suggested Action": "Leverage existing EveryMatrix outreach — ask EveryMatrix BD contact to introduce GWC crypto payment API to Betcenter during platform migration; alternatively Research decision-maker at Betcenter Belgium directly",
+    "Status": "",
+    "Source URL": "https://eegaming.org/latest-news/2026/07/06/142093/everymatrix-to-replace-betcenter-belgium-sportsbook-platform-in-omnichannel-deal/"
+  },
+  {
+    "Date": "2026-07-08",
+    "Category": "Lead Signal",
+    "Company": "eToro",
+    "Headline": "eToro launches AI-first mobile app with instant crypto self-custody wallets (Zengo-powered), agentic trading agent Tori, and a new desktop platform for active traders at London event — July 7, 2026",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "eToro is a global social investment platform with 35M+ registered users trading Forex, stocks, and crypto across 75+ countries. The new app's crypto self-custody wallet launch signals a growing base of users actively holding USDT/crypto and wanting direct settlement capability. eToro's existing USDT infrastructure is self-custody-focused (Zengo wallet), not B2B settlement-grade — GWC's EUR SEPA/SWIFT fiat off-ramp fills a gap for high-volume USDT-to-EUR conversions for eToro's institutional or high-net-worth client segment. The agentic trading expansion also signals active platform investment, making this a tech-receptive product team period.",
+    "Suggested Action": "Research decision-maker at eToro — target Head of Payments or B2B Product for EUR fiat off-ramp discussion serving their growing USDT/crypto user base",
+    "Status": "",
+    "Source URL": "https://fxnewsgroup.com/forex-news/retail-forex/etoro-introduces-new-logo-and-new-look-launches-new-mobile-app/"
+  },
+  {
+    "Date": "2026-07-08",
+    "Category": "Lead Signal",
+    "Company": "Betano (Kaizen Gaming)",
+    "Headline": "Betano (Kaizen Gaming) goes live in Colombia with Play'n GO full portfolio on July 7, 2026 — operator confirmed with no crypto payment support across any of its 16+ regulated markets",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Betano is one of Europe's fastest-growing sports betting/casino brands operating in 16+ countries across Europe and LATAM (UK, Czech Republic, Denmark, Belgium, Portugal, Brazil, Chile, Peru, Ecuador, Colombia, Mexico, Canada). The Colombia launch is confirmed with zero crypto payment support — a documented payment gap in a regulated LATAM market where USDT deposits are the primary alternative to card friction and cross-border payment delays. Kaizen Gaming's multi-market LATAM expansion (6 countries) creates compounding payment-stack pressure at each new regulated entry. A single GWC corporate partnership would deploy USDT multichain deposits across Betano's entire LATAM estate through one agreement — the highest-leverage entry point for reaching millions of LATAM players.",
+    "Suggested Action": "Research decision-maker at Betano/Kaizen Gaming — target Group Head of Payments or LATAM Operations for USDT deposit rail discussion; reference Colombia go-live as the freshest payment pain signal",
+    "Status": "",
+    "Source URL": "https://g3newswire.com/playn-go-strengthens-latin-american-presence-with-betano-colombia-launch/"
+  }
+]
