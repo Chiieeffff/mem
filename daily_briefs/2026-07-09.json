@@ -1,0 +1,57 @@
+[
+  {
+    "Date": "2026-07-09",
+    "Category": "Market Trend",
+    "Company": "Ireland iGaming Market (GRAI)",
+    "Headline": "Ireland's GRAI begins issuing B2C remote betting licences from July 1, 2026 — brand-new regulated iGaming market with no established crypto payment processor and all operator payment stacks being built from scratch",
+    "Lead Potential": "HIGH",
+    "Why It Matters": "Ireland's GRAI started issuing remote betting licences July 1, 2026, opening the latest brand-new regulated iGaming market — a direct parallel to Alberta's July 13 go-live tracked as HIGH in this sheet. All licensed operators are selecting payment stacks from scratch under GRAI's Gambling Regulation Act 2024. Ireland has no dominant crypto payment processor established yet, and unlike Finland, GRAI places no ban on crypto payment solutions. Operators include Flutter/Paddy Power brands (domestic incumbents), UK-facing operators, and European groups — all requiring EUR-compatible payment infrastructure where GWC's EUR SEPA/SWIFT off-ramp is a natural fit alongside USDT multichain deposits for international player acquisition.",
+    "Suggested Action": "Run batch_lead_sourcing for Ireland GRAI-licensed iGaming operators — prioritise Flutter/Paddy Power Ireland entities, BoyleSports, and bet365 Ireland before incumbent processors lock in payment contracts",
+    "Status": "",
+    "Source URL": "https://eegaming.org/latest-news/2026/07/06/142060/grai-starts-issuing-remote-betting-licences/"
+  },
+  {
+    "Date": "2026-07-09",
+    "Category": "Partnership Intel",
+    "Company": "Pragmatic Solutions",
+    "Headline": "Pragmatic Solutions PAM platform confirms live in Ireland's newly regulated iGaming market supporting operator clients under GRAI from July 1, 2026 — no crypto payment processor named for any operator activation",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Pragmatic Solutions is a leading B2B PAM (Player Account Management) platform provider for regulated iGaming operators, now supporting client operators in Ireland's brand-new GRAI-regulated market where all operators are selecting payment processors from scratch. No crypto payment processor has been named for any of Pragmatic Solutions' Irish operator activations. A GWC integration at the Pragmatic Solutions platform level would distribute USDT multichain deposits and EUR SEPA/SWIFT off-ramp capability across their full Irish operator client base through one B2B deal — the same platform-multiplier approach as K36, EveryMatrix, and QTech already in this sheet.",
+    "Suggested Action": "Research decision-maker at Pragmatic Solutions — target BD or platform partnerships team for B2B payment rail integration discussion around their Irish operator client activations",
+    "Status": "",
+    "Source URL": "https://igamingbusiness.com/company-news/pragmatic-solutions-igaming-platform-live-in-irelands-regulated-market/"
+  },
+  {
+    "Date": "2026-07-09",
+    "Category": "Competitor Move",
+    "Company": "Citron",
+    "Headline": "Citron AI-powered crypto payment processor expands iGaming footprint via Vegangster B2B casino partnership — 100+ clients across 50+ countries processing billions at sub-1% fees with Chainalysis AML screening (July 6, 2026)",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Citron is a maturing direct GWC competitor in iGaming crypto payments, combining on-chain processing (sub-1% fees, instant stablecoin conversion, Chainalysis AML screening) with AI-driven player analytics and competitive intelligence in one bundled stack. The Vegangster partnership demonstrates Citron's active B2B platform integration strategy in the same segment GWC targets. GWC differentiators to sharpen: 300+ asset USDT/USDC multichain breadth (vs Citron's stablecoin-conversion-only model), EUR SEPA/SWIFT fiat off-ramp (no EUR off-ramp identified for Citron), and dedicated iGaming Backoffice UI vs Citron's API-and-analytics layer.",
+    "Suggested Action": "Note competitive context — update GWC pitch to contrast 300+ asset multichain settlement, EUR SEPA/SWIFT fiat off-ramp, and dedicated iGaming Backoffice UI vs Citron's stablecoin-conversion payment layer bundled with AI analytics",
+    "Status": "",
+    "Source URL": "https://igamingbusiness.com/company-news/vegangster-partners-with-citron-to-power-crypto-payments-and-analytics/"
+  },
+  {
+    "Date": "2026-07-09",
+    "Category": "Partnership Intel",
+    "Company": "Vegangster",
+    "Headline": "B2B crypto casino platform Vegangster selects Citron for crypto payments and analytics — operator clients globally now running on stablecoin-only rails with no EUR fiat off-ramp capability (July 6, 2026)",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Vegangster is a B2B crypto casino solution provider building white-label casino platforms for operators worldwide. Its operator client base — casino operators running on Vegangster's platform — now use Citron's stablecoin-only payment layer, which has no identified EUR fiat off-ramp capability. GWC's EUR SEPA/SWIFT fiat off-ramp and 300+ asset multichain processing fill a direct gap. Approaching Vegangster's BD team with a complementary GWC integration (EUR fiat settlement and multichain depth for Vegangster operator clients needing fiat withdrawals) could open access to their full operator network without requiring full Citron displacement.",
+    "Suggested Action": "Research decision-maker at Vegangster — approach BD team for a complementary GWC integration covering EUR fiat off-ramp and multichain depth that Citron's stablecoin-only layer does not provide to Vegangster's operator clients",
+    "Status": "",
+    "Source URL": "https://igamingbusiness.com/company-news/vegangster-partners-with-citron-to-power-crypto-payments-and-analytics/"
+  },
+  {
+    "Date": "2026-07-09",
+    "Category": "Market Trend",
+    "Company": "Coinbase",
+    "Headline": "Coinbase wins UK FCA and MiFID II authorization for stocks and derivatives alongside crypto (July 7, 2026) — advancing its 'Everything Exchange' strategy and competing directly with UK Forex/CFD brokers for retail clients",
+    "Lead Potential": "LOW",
+    "Why It Matters": "Coinbase's MiFID II UK authorization for equities and crypto derivatives makes it the first major crypto-native exchange offering both crypto and traditional instruments under FCA supervision, now able to attract UK Forex broker clients directly. UK CFD and spread betting brokers face an accelerating threat from Coinbase's all-in-one exchange model. GWC outreach angle: frame GWC's B2B USDT payment infrastructure as the tool that lets brokers retain crypto-native clients in-house before Coinbase captures them via the 'Everything Exchange' self-serve model.",
+    "Suggested Action": "Consider referencing Coinbase UK FCA expansion in outreach to UK Forex/CFD brokers without a crypto deposit option — frame GWC's B2B USDT deposit rails as client retention infrastructure before Coinbase captures crypto-native broker clients",
+    "Status": "",
+    "Source URL": "https://www.financemagnates.com/forex/coinbase-expands-beyond-crypto-in-the-uk-with-fca-approval-for-stocks-and-derivatives/"
+  }
+]
