@@ -1,0 +1,57 @@
+[
+  {
+    "Date": "2026-07-11",
+    "Category": "Lead Signal",
+    "Company": "Penn Entertainment (Hollywood Casino / theScore Casino)",
+    "Headline": "Penn Entertainment launches Hollywood Casino and theScore Casino's first-ever digital products in Alberta on July 13 — two brand-new B2C casino brands making simultaneous Canadian regulated market debuts alongside theScore Bet, with zero crypto payment infrastructure across all three brands",
+    "Lead Potential": "HIGH",
+    "Why It Matters": "Hollywood Casino and theScore Casino are Penn Entertainment's (NASDAQ: PENN) two casino brands making their first-ever digital launches in Alberta's July 13 regulated market — zero legacy payment contracts and no crypto payment processor identified. Penn's confirmed digital payment stack across brands is cards, ACH, bank wire, and PayNearMe only — no USDT or crypto support. With theScore Bet (Penn's sportsbook) already launching simultaneously, a single GWC corporate relationship at the Penn Digital level would deploy USDT multichain deposits and zero-chargeback rails across all three Penn Alberta brands through one payment integration. Alberta's documented card processing friction for gambling and Penn's stated $20M acquisition investment for Alberta create a direct window to pitch GWC before Paysafe or BurraPay lock in the relationship.",
+    "Suggested Action": "Run linkedin_outreach workflow for Penn Entertainment — target Head of Digital Payments or VP of Interactive at PENN corporate level referencing July 13 Alberta deadline; frame GWC as covering all three Penn brands (Hollywood Casino, theScore Casino, theScore Bet) through one USDT multichain integration",
+    "Status": "",
+    "Source URL": "https://www.rotowire.com/article/penn-launching-two-online-casinos-sportsbook-ahead-of-july-13-alberta-market-opening-118484"
+  },
+  {
+    "Date": "2026-07-11",
+    "Category": "Lead Signal",
+    "Company": "Saxo Bank (J. Safra Sarasin)",
+    "Headline": "J. Safra Sarasin agrees to acquire Kim Fournais' remaining 28.69% stake in Saxo Bank, taking 100% ownership of the 1.5M-client global Forex/multi-asset platform — announced July 6, 2026, with new CEO Daniel Belfer appointed from J. Safra Sarasin",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Saxo Bank is one of the world's leading digital investment banks serving 1.5M+ clients in 170+ countries with EUR 115B+ AUM across Forex, CFDs, stocks, ETFs, and crypto-exposed products. Despite offering crypto exposure via ETPs/ETFs/CFDs, Saxo explicitly rejects USDT and e-wallet deposits — client funding is bank wire and card only. Full J. Safra Sarasin ownership and a new CEO from the acquirer create a clean vendor strategy review window. GWC's USDT/USDC multichain deposit rails address Saxo's documented payment gap for its growing APAC and MENA client base (markets where USDT is the dominant retail Forex funding method), and GWC's EUR SEPA/SWIFT fiat off-ramp complements Saxo's European regulatory footprint.",
+    "Suggested Action": "Research decision-maker at Saxo Bank — target Head of Payments or Chief Product Officer during post-acquisition strategy review; reference confirmed 1.5M+ client base with zero USDT deposit option despite active crypto product offering",
+    "Status": "",
+    "Source URL": "https://fxnewsgroup.com/forex-news/retail-forex/j-safra-sarasin-group-to-acquire-remaining-stake-in-saxo-bank/"
+  },
+  {
+    "Date": "2026-07-11",
+    "Category": "Lead Signal",
+    "Company": "Trade Nation",
+    "Headline": "CFD broker Trade Nation formally launches EU-regulated services via new Portuguese CMVM entity on July 7, 2026 — gaining EU passporting rights across 27 member states for forex, commodities, indices, and shares",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Trade Nation is a globally-regulated CFD broker with offices across UK, Australia, South Africa, UAE, and now EU (Portugal), offering zero-commission, fixed-spread trading to retail clients. The CMVM launch unlocks EU passport access to clients across all 27 EU member states — a major new geographic expansion with no identified USDT or crypto payment infrastructure for EU client deposits or withdrawals. As Trade Nation scales EU client acquisition in a post-MiCA environment where compliant USDC rails are in demand, GWC's USDT/USDC multichain deposits and EUR SEPA/SWIFT fiat off-ramp provide the missing payment layer for Trade Nation's growing MENA and Eastern European client segments accessing via the EU entity.",
+    "Suggested Action": "Research decision-maker at Trade Nation — target Head of Payments or EU Product for USDT multichain deposit pitch during EU launch build-out; reference their confirmed zero crypto deposit infrastructure as the gap GWC fills",
+    "Status": "",
+    "Source URL": "https://www.financemagnates.com/forex/trade-nation-gets-its-european-passport-stamped-courtesy-of-portugal/"
+  },
+  {
+    "Date": "2026-07-11",
+    "Category": "Lead Signal",
+    "Company": "WPT Royale",
+    "Headline": "World Poker Tour brand WPT Royale signs multi-year licensing deal with Soft2Bet to launch a new casino and sportsbook in Ontario under AGCO registration — a brand-new B2C operator with no legacy payment contracts",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "WPT Royale is a brand-new B2C casino and sportsbook launching in Ontario's regulated market powered by Soft2Bet's technology — a clean-slate entrant with zero legacy payment contracts. The World Poker Tour brand attracts high-stakes, internationally mobile poker players who skew crypto-native and USDT-comfortable, yet no crypto payment processor is identified for WPT Royale's Ontario stack. The operator can be approached directly for a payment contract or via Soft2Bet's platform integration (already tracked as a GWC target), offering a dual-channel outreach with zero displacement required — WPT Royale needs a payment stack from scratch.",
+    "Suggested Action": "Research decision-maker at WPT Royale / World Poker Tour iGaming entity — target Head of Payments or Operations before Ontario launch; use existing Soft2Bet outreach as warm introduction channel for platform-level USDT integration",
+    "Status": "",
+    "Source URL": "https://www.yogonet.com/international/news/2026/07/02/125176-soft2bet-secures-wpt-royale-licensing-deal-for-ontario-casino-and-sportsbook-launch"
+  },
+  {
+    "Date": "2026-07-11",
+    "Category": "Partnership Intel",
+    "Company": "BR-DGE",
+    "Headline": "iGaming payment orchestration platform BR-DGE raises £10m led by Bettor Capital to scale global expansion — current clients include William Hill, LiveScore Bet, Betfred, and Tombola; platform volumes grew 15x in under two years",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "BR-DGE is a payment orchestration layer routing card and fiat payment flows for major UK iGaming operators, targeting 100M+ transactions/month by end of 2026. The £10m fresh capital funds global operator expansion — but BR-DGE routes only traditional rails (Visa, Mastercard, PayPal, Trustly, Kount) with no crypto payment capability. Embedding GWC's USDT/USDC multichain API into BR-DGE's orchestration platform would add crypto deposit rails for all their current and future operator clients (William Hill, Betfred, LiveScore Bet, Tombola, and every new operator BR-DGE onboards with its £10m expansion budget) through one B2B platform-level integration — the same multiplier dynamic as Match-Trade and FXBO already in this sheet.",
+    "Suggested Action": "Research decision-maker at BR-DGE — target CTO or Head of Product for crypto payment API integration discussion; pitch GWC as the crypto rail completing their payment orchestration stack for operators who currently have no USDT deposit option",
+    "Status": "",
+    "Source URL": "https://next.io/news/investment/br-dge-secures-10m-bettor-capital-investment/"
+  }
+]
