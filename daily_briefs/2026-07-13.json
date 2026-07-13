@@ -1,0 +1,57 @@
+[
+  {
+    "Date": "2026-07-13",
+    "Category": "Lead Signal",
+    "Company": "River Cree iGaming (Enoch Cree Nation)",
+    "Headline": "River Cree Resort & Casino (Enoch Cree Nation, Alberta) secures AGLC registration and is building its first-ever online casino and sportsbook — CEO confirmed late-2026 digital launch with no named payment processor",
+    "Lead Potential": "HIGH",
+    "Why It Matters": "River Cree is an Indigenous-owned Alberta land-based casino making its first digital transition — a clean-slate online build with zero legacy payment contracts and no payment processor named. Unlike multinationals bringing established payment relationships into Alberta, River Cree's digital platform is built from scratch by a First Nations gaming institution where no incumbent processor is entrenched. AGLC has not explicitly prohibited compliant stablecoins (ban limited to named privacy coins only), leaving a live window to establish GWC's USDT multichain deposits and EUR SEPA/SWIFT fiat off-ramp as River Cree's digital payment infrastructure before any processor signs.",
+    "Suggested Action": "Run linkedin_outreach workflow for River Cree iGaming — target Head of Digital or VP of Operations at Enoch Cree Nation Gaming; reference late-2026 digital launch as the pre-launch payment stack evaluation window",
+    "Status": "",
+    "Source URL": "https://www.bonus.com/ca/news/river-crees-igaming-platform-to-debut-later-in-2026/"
+  },
+  {
+    "Date": "2026-07-13",
+    "Category": "Lead Signal",
+    "Company": "TonyBet",
+    "Headline": "TonyBet (Estonian B2C sportsbook/casino, 7 regulated markets) goes live in Alberta on July 13 — accepts USDT/crypto outside Ontario but no named institutional B2B settlement processor identified for its Canadian entities",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "TonyBet is a European B2C sportsbook entering its third Canadian regulated market (Ontario, Kahnawake, Alberta) on Alberta's launch day. TonyBet's global platform accepts USDT alongside BTC, ETH, and TRON — but no named B2B crypto payment processor or institutional settlement partner has been identified for any Canadian entity. GWC's 300+ asset USDT/USDC multichain rails and EUR SEPA/SWIFT fiat off-ramp would upgrade TonyBet's existing basic crypto layer to institutional-grade B2B settlement across its growing Canadian footprint. Head of Product Kiryl Liudvikevich has publicly stated payments are a core trust signal — a receptive product team with a payment-focused mandate.",
+    "Suggested Action": "Research decision-maker at TonyBet — target Head of Product Kiryl Liudvikevich or Head of Payments for institutional USDT multichain settlement pitch; reference Alberta Day 1 launch and confirmed no named B2B crypto settlement partner as the entry point",
+    "Status": "",
+    "Source URL": "https://www.lineups.com/betting/two-more-brands-approved-as-alberta-online-casinos-prepare-for-launch"
+  },
+  {
+    "Date": "2026-07-13",
+    "Category": "Market Trend",
+    "Company": "Angola iGaming Market (ISJ)",
+    "Headline": "Angola's ISJ (Instituto de Supervisão de Jogos) opens a 30-working-day provisional licensing window from July 1, 2026 under Gaming Activity Law No. 17/24 — brand-new regulated African gaming market with operators selecting payment infrastructure from scratch",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Angola's first formal regulated iGaming licensing regime entered transitional operation July 1, pulling operators into a 30-day provisional licensing window — a brand-new regulated African market where no crypto payment processor has been named for any licensed entity. Angola is a Lusophone African market with documented card payment friction and cross-border banking limitations, making USDT the dominant B2B settlement alternative. Operators entering Angola's newly regulated environment need payment infrastructure from scratch — the same clean-slate window GWC has exploited across Alberta and Ireland this year.",
+    "Suggested Action": "Consider referencing Angola's ISJ July 1 provisional licensing window in outreach to Africa-focused operators and platforms — identify Angola-licensed gaming entities and approach as payment stacks are selected for the new regulated environment",
+    "Status": "",
+    "Source URL": "https://www.igamingtoday.com/angola-regulator-launches-30-day-licensing-phase-for-gaming-operators/"
+  },
+  {
+    "Date": "2026-07-13",
+    "Category": "Market Trend",
+    "Company": "African iGaming Alliance (AiA) / iGB L!VE Africa Summit",
+    "Headline": "African iGaming Alliance and WorldGaming launch the first iGB L!VE Africa Summit (July 1-2, 2026) drawing regulators from Nigeria, South Africa, Uganda, Ghana, Tanzania, and Angola — Africa's largest coordinated iGaming market-development event to date",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "The first Africa Summit at iGB L!VE drew regulators and operators from six African nations — the largest coordinated African iGaming market-building event to date. All six countries are active iGaming markets where USDT is the dominant retail deposit alternative to card friction. AiA CEO Peter Emolemo Kesitilwe's regulatory background signals near-term licensing frameworks across member markets — each new framework opens a payment infrastructure selection window. GWC's USDT multichain deposits and EUR SEPA/SWIFT fiat off-ramp are the natural B2B infrastructure for operators entering Africa's expanding regulated markets across these six named countries.",
+    "Suggested Action": "Consider referencing the AiA Africa Summit as market validation in outreach to operators expanding into Nigeria, South Africa, Uganda, Ghana, Tanzania, and Angola — frame GWC's USDT rails as the ready payment infrastructure for newly regulated African markets",
+    "Status": "",
+    "Source URL": "https://igamingbusiness.com/company-news/worldgaming-partners-with-african-igaming-alliance-for-launch-of-igb-lve-africa-summit/"
+  },
+  {
+    "Date": "2026-07-13",
+    "Category": "Market Trend",
+    "Company": "LATAM iGaming Market (Nevis Licensing Shift)",
+    "Headline": "Wave of LATAM operators abandoning Curacao in favour of Nevis licensing (single licence covers casino, sports betting, poker, eSports, Web3, up to 40 URLs) as LATAM GGR grows from $5.33B to projected $10.4B by 2030 — July 7, 2026",
+    "Lead Potential": "LOW",
+    "Why It Matters": "LATAM operators migrating from Curacao's LOK-reformed framework to Nevis enter a clean licensing cycle — each Curacao-to-Nevis migration is a vendor relationship reset moment where operators select their full payment stack without incumbent lock-in. Nevis-licensed operators targeting Brazil, Colombia, Mexico, Argentina, and Peru operate in markets where USDT is the dominant deposit method and card payment friction is highest. Each migration creates a recurring payment stack evaluation window across the LATAM market GWC already tracks.",
+    "Suggested Action": "Consider referencing Nevis licensing migration as an outreach trigger for LATAM operators exiting Curacao — approach any named operator migrating to Nevis as a payment stack reset opportunity before incumbent processors re-establish contracts",
+    "Status": "",
+    "Source URL": "https://www.yogonet.com/international/news/2026/07/07/125246-regulatory-shift-why-latam-operators-are-moving-from-curacao-to-nevis"
+  }
+]
