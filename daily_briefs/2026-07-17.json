@@ -1,0 +1,57 @@
+[
+  {
+    "Date": "2026-07-17",
+    "Category": "Lead Signal",
+    "Company": "Base Markets",
+    "Headline": "Brand-new multi-asset CFD broker Base Markets launches on July 15, 2026, with native USDT/USDC deposit support, FSC Mauritius regulated, built by industry veterans with Arabic multilingual support targeting MENA clients",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Base Markets is a day-zero FSC-regulated CFD broker that already accepts USDT/USDC for funding — signalling openness to crypto infrastructure from launch. Their English/Arabic multilingual support and Mauritius offshore regulation indicate a MENA/emerging market acquisition strategy where USDT is the dominant deposit alternative to card friction. The day-zero window means zero legacy payment contracts to displace; GWC's 300+ asset USDT/USDC multichain depth and EUR SEPA/SWIFT fiat off-ramp would upgrade their basic crypto funding layer to institutional-grade B2B settlement before any processor relationship is established.",
+    "Suggested Action": "Research decision-maker at Base Markets — target co-founder or Head of Operations for B2B USDT multichain settlement infrastructure pitch; reference day-zero launch, Arabic support, and MENA client focus as entry points",
+    "Status": "",
+    "Source URL": "https://www.globenewswire.com/news-release/2026/07/15/3327682/0/en/Base-Markets-Announces-Full-Launch-of-Multi-Asset-CFD-Brokerage-Platform.html"
+  },
+  {
+    "Date": "2026-07-17",
+    "Category": "Lead Signal",
+    "Company": "Tickmill UK",
+    "Headline": "Tickmill UK launches Interactive Brokers Multi-Asset Account partnership on July 15, 2026, expanding beyond Forex/CFDs into stocks, ETFs, options, and bonds for UK and international clients without building in-house infrastructure",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Tickmill UK (FCA and CySEC-regulated) is in active platform expansion mode — adding multi-asset infrastructure via API partnership rather than in-house builds, signalling a product team highly receptive to plug-in infrastructure solutions. This same API-first expansion mindset makes them an ideal pitch for GWC's USDT/USDC multichain deposit rails as a non-disruptive add-on. Tickmill's global client base spans APAC, MENA, and Eastern Europe where USDT is the dominant retail Forex deposit method; no institutional-grade B2B USDT settlement has been identified in their payment stack.",
+    "Suggested Action": "Research decision-maker at Tickmill — target Head of Payments or VP Product for USDT multichain deposit rail pitch during active platform expansion cycle; frame as the same API-first approach they used for the Interactive Brokers multi-asset partnership",
+    "Status": "",
+    "Source URL": "https://fxnewsgroup.com/forex-news/retail-forex/exclusive-tickmill-uk-expands-multi-asset-trading-through-strategic-partnership-with-interactive-brokers/"
+  },
+  {
+    "Date": "2026-07-17",
+    "Category": "Market Trend",
+    "Company": "Gibraltar Gambling Authority (Prediction Markets)",
+    "Headline": "Gibraltar becomes the world's first jurisdiction with a dedicated prediction markets regulatory framework, effective July 13, 2026 — ADI Predictstreet and WagerWire's Wire Markets are first licensed operators under the new Gibraltar Gambling Act 2025",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Gibraltar's first-mover regulatory framework for prediction markets signals that event-contract betting is crystallising as a standalone regulated product class in Europe — following CFTC-regulated US platforms and now reaching European licensing. Operators building Gibraltar-licensed prediction market infrastructure are selecting payment stacks from scratch; WagerWire Wire Markets has no named payment processor. Prediction market participants are disproportionately crypto-native globally — USDT deposits are the expected funding method. GWC's USDT/USDC multichain deposits and EUR SEPA/SWIFT fiat off-ramp address the exact payment gap before any processor establishes Gibraltar exclusivity.",
+    "Suggested Action": "Research decision-maker at WagerWire Wire Markets — target payments or operations lead for USDT multichain deposit infrastructure pitch as they build their Gibraltar prediction market stack; use Gibraltar's first-mover status as urgency hook before incumbents establish exclusivity",
+    "Status": "",
+    "Source URL": "https://igamingbusiness.com/prediction-markets/gibraltar-unveils-dedicated-prediction-markets-regulation/"
+  },
+  {
+    "Date": "2026-07-17",
+    "Category": "Lead Signal",
+    "Company": "Libertex Group (LBX)",
+    "Headline": "Libertex Group showcases its LATAM-focused LBX brand alongside Libertex at iGB L!VE London 2026 (July 1-2) — LBX is a newly-launched CFD broker brand targeting LATAM and MENA with Best CFD Broker LATAM (2025 Global Forex Awards) and no identified USDT payment infrastructure",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Libertex Group's decision to exhibit both Libertex and LBX at iGaming's premier B2B conference signals a deliberate cross-vertical strategy to acquire iGaming-adjacent broker clients. LBX specifically targets LATAM and MENA — GWC's two highest-priority geos where USDT is the dominant deposit alternative to card friction and cross-border banking delays. No institutional-grade B2B USDT settlement or EUR SEPA/SWIFT fiat off-ramp has been identified in either Libertex or LBX's payment infrastructure. GWC's approach to Libertex Group's Payments or LBX Brand Director — framed around LBX's LATAM client acquisition pipeline — could establish a payment relationship spanning both broker brands through one conversation.",
+    "Suggested Action": "Research decision-maker at Libertex Group — target LBX Brand Director or Group Head of Payments for USDT multichain deposit rail pitch framed around LBX's LATAM/MENA client acquisition needs; use iGB L!VE attendance and LATAM award as the outreach hook",
+    "Status": "",
+    "Source URL": "https://igamingbusiness.com/company-news/libertex-group-showcases-award-winning-trading-brands-at-igb-lve-2026/"
+  },
+  {
+    "Date": "2026-07-17",
+    "Category": "Market Trend",
+    "Company": "Alfa-Forex (Bank of Russia crypto CFD framework)",
+    "Headline": "Bank of Russia approves crypto CFDs for licensed Forex dealers from July 9, 2026 — Alfa-Forex launches BTC/ETH CFDs on July 14 for qualified investors under new Basic Standard, the first regulated crypto derivatives product in Russia's licensed domestic Forex market",
+    "Lead Potential": "LOW",
+    "Why It Matters": "Russia's central bank endorsing regulated Bitcoin and Ether CFDs for licensed domestic dealers removes the last major G20 central bank objection to crypto as a regulated trading instrument. This is the strongest possible signal to compliance-hesitant Forex brokers globally that crypto instruments are mainstream infrastructure. When outreach targets compliance-hesitant CFD brokers in MENA, LATAM, and Southeast Asia who cite regulatory uncertainty as the reason for not offering USDT deposits, the Bank of Russia's stamp can be cited alongside the OCC's Circle approval, MiCA enforcement, and Interactive Brokers' stablecoin launch as converging institutional validation from every major regulatory bloc.",
+    "Suggested Action": "Consider referencing Bank of Russia's BTC/ETH CFD approval as institutional validation in outreach to compliance-hesitant Forex brokers in MENA and LATAM — frame as: if Russia's central bank endorses regulated crypto products, your compliance team's objection is answered",
+    "Status": "",
+    "Source URL": "https://www.financemagnates.com/forex/brokers/russia-allows-licensed-forex-dealers-to-offer-crypto-cfds-but-only-to-qualified-investors/"
+  }
+]
