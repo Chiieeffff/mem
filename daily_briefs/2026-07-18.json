@@ -1,0 +1,57 @@
+[
+  {
+    "Date": "2026-07-18",
+    "Category": "Lead Signal",
+    "Company": "Entain CEE (STS Poland + SuperSport Croatia)",
+    "Headline": "Entain launches phased exit of CEE joint venture on June 25, 2026 — sells initial 20% stake to Czech PE firm EMMA Capital for €425M (€2.1B EV), transferring majority control of Poland's and Croatia's #1 sportsbooks to new private equity ownership with a full exit planned",
+    "Lead Potential": "HIGH",
+    "Why It Matters": "Entain's phased divestment transfers operational control of STS (Poland's #1 sportsbook by market share) and SuperSport (Croatia's #1 operator) to EMMA Capital — a PE firm that will restructure vendor relationships as part of post-acquisition optimization. M&A ownership changes at market-leading sportsbooks create mandatory payment stack review windows; no institutional-grade B2B USDT settlement or EUR SEPA/SWIFT fiat off-ramp has been identified in either STS or SuperSport's payment infrastructure. GWC's outreach timed to EMMA Capital's Q4 2026 deal completion hits the payment vendor evaluation window before any new processor relationship is locked in.",
+    "Suggested Action": "Run linkedin_outreach workflow for Entain CEE / STS Poland — target Head of Payments or CFO at the STS or Entain CEE entity; reference Q4 2026 EMMA Capital deal completion as the payment vendor review window; frame GWC's USDT multichain deposits and EUR SEPA/SWIFT fiat off-ramp as the missing crypto settlement layer for Poland and Croatia's #1 sportsbooks",
+    "Status": "",
+    "Source URL": "https://europeangaming.eu/portal/latest-news/2026/06/25/208022/entain-begins-phased-cee-exit-with-e425m-emma-capital-deal/"
+  },
+  {
+    "Date": "2026-07-18",
+    "Category": "Partnership Intel",
+    "Company": "PlaylogiQ",
+    "Headline": "PlaylogiQ, a B2B iGaming casino and sportsbook platform provider for Sub-Saharan African operators, signs a BGaming content distribution deal on June 25, 2026 — serving operators in Nigeria, Kenya, South Africa, and Ghana with no identified crypto payment partner",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "PlaylogiQ is a B2B iGaming platform purpose-built for African operators across Nigeria, Kenya, South Africa, and Ghana — GWC's highest-priority African markets where USDT is the dominant deposit alternative to card friction. The BGaming deal signals active operator acquisition and platform expansion with no named crypto payment processor. A GWC integration at the PlaylogiQ platform level would add USDT multichain deposits and EUR SEPA/SWIFT fiat off-ramp to every African operator client through one B2B partnership.",
+    "Suggested Action": "Research decision-maker at PlaylogiQ — target CEO or Head of Partnerships for USDT multichain payment API integration discussion; reference Sub-Saharan African operator focus and active content expansion as the geographic and timing fit for GWC's USDT rails",
+    "Status": "",
+    "Source URL": "https://igamingbusiness.com/company-news/bgaming-expands-african-presence-with-playlogiq-deal/"
+  },
+  {
+    "Date": "2026-07-18",
+    "Category": "Lead Signal",
+    "Company": "BoyleSports",
+    "Headline": "BoyleSports (Ireland's largest independent bookmaker, £2B+ annual turnover) confirms zero crypto payment support while announcing an AWS cloud partnership on July 2, 2026 and expanding its Serbia tech hub to 65+ engineers — with a potential M&A sale to FDJ United or Betfred underway since February 2026",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "BoyleSports has a confirmed zero-crypto payment stack (Visa, MC, Google Pay, PayPal, Paysafecard, Skrill, Neteller, Boku only) and an active M&A sale process where any ownership change triggers a mandatory vendor relationship reset. Simultaneously, the July 2 AWS partnership and Serbia tech hub expansion to 65+ engineers signal an active infrastructure build-out. GWC's USDT/USDC multichain deposits and EUR SEPA/SWIFT fiat off-ramp fill the confirmed crypto gap before any acquirer resets vendor contracts.",
+    "Suggested Action": "Research decision-maker at BoyleSports — target Head of Payments or VP of Technology for USDT multichain deposit pitch; reference confirmed zero-crypto stack and active AWS/Serbia infrastructure build as signals of a payment team building; frame pre-M&A timing as the urgency hook before an acquirer resets vendor relationships",
+    "Status": "",
+    "Source URL": "https://g3newswire.com/boyle-sports-partners-with-amazon-web-services-to-power-next-phase-of-growth/"
+  },
+  {
+    "Date": "2026-07-18",
+    "Category": "Partnership Intel",
+    "Company": "DeGaming",
+    "Headline": "DeGaming (Web3-native iGaming B2B platform provider) signs a deal with Tequity on July 17, 2026 to integrate Originals, Publishing, and Trading game content — including crash games tied to real BTC/ETH market movements — into DeGaming's platform for operator clients",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "DeGaming is a Web3-native iGaming B2B platform whose operator clients are crypto-native by design; adding Tequity's Trading Games (crash gameplay tied to live BTC/ETH price movements) makes USDT the natural funding method for their entire player base. No institutional-grade B2B USDT payment processor has been identified for DeGaming's platform. A GWC integration at the platform level would deliver USDT multichain deposits to every DeGaming operator client through one B2B partnership, with the crypto-linked content suite as the natural pitch hook.",
+    "Suggested Action": "Research decision-maker at DeGaming — target CEO or Head of Partnerships for USDT multichain payment API integration; reference the July 17 Tequity Trading Games deal as evidence that their operators need USDT rails to match the crypto-linked content experience",
+    "Status": "",
+    "Source URL": "https://igamingbusiness.com/company-news/degaming-signs-deal-with-tequity-to-deliver-games-portfolio-via-platform/"
+  },
+  {
+    "Date": "2026-07-18",
+    "Category": "Competitor Move",
+    "Company": "Paysafe / MoonPay",
+    "Headline": "Paysafe ($167B annual processing volume) launches Pay with Crypto for U.S. iGaming operators and DFS brands on April 7, 2026, powered by MoonPay — allowing stablecoin and crypto deposits converted to USD at point of deposit, with early interest from top-10 US operators",
+    "Lead Potential": "LOW",
+    "Why It Matters": "Paysafe's entry into iGaming crypto deposits signals that the largest mainstream payment processors now treat stablecoin payments as standard iGaming infrastructure — eliminating the compliance objection that operators use to avoid crypto payment integrations. GWC should reference this move as market validation when pitching compliance-hesitant Forex and iGaming prospects in MENA and LATAM. Importantly, Paysafe converts crypto to USD at deposit (fiat settlement model); GWC's USDT multichain B2B settlement is a distinct product for operators wanting native stablecoin settlement without fiat conversion overhead.",
+    "Suggested Action": "Note competitive context — reference Paysafe/MoonPay's US iGaming crypto launch as market validation in outreach to compliance-hesitant prospects; differentiate GWC's native USDT B2B settlement from Paysafe's retail crypto-to-USD conversion model",
+    "Status": "",
+    "Source URL": "https://www.prnewswire.com/news-releases/paysafe-taps-moon-pay-to-bring-crypto-payments-to-its-167-billion-a-year-platform-302737426.html"
+  }
+]
