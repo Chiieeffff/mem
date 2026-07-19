@@ -1,0 +1,57 @@
+[
+  {
+    "Date": "2026-07-19",
+    "Category": "Lead Signal",
+    "Company": "RoboForex",
+    "Headline": "RoboForex launches a full-featured Telegram Mini App on July 16, 2026, enabling complete trading — account opening, live charts, deposit/withdrawal, copy trading — for its 4.5M+ registered clients directly inside Telegram",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "RoboForex is a major Forex broker with 4.5M+ clients adding a native Telegram trading channel — directly targeting the MENA, CIS, and Southeast Asian client demographics where USDT is the dominant deposit alternative to bank wire friction. No institutional-grade USDT settlement has been identified in RoboForex's payment stack; the Telegram Mini App introduces new deposit/withdrawal flows purpose-built for crypto-native audiences. GWC's USDT multichain deposit rails and EUR SEPA/SWIFT fiat off-ramp address the payment gap in the new channel before any processor relationship is established.",
+    "Suggested Action": "Research decision-maker at RoboForex — target Head of Payments or VP of Product for USDT multichain deposit rail pitch; reference the July 16 Telegram Mini App launch and MENA/CIS user base where USDT is the dominant deposit currency as the outreach hook",
+    "Status": "",
+    "Source URL": "https://www.financemagnates.com/forex/from-chat-to-buy-order-roboforex-puts-full-trading-inside-telegram/"
+  },
+  {
+    "Date": "2026-07-19",
+    "Category": "Lead Signal",
+    "Company": "World Sports Betting (WSB)",
+    "Headline": "World Sports Betting (WSB), an established South African bookmaker and casino operator, signs a content distribution deal with Amusnet on July 15, 2026 — expanding its regulated South African iGaming casino offering with no identified crypto payment partner",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "WSB is an established South African bookmaker in active casino product expansion, operating in one of GWC's highest-priority African markets where USDT is the dominant deposit alternative to Rand card friction and cross-border banking delays. No institutional-grade USDT payment provider has been identified for WSB's payment stack. GWC's USDT multichain deposits and EUR SEPA/SWIFT fiat off-ramp address the confirmed crypto payment gap as WSB invests in scaling its casino offering.",
+    "Suggested Action": "Research decision-maker at World Sports Betting — target Head of Payments or Head of Operations for USDT multichain deposit pitch; reference the active Amusnet casino content expansion and South Africa focus as the timing and geographic fit for GWC",
+    "Status": "",
+    "Source URL": "https://eegaming.org/latest-news/2026/07/15/142665/amusnet-announces-new-partnership-with-world-sports-betting-wsb/"
+  },
+  {
+    "Date": "2026-07-19",
+    "Category": "Lead Signal",
+    "Company": "SetantaBET",
+    "Headline": "SetantaBET selects LuckyStreak for live dealer and casino aggregation in a deal signed July 15, 2026 — expanding its casino product suite with no identified crypto payment provider",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "SetantaBET is an iGaming operator in active product expansion mode, adding live dealer and casino aggregation infrastructure — signaling a platform investment cycle where new vendor relationships are being established. No institutional-grade USDT payment provider has been identified for SetantaBET. Live dealer casino attracts high-volume crypto-native players; GWC's USDT multichain deposit rails address the payment gap during this active build-out before any crypto processor relationship is locked in.",
+    "Suggested Action": "Research decision-maker at SetantaBET — target Head of Payments or Chief Product Officer for USDT multichain deposit pitch; use the July 15 LuckyStreak live dealer deal as the outreach timing hook",
+    "Status": "",
+    "Source URL": "https://eegaming.org/latest-news/2026/07/15/142713/setantabet-picks-luckystreak-for-live-dealer-and-casino-aggregation-deal/"
+  },
+  {
+    "Date": "2026-07-19",
+    "Category": "Partnership Intel",
+    "Company": "Aviatrix",
+    "Headline": "Aviatrix crash game studio expands into Brazil via Flutter's Betnacional brand on July 14, 2026 — growing B2B operator distribution in Latin America's largest regulated iGaming market with no identified crypto payment partner",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Aviatrix is a crash game studio securing active B2B distribution into Brazil's regulated market through Flutter's Betnacional — confirming operator demand and a growing LATAM footprint. No crypto payment partner has been identified for Aviatrix's settlement infrastructure. Brazil is a GWC priority market where USDT is the dominant deposit alternative to Brazil-specific card friction; a GWC integration at the Aviatrix studio level would address settlement infrastructure for their expanding Brazilian operator distribution network.",
+    "Suggested Action": "Research decision-maker at Aviatrix — target CEO or Head of Partnerships for USDT multichain settlement discussion; reference the July 14 Brazil Betnacional expansion as the outreach trigger and growing B2B footprint in Latin America's largest regulated iGaming market",
+    "Status": "",
+    "Source URL": "https://eegaming.org/latest-news/2026/07/14/142617/aviatrix-expands-in-brazil-with-flutter-brand-betnacional/"
+  },
+  {
+    "Date": "2026-07-19",
+    "Category": "Partnership Intel",
+    "Company": "BetStarters",
+    "Headline": "BetStarters launches BetStarters 4.0 in 2026 — a fully rebranded iGaming B2B infrastructure platform (PAM, CRM, Sportsbook, Casino Hub) purpose-built for LATAM and Africa operators, with no named crypto payment partner in its stack",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "BetStarters 4.0 is a full platform relaunch targeting operators entering Mexico, Peru, Brazil, Colombia, and Africa — GWC's highest-priority markets where USDT is the dominant deposit alternative to card friction and cross-border banking delays. The platform bundles payment provider integrations as a core module with no named crypto payment processor. A GWC integration at the BetStarters platform level would deliver USDT multichain deposits and EUR SEPA/SWIFT fiat off-ramp to every operator client BetStarters onboards across LATAM and Africa through one B2B partnership.",
+    "Suggested Action": "Research decision-maker at BetStarters — target CEO or Head of Partnerships for USDT multichain payment API integration into the BetStarters 4.0 platform; reference LATAM and Africa operator focus as the geographic fit for GWC's USDT rails",
+    "Status": "",
+    "Source URL": "https://betstarters.com/betstarters-4-0-begins-a-new-chapter-in-2026/"
+  }
+]
