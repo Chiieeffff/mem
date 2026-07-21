@@ -1,0 +1,57 @@
+[
+  {
+    "Date": "2026-07-21",
+    "Category": "Lead Signal",
+    "Company": "Glitnor Group (LCKY Group)",
+    "Headline": "Glitnor Group (rebranded LCKY Group) partners with Kambi for multi-brand Turnkey Sportsbook rollout across Sweden, Netherlands, and Ontario in 2026 — adding sportsbook to Lucky Casino, VeraJohn, Happy Casino, Flax Casino, and One Casino with no named crypto payment provider",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Glitnor Group (now LCKY Group) is a €150M+ revenue multi-brand iGaming operator rolling out Kambi's Turnkey Sportsbook across five brands in three regulated markets simultaneously — Sweden, the Netherlands, and Ontario. Adding sportsbook at this scale triggers a payment vendor review cycle for new deposit flows. No institutional-grade B2B USDT/USDC multichain settlement or EUR SEPA/SWIFT fiat off-ramp has been identified in their payment stack; confirmed methods are cards and Interac only. GWC's USDT multichain rails address the crypto payment gap across their internationally mixed player base (Swedish, Dutch, Canadian bettors) before any payment relationships are locked in for the new sportsbook vertical.",
+    "Suggested Action": "Research decision-maker at LCKY Group / Glitnor Services — target Head of Payments or VP of Product for USDT multichain deposit rail pitch; reference the multi-brand Kambi sportsbook rollout across 5 regulated brands as the payment infrastructure review trigger and frame GWC's EUR SEPA/SWIFT fiat off-ramp as the missing settlement layer for their European operator footprint",
+    "Status": "",
+    "Source URL": "https://igamingbusiness.com/sports-betting/online-sports-betting/glitnor-partners-kambi-sportsbook-rollout/"
+  },
+  {
+    "Date": "2026-07-21",
+    "Category": "Lead Signal",
+    "Company": "BetWarrior",
+    "Headline": "Kambi Group extends long-term Turnkey Sportsbook partnership with BetWarrior across Latin America on June 22, 2026 — cementing the Argentina-founded sportsbook operator's expansion into Brazil and Peru with no identified crypto payment partner",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "BetWarrior is one of Argentina's leading sportsbook brands, now expanding into Brazil and Peru through a renewed multi-year Kambi Turnkey Sportsbook agreement. Argentina's structural peso instability makes USDT the dominant deposit alternative for retail bettors; Brazil and Peru follow with card friction and cross-border banking delays. No institutional-grade B2B USDT/USDC multichain settlement or EUR SEPA/SWIFT fiat off-ramp has been identified in BetWarrior's payment stack. A Kambi sportsbook extension signals active platform investment and vendor evaluation ahead of LatAm market expansion, creating the ideal window to position GWC's USDT rails before any payment processor relationship is locked in.",
+    "Suggested Action": "Research decision-maker at BetWarrior — target Head of Payments or CFO for USDT multichain deposit rail pitch; reference the June 22 Kambi extension and active expansion into Brazil and Peru as the timing hook where USDT demand from Argentine and Brazilian bettors is highest and card payment friction is greatest",
+    "Status": "",
+    "Source URL": "https://sbcnews.co.uk/sportsbook/2026/06/22/kambi-betwarrior-latam/"
+  },
+  {
+    "Date": "2026-07-21",
+    "Category": "Partnership Intel",
+    "Company": "BlueOcean Gaming",
+    "Headline": "BlueOcean Gaming (B2B white-label iGaming platform aggregator with 140+ content providers and 70+ operator clients) signs ICONIC21 live casino and slots distribution deal on July 14, 2026 — expanding its GameHub content platform with no identified institutional crypto payment layer",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "BlueOcean Gaming is a Malta-based B2B white-label platform and content aggregation provider whose 70+ operator clients share common back-end infrastructure for account management, payments, and bonus systems. The ICONIC21 content deal signals continued platform growth and active vendor relationship building. No institutional-grade B2B USDT/USDC multichain settlement or EUR SEPA/SWIFT fiat off-ramp has been identified in BlueOcean's operator-facing payment stack. A GWC integration at the BlueOcean platform level would add USDT multichain deposits to every operator in their 70+ client network through one B2B partnership — the same platform-multiplier dynamic as QTech and Comtrade already tracked in GWC's pipeline.",
+    "Suggested Action": "Research decision-maker at BlueOcean Gaming — target CEO or Head of Partnerships for USDT multichain payment API integration at the platform level; reference the July 14 ICONIC21 content expansion and 70+ operator client base as the reach multiplier argument for a single B2B USDT integration that scales across their full operator network",
+    "Status": "",
+    "Source URL": "https://europeangaming.eu/portal/press-releases/2026/07/15/209267/iconic21-signs-distribution-deal-with-blueocean-gaming/"
+  },
+  {
+    "Date": "2026-07-21",
+    "Category": "Partnership Intel",
+    "Company": "RubyPlay",
+    "Headline": "RubyPlay acquires Splash Tech on July 8, 2026 — its first corporate acquisition — expanding from a B2B casino game studio into a full engagement platform provider for iGaming operators worldwide, adding jackpot networks and free-to-play tools with no named crypto payment partner for the expanding B2B platform",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "RubyPlay's first acquisition (Splash Tech) transforms it from a game supplier into a B2B engagement platform provider, adding jackpot networks and free-to-play tools distributed across their growing operator client base in regulated markets globally. As RubyPlay expands into jackpot platform infrastructure, the crypto-native operator segment (MENA, APAC, LatAm) represents a growing share of their addressable market where USDT is the standard funding method for jackpot pool contributions and player deposits. No institutional-grade B2B USDT payment partner has been identified for RubyPlay or the operator clients their expanding platform serves. GWC's outreach timed to this platform expansion signals positions USDT rails as the payment infrastructure layer for RubyPlay's growing operator network before any crypto processor relationship is established.",
+    "Suggested Action": "Research decision-maker at RubyPlay — target CEO or Head of Business Development for a joint USDT payment infrastructure discussion; reference the July 8 Splash Tech acquisition as the platform expansion moment where crypto-native operators using RubyPlay's jackpot and engagement tools would benefit from USDT multichain deposit rails",
+    "Status": "",
+    "Source URL": "https://europeangaming.eu/portal/latest-news/2026/07/09/209039/rubyplay-splash-tech-acquisition/"
+  },
+  {
+    "Date": "2026-07-21",
+    "Category": "Lead Signal",
+    "Company": "BitDelta Securities",
+    "Headline": "BitDelta Securities secures UAE CMA Category 5 (Arrangement and Advice) license on July 20, 2026 — establishing as a regulated Dubai-based introducing broker and financial advisor targeting MENA and GCC retail trading clients from a day-zero launch with no identified crypto payment infrastructure",
+    "Lead Potential": "LOW",
+    "Why It Matters": "BitDelta Securities is a newly UAE-regulated introducing broker (Category 5 = Arrangement & Advice) launching from Dubai to target MENA and GCC retail traders — a market where USDT is the dominant deposit alternative to bank wire friction and card restrictions for Islamic finance-compliant clients. While Category 5 does not permit holding client funds directly, UAE-based IBs route their client flow through upstream execution brokers where USDT deposit rails become the key friction point. As BitDelta builds its MENA retail client base from a day-zero UAE CMA license, GWC's outreach timed to their launch captures the payment infrastructure conversation before any upstream payment channel relationship is established.",
+    "Suggested Action": "Monitor — research founder or CEO at BitDelta Securities for USDT deposit infrastructure discussion; use July 20 UAE CMA license as the outreach trigger and reference Bybit's recent UAE SCA full licence approval as evidence that USDT infrastructure has achieved full UAE regulatory legitimacy across the GCC",
+    "Status": "",
+    "Source URL": "https://www.prnewswire.com/ae/news-releases/bitdelta-securities-secures-full-cma-category-5-license-in-the-uae-establishes-regulated-local-office-in-dubai-302828677.html"
+  }
+]
