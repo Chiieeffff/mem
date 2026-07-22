@@ -1,0 +1,57 @@
+[
+  {
+    "Date": "2026-07-22",
+    "Category": "Lead Signal",
+    "Company": "Cirsa / Casino Figueira Portugal",
+    "Headline": "Cirsa (Spain's largest casino group, 447 venues, 11 markets) acquires Casino Figueira, Portugal's historic land-based casino on July 21 — extending its omnichannel Portugal strategy alongside CasinoPortugal.pt acquired December 2024",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Cirsa is building a full omnichannel Portugal presence combining CasinoPortugal.pt (online) with Casino Figueira (land-based). CasinoPortugal.pt partially accepts crypto but auto-converts to EUR — no institutional USDT processor identified. Cirsa's multi-market European and LATAM estate (Spain, Italy, Morocco, Mexico) with rapidly expanding digital operations creates a clear window for GWC's USDT multichain deposits and EUR SEPA/SWIFT fiat off-ramp as the institutional-grade upgrade over their current ad-hoc crypto conversion layer.",
+    "Suggested Action": "Research decision-maker at Cirsa Digital or CasinoPortugal.pt — target Head of Payments or Digital Product for USDT institutional payment rail discussion, referencing Casino Figueira acquisition as the omnichannel consolidation trigger",
+    "Status": "",
+    "Source URL": "https://igamingbusiness.com/strategy/ma/cirsa-portugal-land-based-market-casino-figueira-acquisition/"
+  },
+  {
+    "Date": "2026-07-22",
+    "Category": "Market Trend",
+    "Company": "Kenya GRA (Gambling Regulatory Authority)",
+    "Headline": "Kenya's new Gambling Regulatory Authority commences first licensing cycle under Gambling Control Act 2025 — all BCLB-licensed operators must re-apply within 60-day transition window from June 30, 2026; KES100M capital plus KES200M security bond required for foreign operators",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Kenya's regulatory reset triggers a full payment stack re-evaluation for all licensed operators in sub-Saharan Africa's largest iGaming market. M-Pesa dominates domestic payments but international player acquisition — diaspora and cross-border East Africa — creates demand for USDT deposits where mobile money remittance fees are prohibitive. GRA transition deadline pressure means operators are actively reassessing all vendor relationships simultaneously; GWC's USDT multichain deposits and EUR SEPA/SWIFT fiat off-ramp serve the international acquisition layer that M-Pesa cannot reach.",
+    "Suggested Action": "Monitor — identify Kenya-licensed operators applying for GRA licences; target payments or compliance team at leading Kenya operators (SportPesa, Betika, 1xBet Kenya) for USDT deposit infrastructure discussion during the re-licensing window",
+    "Status": "",
+    "Source URL": "https://igamingafrika.com/kenya-launches-first-gambling-licensing-cycle-under-new-regulatory-framework/"
+  },
+  {
+    "Date": "2026-07-22",
+    "Category": "Market Trend",
+    "Company": "Galaxy Gaming (Evolution merger termination)",
+    "Headline": "Evolution terminates $85M Galaxy Gaming acquisition after failing to secure all regulatory approvals — pays $5.23M termination fee; Galaxy Gaming evaluating strategic options independently (July 21, 2026)",
+    "Lead Potential": "LOW",
+    "Why It Matters": "Galaxy Gaming is a B2B live table games supplier (Texas Hold'em poker, progressives) for casinos globally — not a direct GWC ICP. The merger termination leaves Galaxy Gaming an independent supplier actively seeking new partnerships. Casino operator clients using Galaxy Gaming's live tables who also lack crypto payment infrastructure could represent warm introductions through Galaxy Gaming's distribution network if a relationship is established.",
+    "Suggested Action": "No immediate outreach — flag for context if GWC has existing relationships with Galaxy Gaming's casino operator clients who may need crypto payment infrastructure",
+    "Status": "",
+    "Source URL": "https://igamingbusiness.com/strategy/ma/evolution-terminate-merger-agreement-galaxy-gaming/"
+  },
+  {
+    "Date": "2026-07-22",
+    "Category": "Lead Signal",
+    "Company": "Born2trade",
+    "Headline": "CFD broker Born2trade launches Prediction Markets module on Match-Trader platform — diversifying from Forex/CFD into prediction markets with no identified crypto payment processor (July 21, 2026)",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Born2trade is a CFD broker now entering prediction markets via Match-Trader, exactly the profile GWC targets: international broker with high crypto-native client concentration in LATAM, MENA, and SE Asia where USDT deposits are the preferred funding method and card payment friction is highest. No crypto payment processor identified. The prediction markets launch is an active product investment moment — decision-makers are engaged and receptive to payment infrastructure that unlocks USDT-holding clients for funding positions.",
+    "Suggested Action": "Research decision-maker at Born2trade — target Head of Payments or CTO for USDT multichain deposit infrastructure discussion; frame GWC as the payment rail for crypto-native traders funding prediction markets with USDT",
+    "Status": "",
+    "Source URL": "https://fxnewsgroup.com/forex-news/platforms/match-trader-to-power-prediction-markets-at-cfds-broker-born2trade/"
+  },
+  {
+    "Date": "2026-07-22",
+    "Category": "Partnership Intel",
+    "Company": "Hub88",
+    "Headline": "Hub88 iGaming aggregator (200+ fiat and crypto payment flows, HubWallet) signs Vivid Gaming content deal, continuing active operator network expansion across regulated markets (July 21, 2026)",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Hub88 is an iGaming aggregator supporting 200+ fiat and crypto payment flows and actively scaling its operator client base through content supplier integrations. Despite broad payment coverage, Hub88's HubWallet crypto product is not positioned for institutional USDT multichain settlement with EUR SEPA/SWIFT fiat off-ramp — the B2B-grade settlement layer GWC provides. A GWC integration at the Hub88 platform level would extend institutional USDT deposit capability across Hub88's full operator network through one agreement, following the same B2B platform-multiplier model as K36, EveryMatrix, and QTech in this sheet.",
+    "Suggested Action": "Research decision-maker at Hub88 — target Head of Payments or BD for institutional USDT multichain settlement integration discussion; contrast GWC's EUR SEPA/SWIFT fiat off-ramp against Hub88's current HubWallet crypto layer",
+    "Status": "",
+    "Source URL": "https://igamingbusiness.com/company-news/vivid-gaming-strengthens-global-reach-through-hub88-partnership/"
+  }
+]
