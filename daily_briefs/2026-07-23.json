@@ -1,0 +1,57 @@
+[
+  {
+    "Date": "2026-07-23",
+    "Category": "Lead Signal",
+    "Company": "Hard Rock Bet",
+    "Headline": "Hard Rock Bet (Hard Rock International, $6B+ brand, 50+ global resorts) launches its first international sportsbook and casino in Ontario on July 22, 2026 — entering Canada's regulated iGaming market via AGCO licence with Nuvei handling US instant-bank deposits but Ontario-specific crypto payment layer unconfirmed",
+    "Lead Potential": "HIGH",
+    "Why It Matters": "Hard Rock Bet's Ontario launch is their first international iGaming expansion outside the US, meaning payment vendor relationships for the Canadian market are being established fresh. Nuvei is their confirmed US payment processor (instant bank transfer, 2022 partnership), but Nuvei's crypto offering is a retail crypto-to-fiat conversion model — not institutional USDT B2B settlement. No institutional-grade USDT/USDC multichain settlement or EUR fiat off-ramp has been identified for their Ontario operation. Hard Rock International is a $6B+ brand with 50+ resorts globally; Ontario is a flagship regulated iGaming market with 50+ licensed competitors. GWC's USDT multichain deposits and EUR SEPA/SWIFT fiat off-ramp fill the institutional stablecoin settlement layer that Nuvei's retail conversion model does not cover — timed to the Ontario launch window before any new crypto payment relationship is locked in.",
+    "Suggested Action": "Run linkedin_outreach workflow for Hard Rock Bet / Hard Rock Digital Canada — target Head of Payments or VP of Digital Product at Hard Rock Digital; reference the July 22 Ontario first-international-launch as the payment infrastructure setup window; differentiate GWC's institutional USDT B2B settlement from Nuvei's retail crypto-to-fiat conversion model; frame as the missing stablecoin settlement layer for their Canadian player base",
+    "Status": "",
+    "Source URL": "https://www.prnewswire.com/news-releases/hard-rock-bet-brings-world-class-sports-betting-and-online-casino-to-ontario-302832453.html"
+  },
+  {
+    "Date": "2026-07-23",
+    "Category": "Lead Signal",
+    "Company": "BongoBongo",
+    "Headline": "BongoBongo, a new B2C sportsbook and casino operator, goes live across Tanzania, Zambia, Kenya, and Uganda via QTech platform on July 22, 2026 — reporting higher-than-expected turnover driven by FIFA World Cup with no identified crypto payment partner",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "BongoBongo is a new B2C sportsbook and casino operator entering four of GWC's highest-priority African markets simultaneously through QTech's B2B platform (already tracked in GWC's pipeline). USDT is the dominant deposit alternative to mobile money and card friction in Tanzania, Zambia, Kenya, and Uganda. FIFA World Cup-driven early turnover signals active player acquisition with a growing deposit base. No institutional-grade B2B USDT/USDC multichain settlement or EUR SEPA/SWIFT fiat off-ramp has been identified for BongoBongo. As a new operator building out vendor relationships from launch, GWC's outreach timed to their go-live captures the crypto payment infrastructure conversation before any processor relationship is established.",
+    "Suggested Action": "Research decision-maker at BongoBongo — target CEO or Head of Payments for USDT multichain deposit rail pitch; reference the July 22 QTech go-live across four African markets and FIFA World Cup volume as the outreach hook; reference GWC's existing QTech pipeline relationship as the platform-layer credibility signal",
+    "Status": "",
+    "Source URL": "https://eegaming.org/latest-news/2026/07/22/143071/bongobongo-goes-live-with-qtech-across-four-african-markets/"
+  },
+  {
+    "Date": "2026-07-23",
+    "Category": "Market Trend",
+    "Company": "Circle StableFX",
+    "Headline": "Circle launches StableFX — an institutional-grade stablecoin FX engine on its Arc blockchain on July 22, 2026 — enabling 24/7 Forex settlement for institutional clients using USDC and partner stablecoins, targeting the same Forex broker and institutional FX segment as GWC's EUR SEPA/SWIFT fiat off-ramp",
+    "Lead Potential": "LOW",
+    "Why It Matters": "Circle's StableFX is a direct competitor signal in the institutional stablecoin FX and Forex settlement segment where GWC's EUR SEPA/SWIFT fiat off-ramp plays. StableFX enables 24/7 FX settlement using USDC on Arc blockchain — targeting the same Forex broker institutional clients that GWC pitches for fiat off-ramp. GWC's differentiation: USDT multichain support (not only USDC), B2B iGaming + Forex dual vertical, zero-chargeback operator model, and API-first backoffice vs. Circle's infrastructure-layer positioning. Reference StableFX in outreach to Forex brokers already evaluating stablecoin settlement — it signals the category is maturing and removes the objection that stablecoin FX is unproven at institutional scale.",
+    "Suggested Action": "Note competitive context — reference Circle StableFX launch as market validation when pitching Forex broker prospects on stablecoin fiat settlement; differentiate GWC's USDT multichain B2B settlement + zero-chargeback operator model from Circle's USDC-focused infrastructure layer; use StableFX as proof the institutional stablecoin FX category has arrived",
+    "Status": "",
+    "Source URL": "https://www.circle.com/blog/introducing-circle-stablefx-and-circle-partner-stablecoins"
+  },
+  {
+    "Date": "2026-07-23",
+    "Category": "Competitor Move",
+    "Company": "Wirex / Arc",
+    "Headline": "Wirex (crypto payments neobank, 6M+ users) partners with Circle's Arc blockchain on July 22, 2026 to launch Wirex One — a stablecoin-powered neobank enabling 24/7 multi-currency stablecoin payments and fiat off-ramp for consumers and businesses across MENA and Europe",
+    "Lead Potential": "LOW",
+    "Why It Matters": "Wirex's Arc partnership signals that the consumer-facing stablecoin payments layer is converging with the institutional settlement infrastructure GWC operates in. Wirex One's stablecoin-powered neobank directly targets MENA and European users — GWC's primary Forex broker and iGaming prospect geography. This is not a direct competitor (Wirex targets retail/B2C users; GWC targets B2B operators and Forex brokers), but validates that stablecoin payment infrastructure is fast becoming table stakes across both retail and institutional verticals. Reference this in outreach as market momentum evidence: if consumer-facing crypto payment apps are going stablecoin-native, the institutional B2B operator layer (GWC's ICP) cannot afford to lag.",
+    "Suggested Action": "Note competitive context — reference Wirex One stablecoin neobank launch as market momentum evidence when pitching compliance-hesitant iGaming and Forex prospects; frame GWC's institutional B2B USDT rails as the operator-side complement to consumer-facing stablecoin apps like Wirex One that their players are already using",
+    "Status": "",
+    "Source URL": "https://fxdailyreport.com/wirex-partners-arc-blockchain-to-expand-stablecoin-payments/"
+  },
+  {
+    "Date": "2026-07-23",
+    "Category": "Lead Signal",
+    "Company": "CryptoCasino.com",
+    "Headline": "CryptoCasino.com expands cryptocurrency support to BTC, ETH, DOGE, LTC, XRP, SOL, USDT, and TRX and adds MetaMask wallet integration on July 20, 2026 — signaling active investment in crypto UX but with no institutional B2B USDT settlement or EUR SEPA/SWIFT fiat off-ramp identified",
+    "Lead Potential": "LOW",
+    "Why It Matters": "CryptoCasino.com is a B2C crypto-native casino operator expanding its on-chain deposit options including USDT and MetaMask — signaling an active player-facing crypto investment cycle. While they have retail USDT deposit support, no institutional-grade B2B USDT/USDC settlement or EUR SEPA/SWIFT fiat off-ramp has been identified for their operator-side payment stack. The EUR fiat off-ramp and institutional USDT settlement layer that GWC provides sits above the retail wallet deposit UX they're expanding — addressing crypto-to-fiat operator liquidity management, not player deposit flows. LOW priority as they are already crypto-native with existing USDT retail handling; EUR fiat off-ramp for the operator treasury layer is the specific pitch angle.",
+    "Suggested Action": "Monitor — research CEO or Head of Finance at CryptoCasino.com for EUR SEPA/SWIFT fiat off-ramp discussion; reference their expanded USDT deposit stack as evidence of growing stablecoin player volume that requires institutional-grade EUR settlement on the operator side",
+    "Status": "",
+    "Source URL": "https://eegaming.org/latest-news/2026/07/22/143057/cryptocasino-com-expands-platform-with-broader-cryptocurrency-support-and-multi-language-experience/"
+  }
+]
