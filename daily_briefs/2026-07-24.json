@@ -1,0 +1,90 @@
+[
+  {
+    "Date": "2026-07-24",
+    "Category": "Lead Signal",
+    "Company": "1win",
+    "Headline": "1win, a crypto-native B2C sportsbook and casino operator active across Asia, LATAM, and Africa, expands prediction markets with crypto forecasting products on July 17, 2026 — adding crypto-native forecast instruments to its iGaming platform with no institutional B2B USDT EUR fiat off-ramp identified for the operator treasury layer",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "1win is a crypto-native B2C sportsbook and casino operator with significant scale across Asia, LATAM, and Africa — markets where USDT is the dominant player deposit method. The prediction markets expansion signals active product investment in crypto-adjacent verticals and a growing USDT deposit volume requiring institutional settlement. While 1win's retail crypto deposit UX is established, institutional-grade EUR SEPA/SWIFT fiat off-ramp for operator-side treasury settlement — converting accumulated USDT player deposits into EUR working capital — has not been identified. GWC's institutional settlement layer sits above 1win's retail crypto stack, addressing the operator treasury off-ramp that retail USDT handling does not solve.",
+    "Suggested Action": "Research Head of Payments or CFO at 1win for EUR SEPA/SWIFT fiat off-ramp discussion; reference the prediction markets expansion as a signal of growing USDT player volume requiring institutional settlement; differentiate GWC's operator treasury off-ramp from 1win's existing retail crypto deposit UX",
+    "Status": "",
+    "Source URL": "https://eegaming.org/latest-news/2026/07/17/142879/1win-expands-its-prediction-markets-with-crypto-forecasts/"
+  },
+  {
+    "Date": "2026-07-24",
+    "Category": "Lead Signal",
+    "Company": "STARTRADER",
+    "Headline": "STARTRADER, a global multi-asset Forex and CFD broker, launches 24/7 US Stock CFD trading on July 22, 2026 — extending its round-the-clock multi-asset lineup in an active platform investment cycle with no institutional USDT deposit infrastructure identified for its MENA and APAC client base",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "STARTRADER is a global multi-asset CFD/Forex broker expanding its 24/7 trading infrastructure with US Stock CFDs — a product investment cycle signaling active platform development and management engagement. STARTRADER's client base is concentrated in MENA and APAC — where USDT deposits are the dominant alternative to card friction and cross-border banking delays for retail Forex traders. No institutional-grade B2B USDT/USDC multichain settlement or EUR SEPA/SWIFT fiat off-ramp has been identified in their deposit stack. The 24/7 stock CFD launch creates a timely outreach window while the product team is in active development and vendor relationships are being evaluated.",
+    "Suggested Action": "Research Head of Payments or CTO at STARTRADER for USDT multichain deposit rail pitch; reference 24/7 stock CFD launch as the active platform investment trigger and MENA/APAC client concentration where USDT demand is highest; frame GWC's USDT rails as the deposit infrastructure for crypto-native traders funding positions with stablecoins",
+    "Status": "",
+    "Source URL": "https://fxnewsgroup.com/forex-news/retail-forex/startrader-launches-24-7-us-stock-cfds-expands-24-5-lineup/"
+  },
+  {
+    "Date": "2026-07-24",
+    "Category": "Lead Signal",
+    "Company": "ACY Securities",
+    "Headline": "ACY Securities, a Sydney-based multi-asset CFD/Forex broker, launches PAXG/USD tokenized gold CFD enabling weekend gold trading on approximately July 21, 2026 — signaling active crypto-adjacent product investment with no institutional USDT deposit infrastructure identified for its MENA and APAC retail client base",
+    "Lead Potential": "LOW",
+    "Why It Matters": "ACY Securities is a regulated Australian multi-asset CFD broker launching PAXG/USD (tokenized gold) CFD trading — a signal that their product team is actively investing in on-chain and crypto-adjacent instruments. PAXG adoption signals client familiarity with crypto-native asset classes, including USDT-funded trading positions. Their MENA and APAC client concentration represents the exact geography where USDT deposits are the expected account-funding method for retail Forex and CFD accounts. No institutional-grade B2B USDT/USDC multichain settlement or EUR SEPA/SWIFT fiat off-ramp has been identified in ACY's deposit stack. LOW priority given the indirect crypto signal, but the PAXG launch opens a natural outreach hook connecting their crypto-adjacent product expansion to USDT deposit infrastructure.",
+    "Suggested Action": "Monitor — research Head of Payments at ACY Securities for USDT multichain deposit rail discussion; reference PAXG/USD tokenized gold launch as evidence of active crypto-adjacent product investment and client demand for non-fiat funding instruments; frame USDT deposit rails as the natural complement to their on-chain product expansion",
+    "Status": "",
+    "Source URL": "https://fxnewsgroup.com/forex-news/retail-forex/acy-launches-paxgusd-enabling-weekend-gold-trading/"
+  },
+  {
+    "Date": "2026-07-24",
+    "Category": "Lead Signal",
+    "Company": "Incentive Games",
+    "Headline": "Incentive Games, a B2B casual and instant-win game studio, launches first real-money titles with bet365 in Alberta as Canada's newest regulated iGaming market goes live in July 2026 — entering the regulated real-money space with no identified institutional crypto payment layer for the Alberta launch",
+    "Lead Potential": "LOW",
+    "Why It Matters": "Incentive Games is a B2B game studio entering regulated real-money iGaming in Alberta — Canada's newest regulated market — through a bet365 partnership. The Alberta market launch opens fresh vendor relationship cycles across every B2B iGaming platform and payment provider operating in the newly regulated environment. Incentive Games itself is a game content provider rather than a platform aggregation target (GWC's primary B2B ICP), but their bet365 distribution signals active regulated market expansion. LOW priority as a game studio is not a direct payment infrastructure target; however, Alberta's regulated launch may surface other B2B platform operators building out payment stacks where USDT is not yet addressed.",
+    "Suggested Action": "Monitor — flag Incentive Games/bet365 Alberta launch as a regulated market-opening signal; identify other iGaming B2B platform and aggregation providers entering Alberta who may need USDT payment infrastructure as the market matures beyond the initial launch",
+    "Status": "",
+    "Source URL": "https://igamingbusiness.com/company-news/incentive-games-enters-alberta-with-bet365/"
+  },
+  {
+    "Date": "2026-07-24",
+    "Category": "Lead Signal",
+    "Company": "Cirsa / Slots del Sol Paraguay",
+    "Headline": "Cirsa, Spain's largest casino group (447 venues, 11 markets), acquires majority stake in Slots del Sol, Paraguay's online slots operator, in July 2026 — extending its LATAM digital expansion alongside the simultaneous Casino Figueira Portugal acquisition with no institutional USDT processor identified for the Paraguay operation",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Cirsa is executing a simultaneous multi-market acquisition strategy — Casino Figueira (Portugal, July 21) and Slots del Sol (Paraguay, July 2026) — signaling active international expansion with fresh payment vendor relationships being established across both new markets simultaneously. CasinoPortugal.pt (Cirsa's existing digital Portugal brand) partially accepts crypto but auto-converts to EUR; no institutional USDT settlement has been identified for their Paraguay operation. Argentina's structural peso instability has normalized USDT deposits across the Southern Cone including Paraguay, where cross-border bettors use USDT to bypass banking friction. GWC's USDT multichain rails and EUR SEPA/SWIFT fiat off-ramp address the institutional settlement layer Cirsa lacks for their rapidly expanding LATAM digital estate.",
+    "Suggested Action": "Escalate Cirsa outreach — bundle the Portugal and Paraguay acquisitions as a double-trigger for institutional USDT settlement; target Head of Payments or VP of Digital Product at Cirsa Digital; frame GWC's EUR SEPA/SWIFT fiat off-ramp as the missing institutional settlement layer across Cirsa's two simultaneous new-market digital operations",
+    "Status": "",
+    "Source URL": "https://igamingbusiness.com/strategy/cirsa-acquires-majority-stake-in-paraguays-slots-del-sol/"
+  },
+  {
+    "Date": "2026-07-24",
+    "Category": "Lead Signal",
+    "Company": "FIRST.bet / Argentina",
+    "Headline": "FIRST.bet (B2B sportsbook platform network) enters Argentina's regulated iGaming market through an ONDISS deal with City Center Online on July 23, 2026 — FIRST.bet's first Argentina presence in a market where structural ARS peso devaluation makes USDT the dominant deposit alternative, with no crypto payment processor identified for the Argentine operation",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "FIRST.bet is a B2B sportsbook platform provider entering Argentina through an ONDISS/City Center Online partnership — its first Argentina market footprint. Argentina's structural peso devaluation and currency controls make USDT the dominant deposit alternative for retail sports bettors funding accounts in ARS-constrained markets; USDT demand in Argentina is among the highest of any iGaming market globally. No institutional-grade B2B USDT/USDC multichain settlement or EUR SEPA/SWIFT fiat off-ramp has been identified for FIRST.bet's Argentine operation. FIRST.bet's LATAM footprint is actively expanding (ADI Predictstreet/FIFA World Cup LatAm deployment already tracked in GWC pipeline). The Argentina entry adds the region's highest-USDT-demand market to FIRST.bet's growing distribution network.",
+    "Suggested Action": "Escalate FIRST.bet outreach — reference July 23 Argentina entry alongside the earlier LATAM prediction markets deal (ADI Predictstreet); target CEO or Head of Payments for USDT multichain deposit infrastructure pitch; frame Argentina peso instability and structural USDT demand as the primary pitch hook for their new Argentine operator client base",
+    "Status": "",
+    "Source URL": "https://sbcnews.co.uk/latestnews/2026/07/23/first-argentina/"
+  },
+  {
+    "Date": "2026-07-24",
+    "Category": "Lead Signal",
+    "Company": "SkillOnNet / Greece",
+    "Headline": "SkillOnNet (white-label iGaming platform, 50+ operator clients) strengthens its Greek regulated market launch with an Amusnet content expansion partnership on July 14, 2026 — deepening its regulated European footprint with no institutional USDT payment layer identified for its operator client network",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "SkillOnNet is a white-label iGaming platform provider with 50+ operator clients now deepening its regulated presence in Greece's EEEP-licensed market through expanded content partnerships. Greece's regulated iGaming market is an active operator acquisition environment with growing platform penetration. No institutional-grade B2B USDT/USDC multichain settlement or EUR SEPA/SWIFT fiat off-ramp has been identified in SkillOnNet's operator-facing payment stack. A GWC integration at the SkillOnNet platform level — already tracked in GWC pipeline through a Mexico market launch — would add USDT multichain deposits to every operator in their 50+ client network through one B2B partnership, extending GWC's reach across SkillOnNet's combined European and LATAM regulated operator base.",
+    "Suggested Action": "Escalate SkillOnNet outreach — reference both July 14 Greek market deepening and the previously noted Mexico launch as multi-market expansion signals; target CEO or Head of Payments for institutional USDT platform-level integration covering their full 50+ operator network; frame multi-market simultaneous activity as the trigger for a platform-wide payment partnership discussion",
+    "Status": "",
+    "Source URL": "https://igamingbusiness.com/company-news/skillonnet-strengthens-greek-launch-with-amusnet-partnership-expansion/"
+  },
+  {
+    "Date": "2026-07-24",
+    "Category": "Partnership Intel",
+    "Company": "BGaming",
+    "Headline": "BGaming (B2B iGaming game studio with global distribution to thousands of casino operators) expands its regulated market reach through a Bragg Gaming Group B2B distribution partnership on approximately July 22, 2026 — extending BGaming's content into Bragg's regulated European and North American operator network with no institutional USDT settlement layer identified for the joint operator base",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "BGaming is one of iGaming's most widely distributed game studios, with a large global operator client base concentrated in crypto-native and regulated markets across LATAM, Africa, and APAC. The Bragg Gaming Group partnership extends BGaming's distribution into Bragg's regulated European and North American operator network — significantly expanding their shared operator client overlap. BGaming's crypto-native and emerging-market operators represent a large installed base that accept USDT at the retail deposit level but may lack institutional-grade EUR SEPA/SWIFT fiat off-ramp for treasury settlement. A referral or channel partnership with BGaming to introduce GWC's USDT settlement rails to their shared operator clients could open a scalable B2B distribution dynamic, similar to the QTech and Comtrade partnerships already in GWC's pipeline.",
+    "Suggested Action": "Research CEO or Head of Partnerships at BGaming for a channel or co-distribution partnership discussion; reference their Bragg partnership and expanding regulated market presence as the hook for introducing GWC's USDT settlement to BGaming's shared operator client base; propose referral arrangement where BGaming introduces GWC to crypto-native operators in their joint distribution network",
+    "Status": "",
+    "Source URL": "https://igamingbusiness.com/company-news/bgaming-expands-reach-through-bragg-gaming-group-partnership/"
+  }
+]
