@@ -1,0 +1,57 @@
+[
+  {
+    "Date": "2026-07-25",
+    "Category": "Lead Signal",
+    "Company": "EC Markets",
+    "Headline": "EC Markets records $6.34T in Q2 2026 trading volume — a new high — across 322,000 active traders predominantly in MENA and UAE (SCA-licensed), with deposit infrastructure limited to Visa/Mastercard and bank wire and no USDT/USDC capability identified",
+    "Lead Potential": "HIGH",
+    "Why It Matters": "EC Markets is a scaled MENA-focused CFD/Forex broker hitting record Q2 volumes with 322,000 active traders concentrated in UAE — the geography where USDT deposits are the primary alternative to card and banking friction for retail Forex traders. Their payment stack (Visa/MC and bank wire only, per independent broker reviews) has no stablecoin deposit capability for a client base that is among the most crypto-native in the world. GWC's USDT multichain deposits and EUR SEPA/SWIFT fiat off-ramp directly fill this gap at a broker with the scale and MENA concentration that makes stablecoin demand structurally high.",
+    "Suggested Action": "Run linkedin_outreach workflow for EC Markets — target Head of Payments or VP of Product for institutional USDT multichain deposit discussion; reference Q2 $6.34T record volume and MENA/UAE client concentration as the outreach trigger; frame GWC's stablecoin rails as the missing funding channel for their UAE trader base where USDT is the dominant deposit alternative",
+    "Status": "",
+    "Source URL": "https://fxnewsgroup.com/forex-news/retail-forex/ec-markets-q2-2026-trading-volumes-hit-record-6-34-trillion/"
+  },
+  {
+    "Date": "2026-07-25",
+    "Category": "Lead Signal",
+    "Company": "G2 Digital / Vegas Club Casino",
+    "Headline": "G2 Digital launches Vegas Club Casino in New Jersey on July 22, 2026 via Caesars market access using White Hat Gaming's cashier platform — its first regulated US iGaming brand, with confirmed expansion plans to Alberta, Ontario, and Pennsylvania",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Vegas Club Casino is a newly live B2C operator with zero established payment processor relationships beyond White Hat Gaming's default cashier for the NJ-regulated launch. G2 Digital's confirmed expansion roadmap into Alberta and Ontario — regulated Canadian markets where USDT-accepting operators have already launched — creates a targeted window to establish a GWC crypto payment relationship for the Canadian launches before any incumbent processor is contracted. GWC's USDT multichain deposits and EUR SEPA/SWIFT fiat off-ramp cover the Canadian payment layer that White Hat Gaming's NJ cashier does not include.",
+    "Suggested Action": "Research decision-maker at G2 Digital — target Head of Payments or VP of Product for USDT deposit rail pitch scoped to their planned Alberta and Ontario market launches; reference the July 22 NJ go-live as the outreach hook; frame GWC's stablecoin deposits as the Canadian-market payment infrastructure that White Hat Gaming's default NJ cashier does not cover",
+    "Status": "",
+    "Source URL": "http://www.prnewswire.com/news-releases/g2-digital-launches-vegas-club-casino-in-new-jersey-as-online-casino-market-continues-record-growth-302832327.html"
+  },
+  {
+    "Date": "2026-07-25",
+    "Category": "Market Trend",
+    "Company": "New Zealand iGaming (DIA Licensing)",
+    "Headline": "New Zealand's Department of Internal Affairs opens the country's first-ever iGaming EOI process on July 17, 2026 — up to 15 regulated online casino licences, NZD$7.5M capital requirement, EOI deadline August 14 with auctions in September 2026 and licences expected in early 2027",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "New Zealand's first regulated online casino licensing round creates a fresh payment vendor selection cycle for all operators applying for one of the 15 available licences. Operators assembling payment stacks for NZ — a tech-savvy English-speaking market with high crypto adoption rates and close APAC proximity — will be evaluating crypto deposit options alongside traditional banking ahead of the August 14 EOI deadline. GWC's USDT multichain deposits and EUR SEPA/SWIFT fiat off-ramp are well-positioned to be included in the payment stacks now being assembled, before licences issue in early 2027.",
+    "Suggested Action": "Monitor — identify global iGaming operators known to be applying for New Zealand licences (AU/NZ-active platforms likely in the EOI queue); reference the August 14 deadline as the payment-stack finalization window; use New Zealand licensing as a conversation trigger with GWC's existing ANZ and APAC operator pipeline contacts",
+    "Status": "",
+    "Source URL": "https://igamingbusiness.com/legal-compliance/new-zealand-opens-eoi-process-licences-under-igaming-rollout/"
+  },
+  {
+    "Date": "2026-07-25",
+    "Category": "Partnership Intel",
+    "Company": "1X2 Network / Alberta",
+    "Headline": "1X2 Network, a B2B iGaming content aggregation and platform network, launches in Alberta's newly regulated iGaming market on July 24, 2026 with seven confirmed operator partners — the network's first Canadian regulated market presence with no dedicated crypto payment layer identified for the Alberta operator base",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "1X2 Network is a B2B iGaming platform provider with established relationships across seven Alberta operators at launch in Canada's newest regulated market. A GWC referral or platform-level integration with 1X2 Network could distribute USDT deposit capability across all seven Alberta operator clients — and any future additions — through one B2B partnership, matching the same platform-multiplier approach as QTech, EveryMatrix, and K36 already in GWC's pipeline. Alberta's July 13 regulatory launch means all payment vendor relationships remain open for Q3/Q4 2026 decisions.",
+    "Suggested Action": "Research decision-maker at 1X2 Network — target Head of Partnerships or BD for a referral or payment integration discussion covering their Alberta operator client base; reference the July 24 Alberta launch with seven confirmed operator partners as the hook for a platform-level USDT deposit infrastructure conversation",
+    "Status": "",
+    "Source URL": "https://eegaming.org/latest-news/2026/07/24/143190/1x2-network-launches-in-alberta-igaming-market-with-seven-operators/"
+  },
+  {
+    "Date": "2026-07-25",
+    "Category": "Market Trend",
+    "Company": "MetaQuotes / MetaTrader 5",
+    "Headline": "MetaTrader 5 Beta Build 6030 (July 16, 2026) introduces native AI agent support and Model Context Protocol (MCP) integration — enabling MT5 brokers to deploy AI-driven trading tools and connect external data services directly within the world's most widely used Forex/CFD trading platform",
+    "Lead Potential": "LOW",
+    "Why It Matters": "MetaTrader 5's AI agent and MCP integration signals the dominant Forex/CFD platform entering an active technology upgrade cycle that will pull every MT5-based broker into platform-layer vendor evaluations in H2 2026 and 2027. Brokers investing in MT5 AI infrastructure are simultaneously in vendor review mode across their full fintech stack, including payment rails — creating an ambient sales opportunity where MT5 broker outreach on crypto deposits can reference the broader technology upgrade cycle their team is already engaged in.",
+    "Suggested Action": "Consider referencing MT5 AI/MCP launch in outreach to MT5-based Forex broker prospects in the GWC pipeline — use it as a signal that their platform team is in active technology upgrade mode and receptive to evaluating GWC's crypto payment rails alongside their MT5 AI stack investments",
+    "Status": "",
+    "Source URL": "https://www.financemagnates.com/forex/metatrader-5-beta-adds-native-ai-agents-and-mcp-support-identity-and-broker-tools-also-get-an-overhaul/"
+  }
+]
