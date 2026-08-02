@@ -1,0 +1,57 @@
+[
+  {
+    "Date": "2026-08-02",
+    "Category": "Partnership Intel",
+    "Company": "Atlaslive",
+    "Headline": "Atlaslive — a B2B iGaming platform serving regulated Brazilian and LATAM operators — integrates FIRST.bet's Tier-1 sportsbook technology on July 29, 2026, deepening its operator-facing product stack with no USDT/crypto payment module identified in its payment infrastructure beyond local PIX and fiat rails",
+    "Lead Potential": "HIGH",
+    "Why It Matters": "Atlaslive is a full-service B2B iGaming platform delivering end-to-end casino and sportsbook solutions to regulated operators in Brazil, LATAM, Europe, MENA, and Africa. Its current payment stack is exclusively local-fiat: PIX via StarsPay, digital accounts via Magnum SCD — with no institutional USDT/USDC multichain deposit API identified for the operator client network. The July 29 FIRST.bet sportsbook integration signals an active technology build cycle in which Atlaslive is adding tier-1 product layers for its operator clients — exactly the procurement window in which a USDT crypto payment API becomes relevant. Brazil is GWC's #1 LATAM priority market, where structural banking friction and Pix limits drive USDT demand among bettors; a GWC integration at the Atlaslive platform level would distribute USDT deposit capability to all of Atlaslive's Brazilian and LATAM operator clients through one B2B agreement, replicating the platform-multiplier dynamic of EveryMatrix, QTech, and Pragmatic Solutions already in GWC's pipeline.",
+    "Suggested Action": "Run linkedin_outreach workflow for Atlaslive — target CTO or Head of Partnerships for USDT multichain payment API integration discussion; reference the July 29 FIRST.bet sportsbook integration as the active platform build cycle trigger and Brazil's structural USDT demand as the market driver; frame GWC's USDT crypto payment API as the missing crypto deposit service layer for Atlaslive's operator clients beyond their existing PIX/fiat infrastructure",
+    "Status": "",
+    "Source URL": "https://igamingbusiness.com/company-news/atlaslive-partners-with-first-bet-to-deliver-its-tier-1-sportsbook-to-operators/"
+  },
+  {
+    "Date": "2026-08-02",
+    "Category": "Partnership Intel",
+    "Company": "Kanggiten",
+    "Headline": "Kanggiten — a modular B2B iGaming platform with 50+ operator brands — adds prediction markets via a Data.Bet integration on July 30, 2026, continuing rapid product module expansion in 2026 with no institutional USDT/USDC payment API module identified in its operator-facing payments infrastructure",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Kanggiten is a modular B2B iGaming platform built on over 10 years of B2C operational experience, currently powering 50+ operator brands with a full ecosystem that includes casino and sportsbook engines, aggregation, CRM, affiliate management, analytics, and a payments module. The July 30 Data.Bet prediction markets integration is the latest in a series of product module additions that have accelerated Kanggiten's inbound operator demand in 2026 — and signals that the platform is in an active technology build cycle. No institutional USDT/USDC multichain payment API has been identified as a native component of the Kanggiten payments module. A GWC USDT payment API integrated into Kanggiten's modular ecosystem would reach all 50+ operator brands through one B2B agreement — the same platform-multiplier dynamic as EveryMatrix, QTech, and Games Valley already in GWC's pipeline — before Kanggiten's payment module stack is locked in with an existing provider.",
+    "Suggested Action": "Research CEO or Head of Partnerships at Kanggiten for USDT multichain payment API module integration discussion; reference the July 30 prediction markets expansion and 50+ brand milestone as signals of active platform growth; frame GWC's USDT payment API as the crypto payment module for Kanggiten's modular ecosystem, giving all 50+ operator brands USDT deposit capability through one B2B agreement",
+    "Status": "",
+    "Source URL": "https://eegaming.org/latest-news/2026/07/30/143563/kanggiten-data-bet-what-prediction-markets-open-up-for-operators/"
+  },
+  {
+    "Date": "2026-08-02",
+    "Category": "Partnership Intel",
+    "Company": "NuxGame",
+    "Headline": "NuxGame — a B2B iGaming platform aggregator serving online casino and sportsbook operators with a unified API ecosystem — announces a content expansion partnership with ICONIC21 on February 4, 2026, growing its operator distribution network with retail USDT via NOWPayments but no institutional EUR SEPA/SWIFT fiat off-ramp identified for operator treasury management",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "NuxGame is a B2B iGaming software platform providing turnkey, white-label and API products for casino and sportsbook operators, supporting retail USDT/BTC/ETH player deposits via NOWPayments for player-facing wallets. However, retail crypto deposit processing at the player layer is structurally distinct from institutional B2B USDT treasury settlement at the operator layer: NuxGame's operator clients accumulate USDT player deposits but have no identified institutional-grade EUR SEPA/SWIFT fiat off-ramp for converting accumulated stablecoin holdings into EUR working capital for payroll, licensing fees, and regulator obligations. GWC's institutional USDT B2B rails address the treasury-layer operator off-ramp that NOWPayments doesn't provide. The February 4 ICONIC21 content partnership signals an active operator acquisition cycle, growing the NuxGame operator client pool that would benefit from institutional treasury-level USDT settlement.",
+    "Suggested Action": "Research Head of Payments or CTO at NuxGame for institutional USDT treasury settlement and EUR SEPA/SWIFT fiat off-ramp discussion; differentiate GWC's institutional treasury-layer B2B rails from the retail NOWPayments USDT deposit stack NuxGame already offers — frame as complementary infrastructure for the operator treasury off-ramp that retail crypto gateways don't address",
+    "Status": "",
+    "Source URL": "https://igamingbusiness.com/company-news/iconic21-and-nuxgame-announce-partnership/"
+  },
+  {
+    "Date": "2026-08-02",
+    "Category": "Lead Signal",
+    "Company": "Aurra Markets",
+    "Headline": "Aurra Markets — a MENA-focused multi-asset CFD and Forex broker regulated by FSC Mauritius — wins 'Top Low Spread Broker 2026' at Money Expo Abu Dhabi on July 9, 2026 and launches the Aurra Wallet as a retail fiat-digital asset funding system, with no institutional B2B USDT treasury settlement or EUR SEPA/SWIFT fiat off-ramp identified for broker treasury management",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Aurra Markets is a multi-asset CFD and Forex broker actively expanding its MENA presence through sponsorship and award recognition at Money Expo Abu Dhabi (July 8-9, 2026), positioning the Aurra Wallet as a unified system bridging fiat deposits and digital assets for retail traders. While the Aurra Wallet provides retail-level fiat-digital bridging for client accounts, no institutional-grade B2B USDT multichain treasury settlement or EUR SEPA/SWIFT fiat off-ramp has been identified for Aurra Markets' own broker treasury management. MENA retail Forex traders increasingly fund accounts in USDT — the dominant alternative to card friction and cross-border banking delays — and GWC's institutional B2B rails at the broker treasury level would address the settlement infrastructure layer that grows critical as Aurra Markets scales its MENA client volumes.",
+    "Suggested Action": "Research CEO or Head of Payments at Aurra Markets for institutional USDT B2B treasury settlement and EUR SEPA/SWIFT fiat off-ramp discussion; reference the July 9 Money Expo Abu Dhabi MENA expansion focus and Aurra Wallet launch as the outreach hook; differentiate GWC's institutional broker-treasury settlement layer from the retail-facing Aurra Wallet",
+    "Status": "",
+    "Source URL": "https://www.prnewswire.com/news-releases/aurra-markets-strengthens-mena-presence-following-money-expo-abu-dhabi-2026-302823707.html"
+  },
+  {
+    "Date": "2026-08-02",
+    "Category": "Competitor Move",
+    "Company": "OpenFX",
+    "Headline": "OpenFX — a stablecoin-powered cross-border FX settlement startup — raises $94M Series A on March 31, 2026 at a ~$500M valuation (led by Accel, Pantera, Lightspeed Faction), growing annualized payment volume to $45B+ across 40+ trading pairs and expanding into Southeast Asia and LATAM corridors",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "OpenFX's $94M raise confirms well-capitalized competition in GWC's stablecoin B2B settlement space for the Forex vertical. OpenFX targets generic cross-border FX corridors using stablecoins as intermediary rails between traditional banking and digital-native infrastructure — with expansion specifically into Southeast Asia and LATAM, GWC's priority growth markets. GWC's differentiation against OpenFX is purpose-built for licensed operators: iGaming-specific operator backoffice UI, zero-chargeback guarantee, EUR SEPA/SWIFT fiat off-ramp, and API + compliance stack designed for regulated iGaming and Forex broker environments — capabilities that OpenFX's generic cross-border corridor approach does not provide. Forex broker prospects in SEA and LATAM who encounter OpenFX need to see GWC's iGaming-specific rails as operationally differentiated.",
+    "Suggested Action": "Note competitive context — update Forex broker and iGaming operator outreach pitch in Southeast Asia and LATAM to contrast GWC's purpose-built licensed-operator USDT rails (operator backoffice, zero chargebacks, EUR SEPA/SWIFT off-ramp, licensed-market compliance stack) vs OpenFX's generic cross-border stablecoin corridor; reference in pitches to LATAM and SEA prospects who may be evaluating OpenFX as an alternative",
+    "Status": "",
+    "Source URL": "https://www.coindesk.com/business/2026/03/31/forex-startup-openfx-raises-usd94-million-to-expand-stablecoin-powered-cross-border-payments"
+  }
+]
