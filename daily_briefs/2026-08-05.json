@@ -1,0 +1,57 @@
+[
+  {
+    "Date": "2026-08-05",
+    "Category": "Lead Signal",
+    "Company": "BetVip",
+    "Headline": "BetVip — a recognisable Brazilian B2C sports betting brand built on cultural proximity to regional sport — goes live on FIRST.bet's sportsbook technology via Cactus Gaming in August 2026 after switching platforms, entering Brazil's regulated betting market with no institutional USDT crypto payment processor identified",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "BetVip is one of Brazil's locally recognised sportsbook brands now live on FIRST.bet's pricing, trading, and sportsbook product delivered through Cactus Gaming's Brazilian sports betting technology platform. No institutional USDT/USDC multichain payment API has been identified for BetVip. Brazil's structured market limits card deposit volumes and drives USDT demand structurally among bettors as the primary alternative; GWC's USDT multichain deposits and EUR SEPA/SWIFT treasury off-ramp are the institutional payment layer that allows BetVip to serve the segment of Brazilian players already using stablecoins to fund gambling accounts — the same market dynamic already framing GWC's outreach to Atlaslive, RubyPlay/Betnacional, and other Brazil-facing operators.",
+    "Suggested Action": "Research Head of Payments or CTO at BetVip for institutional USDT multichain deposit rail discussion; reference the August 2026 platform switch to FIRST.bet on Cactus Gaming as the active infrastructure build cycle trigger; frame GWC's USDT rails as the crypto deposit layer for BetVip's Brazilian player base where structural banking friction drives stablecoin adoption",
+    "Status": "",
+    "Source URL": "https://igamingbusiness.com/company-news/betvip-goes-live-with-first-bet/"
+  },
+  {
+    "Date": "2026-08-05",
+    "Category": "Lead Signal",
+    "Company": "LBX (Libertex Group)",
+    "Headline": "Libertex Group — a 27-year-old retail trading firm with 3M+ clients — launches LBX, a new offshore CFD broker brand under Mauritius regulation targeting LATAM and Southeast Asian markets with 'tailored LATAM benefits' and KICK Sauber F1 sponsorship, accepting retail USDT deposits but with no institutional EUR SEPA/SWIFT treasury settlement or B2B USDT rail identified for broker treasury management",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "LBX is a brand-new broker entity under the Libertex Group umbrella, specifically designed to serve LATAM and Southeast Asian retail traders with localised deposit methods including retail USDT, Skrill, Neteller, and local QR payment options. While LBX accepts retail USDT deposits at the client level, no institutional-grade B2B USDT treasury settlement or EUR SEPA/SWIFT fiat off-ramp has been identified for LBX's broker-level treasury management. As LBX scales its LATAM and SEA client base with growing USDT inflows, the gap between retail USDT deposit collection and EUR working capital management becomes structurally relevant — exactly the treasury-layer use case GWC's B2B USDT-to-EUR rails address for licensed Forex brokers building out emerging market infrastructure.",
+    "Suggested Action": "Research CEO or Head of Payments at LBX (MAEX LIMITED / Libertex Group) for institutional USDT B2B treasury settlement and EUR SEPA/SWIFT fiat off-ramp discussion; reference the new LBX brand launch and LATAM/SEA focus as the outreach hook; differentiate GWC's institutional broker-treasury settlement layer from the retail-facing USDT deposit rails LBX already offers clients",
+    "Status": "",
+    "Source URL": "https://www.financemagnates.com/forex/exclusive-libertex-group-launches-new-offshore-cfd-broker-brand-inks-f1-deal/"
+  },
+  {
+    "Date": "2026-08-05",
+    "Category": "Lead Signal",
+    "Company": "tastytrade (IG Group)",
+    "Headline": "tastytrade — the IG Group-owned US brokerage with 1M+ active accounts — launches CFTC-regulated prediction markets on July 27, 2026 as the first brokerage on Apex Fintech Solutions' turnkey FCM infrastructure, offering 24/7 event contracts on Fed decisions, inflation, VIX, crude, and crypto with no USDT multichain deposit rail identified for international prediction market participants",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "tastytrade is the first brokerage to launch prediction markets via Apex's turnkey FCM infrastructure, positioning itself as a category leader in CFTC-regulated event contracts for active traders. As tastytrade's international reach expands beyond US-registered users, USDT deposits become structurally relevant: international retail traders accessing event contracts from MENA, SE Asia, and LATAM cannot easily fund USD accounts via card or wire, while USDT deposits via GWC's multichain rails provide a compliant funding channel. No USDT multichain deposit API has been identified for tastytrade's international client segment. IG Group's existing global retail client base — served across multiple international markets — provides a natural distribution pathway for GWC's USDT rails at the group level.",
+    "Suggested Action": "Research Head of Payments or international product lead at tastytrade or IG Group for USDT multichain deposit rail discussion targeting non-US prediction market participants; reference the July 27 prediction market launch as the active product build trigger; frame GWC's USDT rails as the deposit infrastructure for tastytrade's international active trader base in MENA, SE Asia, and LATAM where USDT is the primary alternative to card payment friction",
+    "Status": "",
+    "Source URL": "https://fxnewsgroup.com/forex-news/retail-forex/tastytrade-launches-prediction-markets/"
+  },
+  {
+    "Date": "2026-08-05",
+    "Category": "Market Trend",
+    "Company": "PAGCOR Philippines B2B Accreditation Deadline",
+    "Headline": "PAGCOR extends its B2B accreditation deadline for all online gaming suppliers — including payment providers, aggregators, KYC providers, and game developers serving Philippines-licensed operators — to September 30, 2026, with mandatory decommissioning of unaccredited systems from October 1, creating an urgent compliance and vendor evaluation window in the Philippines",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "PAGCOR's September 30 deadline explicitly covers payment providers as a named accreditation category — any payment processor wanting to serve PAGCOR-licensed Philippine iGaming operators must complete accreditation by October 1 or be decommissioned. This is simultaneously a direct compliance requirement for GWC to pursue PAGCOR accreditation and a vendor evaluation opportunity: operators whose current payment providers fail to complete accreditation will face a forced processor switch before October 1. GWC's institutional USDT multichain rails can position as the accreditation-ready, institutionally-compliant crypto payment layer for Philippines-licensed operators (including DigiPlus/IEC and PhilWeb already in GWC's pipeline) seeking a compliant stablecoin deposit solution ahead of the deadline.",
+    "Suggested Action": "Prioritise PAGCOR B2B accreditation process before September 30 deadline — any payment provider serving PAGCOR-licensed operators must complete accreditation by October 1 or face mandatory decommissioning; target Philippines-licensed operators (DigiPlus/IEC, PhilWeb) whose current payment providers may not complete accreditation in time, creating a forced vendor switch window before October 1",
+    "Status": "",
+    "Source URL": "https://www.ggrasia.com/pagcor-extends-deadline-to-sept-30-for-online-gaming-b2b-accreditation/"
+  },
+  {
+    "Date": "2026-08-05",
+    "Category": "Market Trend",
+    "Company": "Mozambique iGaming Regulation",
+    "Headline": "Mozambique's Council of Ministers approves Africa's first dedicated online gambling regulatory framework on July 17, 2026 under the Inspeção-Geral de Jogos (IGJ), creating a standalone licensing regime for digital operators and payment providers as Southeast Africa's newest regulated iGaming jurisdiction",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Mozambique's new standalone online gambling regulation creates Africa's newest regulated iGaming licensing jurisdiction, explicitly separate from land-based casino rules — a framework that requires payment providers to secure concessions alongside operators from day one of licensing. Mozambique sits between established African iGaming markets (South Africa, Kenya, Nigeria) and emerging SE African corridors where USDT adoption is driven by structural banking limitations on cross-border deposits. Operators applying for Mozambique iGaming licenses are evaluating their full technology stack including payment infrastructure during the initial vendor selection window. GWC's institutional USDT multichain rails and EUR SEPA/SWIFT treasury off-ramp are the institutional payment layer for Mozambique-licensed operators targeting Portuguese-speaking LATAM diaspora and SE African players where traditional banking friction is highest.",
+    "Suggested Action": "Monitor — when Mozambique's concession licensing process opens formally under the IGJ framework, target payment decision-makers at operators applying for Mozambique iGaming licenses; frame GWC's USDT rails as the compliant institutional payment infrastructure for operators launching B2C operations targeting SE African and Portuguese-speaking player bases; track licensing timeline via SBC News Africa or FocusGN",
+    "Status": "",
+    "Source URL": "https://focusgn.com/africa/mozambique-approves-first-dedicated-online-gambling-framework"
+  }
+]
