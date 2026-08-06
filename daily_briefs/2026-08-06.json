@@ -1,0 +1,57 @@
+[
+  {
+    "Date": "2026-08-06",
+    "Category": "Lead Signal",
+    "Company": "Codere Online (CDRO)",
+    "Headline": "Codere Online posts record Q2 2026 NGR of €69.4M (+27% YoY), raises full-year guidance to €255–265M, driven by Mexico (+24%) and Spain (+25%) with active Chile/Uruguay expansion underway",
+    "Lead Potential": "HIGH",
+    "Why It Matters": "Codere is the dominant B2C iGaming operator across Mexico, Spain, Colombia, Panama, and Argentina with primary payment stack of Visa/MC, SPEI, OXXO, and bank transfer — no institutional-grade USDT/USDC multichain processing confirmed. Their record growth and planned LATAM expansion into Chile and Uruguay target markets where card processing friction is documented and USDT demand is highest. GWC's 300+ asset multichain deposits, zero chargebacks, and EUR fiat off-ramp via SEPA/SWIFT address exactly the cross-border payment gaps Codere faces as it scales across fragmented LATAM fiat infrastructure.",
+    "Suggested Action": "Run linkedin_outreach workflow for Codere Online — target CEO Moshe Edree or CFO Marcus Arildsson on payment modernisation for LATAM expansion markets",
+    "Status": "",
+    "Source URL": "https://www.casino.org/news/codere-online-raises-outlook-after-spain-and-mexico-drive-record-quarter/"
+  },
+  {
+    "Date": "2026-08-06",
+    "Category": "Lead Signal",
+    "Company": "DigiPlus Interactive Corp (New Zealand)",
+    "Headline": "DigiPlus files EOI for New Zealand iGaming licence (deadline August 14) as Q2 net income surges to ₱6.98B; already operating in Philippines, Brazil, and South Africa",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "DigiPlus (Philippines' largest digital gaming company, parent of BingoPlus) is entering NZ — a brand-new regulated market capped at 15 licences. The EOI deadline is August 14, compressing the payment-stack evaluation window to days. NZ permits crypto payments (unlike Brazil), and no crypto payment processor has been named for DigiPlus's NZ entity. GWC's USDT/USDC multichain deposits and EUR fiat off-ramp via SEPA/SWIFT could be the first crypto rail embedded before any incumbent establishes exclusivity in this nascent market.",
+    "Suggested Action": "Monitor — research DigiPlus payments or BD team before NZ EOI deadline August 14; pitch GWC as the crypto payment infrastructure partner for their NZ licence application",
+    "Status": "",
+    "Source URL": "https://bworldonline.com/corporate/2026/08/05/768099/digiplus-q2-profit-more-than-doubles-eyes-new-zealand-gaming-license/"
+  },
+  {
+    "Date": "2026-08-06",
+    "Category": "Lead Signal",
+    "Company": "Circa Sports",
+    "Headline": "Circa Sports receives Arizona sports betting operator licence via San Juan Southern Paiute Tribe partnership, becoming a 7-state US sportsbook with an early 2027 Arizona launch planned",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Circa Sports accepts crypto deposits only via OTC with a $10,000 minimum — a high barrier that excludes retail crypto bettors. Arizona expansion to a 7th state creates a fresh payment-stack evaluation window ahead of 2027 go-live. GWC's retail-accessible USDT multichain processing (no OTC minimum, instant settlement) would directly upgrade Circa's crypto offering to match its sharp-friendly, high-stakes brand positioning, while zero chargebacks eliminate a key fraud risk in a new jurisdiction.",
+    "Suggested Action": "Monitor — research Circa Sports payments or operations team; pitch retail-accessible USDT rails as upgrade to their current $10K OTC-minimum crypto approach before Arizona launch",
+    "Status": "",
+    "Source URL": "https://bettorsinsider.com/sports-betting/2026/08/04/circa-sports-receives-arizona-sports-betting-operator-license-via-san-juan-southern-paiute-tribe-partnership/"
+  },
+  {
+    "Date": "2026-08-06",
+    "Category": "Partnership Intel",
+    "Company": "St8",
+    "Headline": "St8 secures Alberta iGaming supplier licence and extends Pragmatic Play content distribution into Ontario and Alberta, offering operators 200+ game providers via a single API integration",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "St8 is a B2B iGaming aggregation platform now licensed in both Canadian regulated markets (Ontario + Alberta) with a single-API distribution model serving operators across multiple providers — exactly the platform-multiplier structure that amplifies GWC's reach. No crypto payment processor is named for St8's platform. Embedding GWC's USDT/USDC multichain payment API into St8's aggregation layer would distribute crypto deposit capability to all St8-connected operators in Ontario and Alberta through a single B2B integration agreement.",
+    "Suggested Action": "Research decision-maker at St8 — target BD or integrations team for crypto payment API co-integration within their Ontario/Alberta operator network",
+    "Status": "",
+    "Source URL": "https://eegaming.org/latest-news/2026/08/05/143828/st8-extends-pragmatic-play-casino-content-distribution-to-ontario-and-alberta/"
+  },
+  {
+    "Date": "2026-08-06",
+    "Category": "Lead Signal",
+    "Company": "Flutter Entertainment (FanDuel)",
+    "Headline": "Flutter cuts 2026 revenue guidance by $395M and announces CEO transition — Peter Jackson steps down October 1 as Dan Taylor takes over; FanDuel sportsbook revenue down 15% YoY in Q2",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Flutter's earnings miss and CEO transition create a classic vendor-stack review window at FanDuel — the #1 US sportsbook with no USDT/USDC deposit option for core sports betting and iGaming. Under margin pressure (sportsbook -15% YoY, guidance cut $395M), a zero-chargeback USDT payment rail that reduces processing costs while unlocking crypto-native depositors is a differentiated cost-optimisation pitch for the incoming CEO Dan Taylor. FanDuel's separate Crypto.com prediction-market deal confirms management appetite for crypto-branded products; the gap is core deposit processing, which GWC addresses directly.",
+    "Suggested Action": "Monitor — time outreach to FanDuel payments or product leadership after October 1 CEO transition; frame GWC's zero-chargeback USDT rails as cost-optimisation play against Flutter's margin pressure",
+    "Status": "",
+    "Source URL": "https://www.globenewswire.com/news-release/2026/08/05/3339154/0/en/flutter-entertainment-announces-q2-2026-financial-results.html"
+  }
+]
