@@ -1,0 +1,57 @@
+[
+  {
+    "Date": "2026-08-08",
+    "Category": "Lead Signal",
+    "Company": "Hard Rock Bet (Hard Rock Digital)",
+    "Headline": "Hard Rock Bet launches in Ontario on July 22 — Hard Rock Digital's first international market outside the US — joining 48 licensed Ontario operators with 3,000+ casino games and full sportsbook, with no institutional USDT payment infrastructure identified",
+    "Lead Potential": "HIGH",
+    "Why It Matters": "Hard Rock Bet (Seminole tribe-backed Hard Rock Digital) entered Ontario on July 22 as its first-ever international market, bringing 3,000+ casino games and a full sportsbook. Its current Ontario payment stack covers debit cards, bank transfers, PayPal, and Venmo only — zero institutional crypto deposit option confirmed despite crypto-native Canadian bettors being an actively growing segment. Hard Rock ended credit card deposits across all US markets in early 2026, creating a friction gap for bettors who prefer USDT deposits as an alternative to card rails. GWC's institutional USDT/USDC multichain processing and zero-chargeback model would give Hard Rock Bet a differentiated deposit channel for Ontario's crypto-native player base before any processor establishes exclusivity in this new international footprint.",
+    "Suggested Action": "Run linkedin_outreach workflow for Hard Rock Bet — target VP of Payments or Head of Digital Product for institutional USDT multichain deposit rail discussion; reference the Ontario launch as the active payment stack evaluation window for Hard Rock Digital's first international market and the gap created by credit card deposit removal across all markets",
+    "Status": "",
+    "Source URL": "https://www.prnewswire.com/news-releases/hard-rock-bet-brings-world-class-sports-betting-and-online-casino-to-ontario-302832453.html"
+  },
+  {
+    "Date": "2026-08-08",
+    "Category": "Lead Signal",
+    "Company": "Underdog (IG Group)",
+    "Headline": "IG Group agrees to acquire Underdog — the 3rd-largest US prediction markets platform by volume — for up to $1.3B announced July 30; Underdog operates 100% fiat-only payments (debit, Visa, Mastercard, PayPal, Venmo, Trustly, Apple Pay) with zero crypto deposit option",
+    "Lead Potential": "HIGH",
+    "Why It Matters": "Underdog has grown to the 3rd-largest US prediction markets operator (behind Kalshi and Robinhood) with a proprietary CFTC exchange, 30-state coverage, and full DFS/parlays product — all running on entirely fiat payment rails: debit card, Visa, Mastercard, PayPal, Venmo, Trustly, and Apple Pay with zero crypto deposit infrastructure. IG Group's $1.3B acquisition signals Underdog will scale aggressively into international markets where USDT deposits are the dominant alternative to card friction, triggering a full payment infrastructure review. IG Group already has tastytrade (prediction markets, July 2026 entry) and Independent Reserve APAC crypto exchange in its portfolio, confirming group-level appetite for crypto payment infrastructure; Underdog's all-fiat stack is the direct gap GWC addresses.",
+    "Suggested Action": "Run linkedin_outreach workflow for Underdog — target Head of Payments or CFO; reference IG Group's $1.3B acquisition announcement as the active payment infrastructure review window and Underdog's all-fiat payment stack (debit/PayPal/Venmo — zero crypto) as the gap GWC fills for international users needing USDT/USDC multichain deposit rails as Underdog scales beyond US markets",
+    "Status": "",
+    "Source URL": "https://bettorsinsider.com/news/2026/08/04/uks-ig-group-to-buy-prediction-markets-operator-underdog-in-deal-worth-up-to-1-3-billion/"
+  },
+  {
+    "Date": "2026-08-08",
+    "Category": "Lead Signal",
+    "Company": "LeoVegas Group (BetMGM UK / LeoVegas UK / BetUK)",
+    "Headline": "LeoVegas Group (MGM Resorts subsidiary) launches proprietary Tiger sportsbook across BetMGM UK, LeoVegas UK, and BetUK brands on August 7 — its largest market yet following Denmark, Brazil, and Sweden rollouts — with no institutional USDT payment processor identified for UK brands",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "LeoVegas Group's August 7 Tiger sportsbook UK rollout covers its three principal UK brands (BetMGM UK, LeoVegas UK, BetUK) and represents the largest-market deployment in LeoVegas's two-year proprietary platform build-out. New sportsbook technology deployments trigger payment infrastructure reviews as operators assess what to stack alongside the new platform. No institutional USDT/USDC multichain deposit rail has been identified for LeoVegas Group's UK brands. The UK has a material and growing crypto-adopting bettor segment, including MENA and South Asian diaspora populations who prefer USDT deposits over banking-restricted card rails. GWC's institutional USDT multichain processing and EUR SEPA/SWIFT fiat off-ramp would give LeoVegas Group a differentiated deposit channel for these player segments during the active Tiger platform deployment window.",
+    "Suggested Action": "Research decision-maker at LeoVegas Group — target Head of Payments or VP of Product for UK brands for institutional USDT deposit rail discussion; reference the August 7 Tiger UK launch as the active technology deployment trigger and the absence of institutional crypto deposit infrastructure across BetMGM UK, LeoVegas UK, and BetUK",
+    "Status": "",
+    "Source URL": "https://igamingbusiness.com/sports-betting/leovegas-launches-in-house-sportsbook-tiger-in-uk/"
+  },
+  {
+    "Date": "2026-08-08",
+    "Category": "Partnership Intel",
+    "Company": "Station Casinos (Kambi Nevada)",
+    "Headline": "Kambi enters Nevada for the first time via a landmark 10-year omni-channel sportsbook and PAM platform deal with Station Casinos — Nevada's largest regional gaming operator — announced August 6, 2026",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Station Casinos is Nevada's largest regional gaming operator with 9+ properties across Las Vegas and Reno, and the Kambi deal builds out its digital sportsbook presence at scale for the first time — a platform build cycle when payment infrastructure decisions are made. No institutional USDT payment infrastructure has been identified for Station Casinos' digital operations. Kambi serves as a B2B platform multiplier across dozens of US and international operators: a discussion with Kambi's BD or integrations team about embedding GWC's institutional USDT payment module at the platform level could distribute crypto deposit capability to Kambi's full operator network — including Station Casinos — through a single B2B agreement ahead of any competitor establishing a platform-level exclusive.",
+    "Suggested Action": "Monitor — research Station Casinos digital payments or product team for USDT deposit rail discussion; separately evaluate whether Kambi's US sportsbook platform supports third-party payment API co-integration by targeting Kambi's BD or platform partnerships team — a Kambi platform-level GWC integration would distribute crypto deposit capability across Kambi's full US operator network",
+    "Status": "",
+    "Source URL": "https://g3newswire.com/kambi-partners-with-station-casinos-in-nevada-in-landmark-omni-channel-sportsbook-deal/"
+  },
+  {
+    "Date": "2026-08-08",
+    "Category": "Market Trend",
+    "Company": "New Zealand iGaming EOI (15-licence auction)",
+    "Headline": "New Zealand's DIA formally opens EOI applications for 15 online casino licences on July 16 with August 14 deadline — 6 days away — as major operators including Entain, bet365, Flutter, and Sky Betting actively build full technology stacks for their applications",
+    "Lead Potential": "HIGH",
+    "Why It Matters": "The NZ EOI deadline is August 14 — 6 days away — meaning the world's largest iGaming operators (Entain, bet365, Flutter, Sky Betting) are assembling full technology stacks including payment infrastructure RIGHT NOW. NZ's Online Casino Gambling Act 2026 explicitly permits crypto payments for licensed operators; no dominant crypto payment processor has been established in this brand-new 15-licence-cap market. GWC's institutional USDT multichain rails and EUR SEPA/SWIFT fiat off-ramp are a differentiating payment layer for applicants targeting NZ's crypto-adopting player base. This is a distinct, time-critical procurement event from the June 12 sheet entry (regulations gazetted); the active application window closes in 6 days — the most urgent outreach window of the NZ market cycle.",
+    "Suggested Action": "Run batch_lead_sourcing for NZ iGaming EOI applicants — urgently target payments or digital product leads at Entain, bet365, Flutter (FanDuel), and Sky Betting before August 14 EOI submission; frame GWC's institutional USDT rails as the crypto payment infrastructure differentiator for NZ licence applications where no dominant crypto processor is established and crypto payments are explicitly permitted",
+    "Status": "",
+    "Source URL": "https://igamingbusiness.com/legal-compliance/new-zealand-opens-eoi-process-licences-under-igaming-rollout/"
+  }
+]
