@@ -1,0 +1,57 @@
+[
+  {
+    "Date": "2026-08-09",
+    "Category": "Market Trend",
+    "Company": "Austria iGaming Market",
+    "Headline": "Austria submits draft gambling law to EU Commission on August 4 ending its online casino monopoly — uncapped online gaming licences planned for 2027 after 3-month TRIS review",
+    "Lead Potential": "HIGH",
+    "Why It Matters": "Austria is the EU's last major online casino monopoly. Liberalisation opens an uncapped licensing window in 2027, bringing dozens of global operators (bet365, Entain, Flutter, Betsson) into a new regulated market where no dominant crypto payment processor is yet established. Operators currently running without an Austrian licence must exit by December 31, 2026 to remain eligible — creating outreach urgency now, before they lock in payment stacks for their official Austrian entities.",
+    "Suggested Action": "Consider referencing Austria iGaming liberalisation in outreach to global operators (bet365, Entain, Flutter, Betsson) ahead of their 2027 licence applications — position GWC's USDT/USDC multichain deposits and EUR SEPA/SWIFT off-ramp as compliant crypto infrastructure for their Austrian launch",
+    "Status": "",
+    "Source URL": "https://europeangaming.eu/portal/latest-news/2026/08/04/210417/austria-gambling-law-reform-eu-notification/"
+  },
+  {
+    "Date": "2026-08-09",
+    "Category": "Lead Signal",
+    "Company": "Bally's Canada (Bally Bet / Monopoly Casino)",
+    "Headline": "Bally's Corporation launches Bally Bet and Monopoly Casino in Alberta on August 4 — completing delayed entry into Canada's newest regulated iGaming market alongside 26 active sites",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Bally's Canada just went live in Alberta with two distinct brands after a delayed entry from the July 13 market opening — no crypto payment processor identified for either brand. Canadian card processing carries documented Visa/Mastercard friction; GWC's USDT multichain deposits and zero-chargeback model is a differentiated pitch as Bally's builds its Canadian player base across both Ontario and Alberta simultaneously.",
+    "Suggested Action": "Run linkedin_outreach workflow for Bally's Canada — target payments or operations lead for Bally Bet / Monopoly Casino Alberta",
+    "Status": "",
+    "Source URL": "https://www.casinoreports.ca/2026/08/07/ballys-expands-alberta-igaming-presence-with-two-new-platforms/"
+  },
+  {
+    "Date": "2026-08-09",
+    "Category": "Market Trend",
+    "Company": "Genius Sports / Polymarket",
+    "Headline": "Genius Sports signs dual official data and live streaming partnerships with Polymarket and Kalshi on August 5 — entering prediction markets with integrity services for CFTC-regulated platforms",
+    "Lead Potential": "LOW",
+    "Why It Matters": "Prediction markets are professionalising with official sports data deals, mirroring the maturation of regulated sportsbooks — a growing operator segment adjacent to GWC's ICP. Polymarket and Kalshi are already USDC-native, so the immediate payment gap is limited; however, operators building on their infrastructure for sports-betting adjacent products will need B2B payment rails as they expand beyond crypto-native audiences into broader regulated markets.",
+    "Suggested Action": "Monitor — track Kalshi and Polymarket's operator-facing B2B expansion; evaluate if their growing ecosystem creates a GWC payment partnership opportunity as they scale into non-crypto audiences",
+    "Status": "",
+    "Source URL": "https://igamingbusiness.com/prediction-markets/genius-sports-enters-prediction-markets-polymarket-kalshi-partnerships/"
+  },
+  {
+    "Date": "2026-08-09",
+    "Category": "Market Trend",
+    "Company": "World Series of Poker (WSOP) / Solana Foundation",
+    "Headline": "WSOP crypto buy-ins surpass $20M as Solana Showdown invitational runs August 4 — SOL, USDC, and USDT accepted for tournament entries via WSOP LIVE app at zero fees",
+    "Lead Potential": "LOW",
+    "Why It Matters": "The world's largest poker tournament series crossing $20M in crypto buy-ins is the clearest mainstream proof of live-gaming crypto payment demand in 2026. While WSOP.com (Evoke/888's online brand) is already tracked, the $20M milestone provides a powerful third-party validation point — cite in outreach to regulated operators still hesitant about crypto deposit demand from their player base.",
+    "Suggested Action": "Consider referencing the WSOP $20M crypto buy-in milestone as a mass-market demand proof point in outreach to regulated operators skeptical that their players want crypto payment options",
+    "Status": "",
+    "Source URL": "https://www.pokertube.com/article/wsop-solana-buy-ins-hit-20-million"
+  },
+  {
+    "Date": "2026-08-09",
+    "Category": "Lead Signal",
+    "Company": "Delbet",
+    "Headline": "Delbet releases major crypto gaming platform upgrade on August 5 — new blockchain framework, expanded digital asset support, faster deposits/withdrawals, and provably fair mechanics for its crypto-focused casino",
+    "Lead Potential": "LOW",
+    "Why It Matters": "Delbet is a crypto-native B2C casino actively upgrading its on-chain payment infrastructure but focused purely on crypto-side UX — the fiat off-ramp gap may persist as they scale into regulated European markets requiring fiat withdrawal channels. GWC's EUR SEPA/SWIFT off-ramp plus institutional-grade B2B settlement rails could complement Delbet's native crypto deposit stack, similar to the BC.GAME EUR off-ramp opportunity already identified in this sheet.",
+    "Suggested Action": "Monitor — research Delbet's regulated market expansion plans and check if they have an EUR fiat off-ramp; if not, flag for outreach as they seek compliance in new regulated jurisdictions",
+    "Status": "",
+    "Source URL": "https://igamingbusiness.com/company-news/delbet-launches-expanded-crypto-gaming-platform-with-new-blockchain-features/"
+  }
+]
