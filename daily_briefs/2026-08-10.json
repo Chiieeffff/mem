@@ -1,0 +1,57 @@
+[
+  {
+    "Date": "2026-08-10",
+    "Category": "Lead Signal",
+    "Company": "Novig",
+    "Headline": "Novig relaunches as CFTC-regulated nationwide prediction market across all 50 US states after raising $105M total",
+    "Lead Potential": "HIGH",
+    "Why It Matters": "Novig currently uses Coinflow (a niche stablecoin checkout) for USDC/USDT payments — not an enterprise-grade crypto PSP. With $105M raised and national scale across all 50 states, they need robust multichain infrastructure, compliance coverage, and operational backoffice that Coinflow cannot provide at volume; GWC's direct API integration, 300+ asset support, and zero-chargeback model are a strong enterprise-grade upgrade path.",
+    "Suggested Action": "Run linkedin_outreach workflow for Novig",
+    "Status": "",
+    "Source URL": "https://sbcamericas.com/2026/08/04/novig-prediction-markets-relaunch/"
+  },
+  {
+    "Date": "2026-08-10",
+    "Category": "Lead Signal",
+    "Company": "Spartans.com",
+    "Headline": "Spartans.com launches globally on August 1, 2026, reaching 14th-largest crypto casino ranking with $100M+ deposits and $1B+ wagers in beta",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Spartans is scaling aggressively with native crypto wallet integrations but no named B2B payment processor; as a fast-growing operator accepting USDT/USDC across LatAm fiat corridors (USD, ARS, MXN, BOB), GWC's multichain processing and EUR fiat off-ramp via SEPA/SWIFT could fill the B2B payment infrastructure gap as they scale operations globally.",
+    "Suggested Action": "Monitor — check again next week; research decision-maker",
+    "Status": "",
+    "Source URL": "https://crypto-economy.com/spartans-plans-global-launch-in-august-2026-as-roobet-and-stake-us-adjust-operations/"
+  },
+  {
+    "Date": "2026-08-10",
+    "Category": "Partnership Intel",
+    "Company": "Digitain",
+    "Headline": "Digitain secures South African National Manufacturer License, enabling commercial B2B partnerships with South African operators for its sportsbook and Centrivo iGaming platform",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Digitain's newly-licensed SA market entry means their platform will onboard SA operators who need full payment stacks including crypto; integrating GWC at the Digitain platform level would give every new SA operator instant crypto processing without a separate integration — a platform-level deal unlocks multiple downstream clients simultaneously.",
+    "Suggested Action": "Monitor — check again next week; research Digitain Africa partnership team",
+    "Status": "",
+    "Source URL": "https://g3newswire.com/digitain-secures-south-african-national-manufacturer-license/"
+  },
+  {
+    "Date": "2026-08-10",
+    "Category": "Lead Signal",
+    "Company": "NAGA Group",
+    "Headline": "NAGA Group reports first-ever profitable H1 2026 (net profit €0.9M, EBITDA +47% to €4.4M) with crypto modules planned for NAGA ONE superapp rollout",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "NAGA's first profitable half-year gives them budget to accelerate the crypto roadmap of their NAGA ONE superapp (combining payments, investing, and trading for 1M+ users); as they build out crypto modules for a multi-asset Forex/CFD platform, they need B2B payment rails with USDT/USDC multichain support — GWC's Forex-friendly infrastructure and EUR off-ramp are a natural fit.",
+    "Suggested Action": "Run linkedin_outreach workflow for NAGA Group",
+    "Status": "",
+    "Source URL": "https://fxnewsgroup.com/forex-news/retail-forex/naga-posts-47-ebidta-jump-in-h1-2026-to-e4-4m-net-profit-e0-9m/"
+  },
+  {
+    "Date": "2026-08-10",
+    "Category": "Market Trend",
+    "Company": "Robinhood",
+    "Headline": "Robinhood wins UK FCA crypto registration ahead of new regulatory regime starting October 2027, joining 50+ FCA-registered crypto firms",
+    "Lead Potential": "LOW",
+    "Why It Matters": "The FCA crypto registration wave signals regulated crypto payments in the UK are going mainstream; iGaming operators targeting UK players will face pressure to use FCA-registered crypto payment partners as the Oct 2027 regime approaches — GWC should reference this compliance shift in UK-facing outreach to position its regulated payment infrastructure as future-proof.",
+    "Suggested Action": "Consider referencing in outreach for UK-licensed operators",
+    "Status": "",
+    "Source URL": "https://www.coindesk.com/policy/2026/08/03/robinhood-wins-uk-crypto-registration-before-new-regulatory-regime-kicks-off"
+  }
+]
