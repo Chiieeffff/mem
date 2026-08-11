@@ -1,0 +1,57 @@
+[
+  {
+    "Date": "2026-08-11",
+    "Category": "Market Trend",
+    "Company": "Kalshi (NY Lawsuit)",
+    "Headline": "New York AG sues CFTC-regulated prediction market Kalshi on July 31 calling it an 'illegal gambling operation' and seeking an injunction — deepening the federal-state regulatory conflict for all prediction market platforms operating in the US",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "New York's lawsuit against a CFTC-regulated prediction market creates regulatory uncertainty across every prediction market operator in GWC's pipeline — Novig, Underdog (IG Group), tastytrade, and DraftKings Railbird — all of whom face the same state-vs-federal jurisdiction question. Operators building out payment infrastructure for prediction market verticals will need processors with institutional-grade compliance posture that can withstand state gambling law scrutiny; GWC's compliant USDT/USDC rails and zero-chargeback model are the institutional payment layer that withstands this regulatory environment where grey-market processors will be displaced.",
+    "Suggested Action": "Consider referencing NY v. Kalshi as a regulatory compliance urgency signal in outreach to prediction market operators (Novig, Underdog, tastytrade) — frame GWC's compliant institutional USDT payment infrastructure as the processor that survives state regulatory scrutiny, unlike grey-market or non-institutional crypto gateways",
+    "Status": "",
+    "Source URL": "https://www.cnbc.com/2026/07/31/new-york-sues-kalshi-claims-it-is-illegal-gambling-operation.html"
+  },
+  {
+    "Date": "2026-08-11",
+    "Category": "Competitor Move",
+    "Company": "Bitget",
+    "Headline": "Bitget hits $6B in CFDs and launches CFD Copy Trading on August 4 — enabling 125M+ crypto users to trade Forex, commodities, and indices with USDT as margin, directly competing with traditional Forex brokers for crypto-native retail traders",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Bitget's $6B CFD milestone confirms that crypto-native exchanges using USDT-margined trading are now a structural alternative to traditional Forex brokers for retail traders in MENA, SEA, and LATAM — the exact geographies where GWC's Forex broker targets are trying to grow. Every Forex broker without USDT deposit infrastructure risks permanent client attrition to Bitget's native USDT ecosystem; GWC's B2B USDT rails give mid-market Forex brokers the funding-layer parity needed to retain crypto-native clients. GWC's differentiators vs Bitget's exchange model: licensed-operator backoffice, zero chargebacks, EUR SEPA/SWIFT fiat off-ramp, and a compliance stack built for regulated Forex broker environments.",
+    "Suggested Action": "Note competitive context — use Bitget's $6B CFD milestone and August 4 CFD Copy Trading launch as urgency signals in Forex broker outreach; frame GWC's institutional USDT deposit rails as the funding-layer that lets regulated mid-market Forex brokers match Bitget's USDT-native trading experience for crypto-active retail clients without migrating off their regulated infrastructure",
+    "Status": "",
+    "Source URL": "https://www.financemagnates.com/forex/bitget-brings-cfds-and-crypto-together-following-tokenized-us-stocks-and-etfs/"
+  },
+  {
+    "Date": "2026-08-11",
+    "Category": "Lead Signal",
+    "Company": "Brex Capital",
+    "Headline": "Industry veteran Sophie Squillacioti launches Brex Capital — a new Asia-focused CFDs broker targeting traders in Thailand and Vietnam via Dubai and Bangkok offices, with a clean-slate payment infrastructure stack and no existing PSP relationships",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Brex Capital is a brand-new B2C CFD broker launching in the highest-USDT-demand Forex geographies (Thailand, Vietnam) where retail traders use USDT as their primary deposit method due to structural banking friction and currency volatility. New broker launches are the optimal payment infrastructure evaluation window before any processor establishes exclusivity. No institutional B2B USDT deposit API or EUR SEPA/SWIFT fiat off-ramp has been identified for Brex Capital. Note: Finance Magnates has reported that Brex Capital has ties to the controversial Thai CFD broker QRS — validate compliance posture before engaging.",
+    "Suggested Action": "Research CEO Sophie Squillacioti at Brex Capital for institutional USDT multichain deposit rail discussion; reference the new broker launch as the clean-slate payment infrastructure evaluation window before any PSP locks in; frame GWC's institutional USDT rails as the deposit infrastructure for Brex Capital's Southeast Asian (Thai/Vietnamese) retail client base where USDT is the dominant Forex funding method — verify QRS-link compliance posture before outreach",
+    "Status": "",
+    "Source URL": "https://fxnewsgroup.com/forex-news/retail-forex/exclusive-sophie-squillacioti-launches-asia-focused-cfds-broker-brex-capital/"
+  },
+  {
+    "Date": "2026-08-11",
+    "Category": "Partnership Intel",
+    "Company": "GR8_TECH",
+    "Headline": "GR8_TECH — a major B2B iGaming platform provider offering sportsbook, casino, turnkey, aggregation, CRM, and GREAT_CRYPTO TURNKEY products — turns its award-winning Bet It Drives podcast into a full media platform in August 2026 and generates 60+ new operator leads at iGB LIVE 2026 London, signaling active platform-level operator acquisition",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "GR8_TECH is a significant B2B iGaming platform provider with a multi-product operator stack including GREAT_CRYPTO TURNKEY — but this crypto module likely covers retail-level crypto deposit UI rather than institutional-grade B2B USDT treasury settlement or EUR SEPA/SWIFT fiat off-ramp. With 60+ operator leads from iGB LIVE and a new media platform signaling active operator-client expansion, a GWC payment API integration at the GR8_TECH platform level would distribute institutional USDT treasury settlement to all GR8_TECH operator clients through one B2B agreement — the same platform-multiplier dynamic as EveryMatrix, QTech, and Pragmatic Solutions already in GWC's pipeline.",
+    "Suggested Action": "Research Head of Partnerships or CPO at GR8_TECH for institutional USDT multichain payment API integration discussion; reference the August 2026 Bet It Drives media platform launch and 60+ iGB LIVE leads as evidence of active operator-client expansion needing full payment infrastructure; frame GWC's institutional USDT rails as the treasury-layer upgrade that complements GR8_TECH's GREAT_CRYPTO TURNKEY for operators requiring B2B settlement rather than retail crypto deposit UI",
+    "Status": "",
+    "Source URL": "https://g3newswire.com/bet-it-drives-launches-as-an-igaming-business-media-platform/"
+  },
+  {
+    "Date": "2026-08-11",
+    "Category": "Partnership Intel",
+    "Company": "iGP (iGaming Lottery)",
+    "Headline": "iGP debuts iGaming Lottery — a B2B lottery product supporting 70+ global lotteries, crypto play, and operator-branded experiences with 4-6 week go-live and up to €100M insured payouts — adding a new payment-intensive vertical to its B2B platform portfolio",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "iGP's iGaming Lottery explicitly supports crypto play alongside fiat — meaning operator clients using the lottery vertical will need institutional USDT/USDC rails for crypto lottery ticket purchases and prize payouts at scale. This is a new integration opportunity distinct from iGP's existing Optimove CRM partnership: the lottery vertical creates a fresh payment touchpoint across iGP's operator client network. A GWC integration at the iGP platform level — specifically scoped to the lottery vertical's crypto-play capability — would add institutional USDT settlement infrastructure to the lottery product and distribute it across all iGP operator clients through one B2B agreement.",
+    "Suggested Action": "Research Head of Partnerships or CTO at iGP — target for institutional USDT payment API integration discussion around the iGaming Lottery vertical specifically; reference the crypto-play feature as the direct integration hook; frame GWC's institutional B2B USDT settlement infrastructure as the treasury-layer that backs iGP's crypto lottery payments for operators at scale — differentiating from the CRM/Optimove angle already in GWC's pipeline for this company",
+    "Status": "",
+    "Source URL": "https://igamingbusiness.com/company-news/igp-debuts-igaming-lottery-to-cement-position-and-power-operator-growth/"
+  }
+]
