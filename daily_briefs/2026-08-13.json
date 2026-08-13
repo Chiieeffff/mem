@@ -1,0 +1,57 @@
+[
+  {
+    "Date": "2026-08-13",
+    "Category": "Lead Signal",
+    "Company": "Fanatics (Sportsbook + Casino)",
+    "Headline": "AGCO grants Fanatics Sportsbook and Fanatics Casino Ontario iGaming licences on August 11 — Fanatics' first international regulated market entry; iGO operating agreement pending before go-live",
+    "Lead Potential": "HIGH",
+    "Why It Matters": "Fanatics US sportsbook has zero crypto support across all operating states — no USDT, no BTC, no crypto deposits whatsoever. Ontario is a brand-new entity with payment infrastructure still being stood up before their iGO operating agreement is executed. As one of the most capitalised US sportsbook operators (Michael Rubin), their Ontario payments team is making vendor decisions right now. Canadian players are heavy crypto depositors due to card friction; GWC's USDT/USDC multichain rails and EUR SEPA/SWIFT off-ramp are unaddressed for their entire Canadian footprint and position GWC as the first institutional crypto processor into a major US operator's international expansion.",
+    "Suggested Action": "Run linkedin_outreach workflow for Fanatics — target Head of Payments or VP Operations for the Ontario entity; reference Aug 11 AGCO licence and pending iGO operating agreement as the payment infrastructure evaluation window before their Ontario go-live",
+    "Status": "",
+    "Source URL": "https://www.casino.org/news/canadian-gaming-fanatics-ontario-license/"
+  },
+  {
+    "Date": "2026-08-13",
+    "Category": "Lead Signal",
+    "Company": "Rush Street Interactive (BetRivers)",
+    "Headline": "RSI reports 62% YoY LATAM user growth at Oppenheimer conference on August 12 — active in Colombia, Mexico, Peru; eyeing Brazil, Chile, Ecuador, Argentina; BurraPay crypto partnership is US-only",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "RSI's LATAM user base is growing 62% YoY yet their BurraPay crypto partnership is explicitly US-only — leaving their Colombian, Mexican, and Peruvian player bases without institutional USDT deposit infrastructure in the region where USDT is the dominant retail deposit method for online gaming. As RSI targets Brazil and Argentina (markets with severe card processing friction), a GWC institutional USDT rails deal for their LATAM entities fills the exact gap their current processor stack does not cover, and represents a distinct opportunity from the US-facing BurraPay relationship already in GWC's pipeline.",
+    "Suggested Action": "Monitor — research RSI's LATAM payments or operations lead; reference Aug 12 Oppenheimer presentation and 62% YoY LATAM growth plus BurraPay's US-only scope as the hook; frame GWC's institutional USDT rails as the LATAM-specific deposit infrastructure gap their current stack leaves open",
+    "Status": "",
+    "Source URL": "https://www.investing.com/news/transcripts/rush-street-interactive-at-oppenheimer-conference-casinofirst-growth-93CH-4855911"
+  },
+  {
+    "Date": "2026-08-13",
+    "Category": "Lead Signal",
+    "Company": "World Sport Betting",
+    "Headline": "Yggdrasil Gaming signs content deal with World Sport Betting on August 11 — Yggdrasil's 5th South Africa integration in 2026 as the SA regulated online casino market accelerates",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "World Sport Betting is a long-established SA sportsbook now in active online casino content expansion — no institutional crypto payment processor identified. South Africa's growing crypto-native player base increasingly uses USDT for gaming deposits due to ZAR volatility and card friction on international platforms. As WSB scales into online casino alongside its core sportsbook with five new content deals in 2026, GWC's USDT multichain rails and EUR SEPA/SWIFT fiat off-ramp are unaddressed infrastructure for a tier-2 SA operator at a clear product expansion inflection point.",
+    "Suggested Action": "Research Head of Payments or CEO at World Sport Betting — reference the Aug 11 Yggdrasil deal as the online casino expansion trigger; frame GWC's USDT rails and EUR/ZAR settlement infrastructure as the deposit layer for their growing crypto-active SA player base",
+    "Status": "",
+    "Source URL": "https://igaming.news/news/2026-08-11/yggdrasil-deepens-south-african-reach-with-world-sport-betting-deal"
+  },
+  {
+    "Date": "2026-08-13",
+    "Category": "Lead Signal",
+    "Company": "TonyBet",
+    "Headline": "TonyBet secures Alberta iGaming licence on July 13 and goes live August 1 — accepting USDT plus BTC, ETH, DOGE, TRON, XRP, LTC, ADA at player level with no identified B2B institutional crypto payment processor for treasury settlement",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "TonyBet explicitly accepts USDT retail deposits in Alberta — confirming crypto demand in this market — but the absence of any named B2B institutional processor means their crypto deposit handling is likely running through a high-fee or grey-market gateway with no EUR SEPA/SWIFT fiat off-ramp for treasury settlement. A GWC institutional USDT rails upgrade for TonyBet's Alberta entity replaces retail-level crypto handling with institutional-grade treasury settlement and EUR off-ramp as they scale their Canadian operation alongside 26 other active licensed operators in the province.",
+    "Suggested Action": "Research Head of Payments or CFO at TonyBet — reference Alberta go-live (Aug 1) and live USDT deposit acceptance as proof of crypto demand; frame GWC's institutional B2B USDT treasury settlement and EUR SEPA/SWIFT off-ramp as the settlement infrastructure upgrade from retail-level crypto handling",
+    "Status": "",
+    "Source URL": "https://eegaming.org/latest-news/2026/07/13/142507/tonybet-secures-alberta-igaming-licence-as-regulated-market-opens/"
+  },
+  {
+    "Date": "2026-08-13",
+    "Category": "Lead Signal",
+    "Company": "Novibet",
+    "Headline": "Novibet secures a three-year debt facility from Alpha Bank in August 2026 to fund international expansion into Europe and the Americas — no named crypto payment processor",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "A growth-capital raise from an institutional lender is the classic trigger for payment infrastructure investment before entering new regulated markets. Novibet is a regulated Greek iGaming operator now capitalised for active Europe and Americas expansion, with no institutional USDT/USDC processor or EUR fiat off-ramp identified. As they execute new-market entries with fresh Alpha Bank capital, GWC's USDT multichain rails and EUR SEPA/SWIFT off-ramp are the institutional payment layer that scales alongside Novibet's geographic expansion — particularly for Americas markets (Brazil, LATAM) where USDT is the dominant online gaming deposit method.",
+    "Suggested Action": "Research Head of Payments or CFO at Novibet — reference the Alpha Bank three-year debt facility as the international expansion trigger; frame GWC's USDT multichain rails and EUR SEPA/SWIFT off-ramp as the institutional payment infrastructure for Novibet's Europe and Americas new-market entries",
+    "Status": "",
+    "Source URL": "https://app.dealroom.co/news/note/novibet-secures-three-year-debt-facility-from-alpha-bank"
+  }
+]
