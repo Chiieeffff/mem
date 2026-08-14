@@ -1,0 +1,35 @@
+[
+  {
+    "Date": "2026-08-14",
+    "Category": "Lead Signal",
+    "Company": "OdiBets",
+    "Headline": "OdiBets (Kenya + Tanzania sportsbook) goes live with QTech's aggregation platform on August 11 — adding casino content alongside sportsbook across East Africa's two highest-growth betting markets with no institutional crypto payment processor identified",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "OdiBets is one of East Africa's most established sportsbooks operating across Kenya and Tanzania, now actively expanding into casino via QTech's B2B aggregation platform. Kenya and Tanzania are Africa's third and fourth largest betting markets, with a growing crypto-native player segment using USDT due to M-Pesa limits and banking friction on international deposits. QTech is already in GWC's pipeline as a B2B platform integration target, but OdiBets as a direct operator client in QTech's East Africa rollout represents a distinct outreach opportunity — GWC's multichain USDT rails and EUR SEPA/SWIFT fiat off-ramp are unaddressed payment infrastructure for OdiBets' East Africa casino expansion.",
+    "Suggested Action": "Research Head of Payments or CEO at OdiBets — reference the August 11 QTech casino launch as the payment infrastructure evaluation trigger; frame GWC's USDT multichain rails as the institutional deposit layer for OdiBets' crypto-active Kenyan and Tanzanian player base, and the EUR SEPA/SWIFT off-ramp as treasury settlement infrastructure complementing their M-Pesa dominated cashier",
+    "Status": "",
+    "Source URL": "https://g3newswire.com/odibets-goes-live-with-qtech-across-kenya-and-tanzania-to-boost-growth/"
+  },
+  {
+    "Date": "2026-08-14",
+    "Category": "Lead Signal",
+    "Company": "PURE Casino Entertainment",
+    "Headline": "PURE Casino Entertainment (Indigenous Gaming Partners, five First Nations-owned) launches as Alberta's 27th licensed iGaming operator on August 7, 2026 — first fully First Nations-owned Alberta iGaming entity with no institutional crypto payment processor identified for its digital vertical",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "PURE Casino is the first fully First Nations-owned Alberta iGaming operator, using Kambi for sportsbook but with a blank-slate payment stack for its online casino vertical. As a land-based casino group transitioning to digital, PURE Casino's treasury infrastructure needs are distinct from pure-play digital operators — GWC's institutional USDT B2B rails and EUR SEPA/SWIFT fiat off-ramp serve the settlement layer where AGLC regulation governs player-facing deposit methods, while GWC's compliance stack aligns with PURE Casino's regulated operator requirements as they scale their combined digital and land-based operations under the Indigenous Gaming Partners umbrella.",
+    "Suggested Action": "Research CFO or Head of Finance at Indigenous Gaming Partners or PURE Casino Entertainment — reference the August 7 Alberta iGaming launch as the payment infrastructure evaluation window; frame GWC's institutional USDT treasury settlement and EUR SEPA/SWIFT fiat off-ramp as the B2B settlement layer for PURE Casino's digital operations, differentiated from player-facing deposits governed by AGLC guidelines",
+    "Status": "",
+    "Source URL": "https://www.iredellfreenews.com/gaming/2026/pure-casino-is-the-first-alberta-operator-with-igaming-platform"
+  },
+  {
+    "Date": "2026-08-14",
+    "Category": "Lead Signal",
+    "Company": "MAS Markets / Solid ECN",
+    "Headline": "MAS Markets (Bahamas-based institutional FX group, formerly BidX Markets) acquires strategic equity stake in Netherlands-based Solid (Spot FX ECN and market maker) on July 29, 2026 — creating a combined institutional FX entity across Bahamas and Amsterdam with no institutional USDT treasury settlement identified",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "The MAS Markets acquisition of Solid creates a new institutional FX entity operating across two regulated jurisdictions (Bahamas + Netherlands), with a combined spot FX ECN and market maker business serving institutional clients. Institutional FX firms are increasing USDT/USDC usage for client settlements as stablecoin rails bypass correspondent banking delays and fees; GWC's institutional USDT B2B treasury settlement and EUR SEPA/SWIFT fiat off-ramp are unaddressed for MAS Markets' combined entity as it integrates Solid's European operations with its Bahamas FX group — the post-acquisition integration period is the optimal infrastructure evaluation window.",
+    "Suggested Action": "Research CFO or Head of Treasury at MAS Markets — reference the July 29 Solid acquisition as the integration trigger for institutional USDT settlement infrastructure; frame GWC's B2B USDT rails and EUR SEPA/SWIFT fiat off-ramp as the settlement layer for MAS Markets' combined Amsterdam/Bahamas FX operations serving institutional clients across both entities",
+    "Status": "",
+    "Source URL": "https://www.financemagnates.com/forex/mas-markets-buys-a-slice-of-solid-three-years-after-solid-bought-a-slice-of-it/"
+  }
+]
