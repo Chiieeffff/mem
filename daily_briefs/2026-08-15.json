@@ -1,0 +1,57 @@
+[
+  {
+    "Date": "2026-08-15",
+    "Category": "Lead Signal",
+    "Company": "GGPoker (NSUS Group)",
+    "Headline": "GGPoker (NSUS Group) registers with Alberta AGLC for regulated iGaming — Canada's largest poker site cleared for launch pending operating agreement sign-off, August 13, 2026",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "GGPoker commands ~25% of global online poker traffic via GGNetwork and already operates in Ontario; Alberta registration opens a new payment stack decision window before go-live. No institutional crypto payment processor identified for either Canadian entity. Canadian card processing for gambling faces documented Visa/Mastercard friction, and GGPoker's international player base in LATAM and Asia — where USDT deposits dominate — aligns directly with GWC's USDT multichain rails and EUR SEPA/SWIFT off-ramp as the institutional B2B crypto deposit layer for their Canadian operations.",
+    "Suggested Action": "Research Head of Payments or Operations Director at GGPoker / NSUS Group — reference Aug 13 Alberta registration and Ontario precedent; frame GWC's USDT multichain rails as the institutional crypto deposit layer for their Canadian entities before go-live",
+    "Status": "",
+    "Source URL": "https://www.canadiangamingbusiness.com/2026/08/13/ggpoker-alberta-license/"
+  },
+  {
+    "Date": "2026-08-15",
+    "Category": "Partnership Intel",
+    "Company": "Finnplay",
+    "Headline": "Finnplay (50+ operator clients across Nordics and Central-Eastern Europe) expands content partnerships ahead of Finland's January 2027 regulated iGaming market opening",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Finnplay's Titan Platform serves 50+ licensed operators across Sweden, Netherlands, Lithuania, Estonia, Hungary, and Mexico — markets where USDT player deposits are growing rapidly. Their active pre-Finland-2027 partnership expansion adds new operators in regulated markets while the Finnish framework (live Jan 1 2027) is already attracting operator registrations. Embedding GWC's USDT/USDC payment API into Finnplay's Titan Platform would distribute institutional crypto deposit capability across all 50+ operator clients through a single B2B agreement, ahead of NOWPayments or B2BinPay establishing exclusivity on the platform.",
+    "Suggested Action": "Research BD or integrations lead at Finnplay — frame GWC's USDT payment API as the crypto payment rail to embed in Titan Platform for operators serving Nordics and CEE player bases ahead of Finland's January 2027 go-live",
+    "Status": "",
+    "Source URL": "https://igamingbusiness.com/company-news/peter-sons-expands-regulated-market-reach-through-finnplay-partnership/"
+  },
+  {
+    "Date": "2026-08-15",
+    "Category": "Lead Signal",
+    "Company": "Coolbet",
+    "Headline": "Coolbet expands casino game portfolio simultaneously across Northern Europe (Estonia, Finland, Sweden, Norway, Iceland), LATAM (Chile, Peru) and Canada via DEGEN Studios deal — August 13, 2026",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Coolbet is a B2C operator scaling across three geographies simultaneously, including Chile and Peru — GWC's named LATAM target markets where USDT is the dominant online gaming deposit method — and Canada, where card decline rates for gambling are among the highest in regulated markets. No institutional crypto payment processor identified. LATAM card processing friction combined with simultaneous Canadian expansion makes GWC's USDT multichain rails and EUR SEPA/SWIFT off-ramp a differentiated fit as Coolbet builds out its cross-border player acquisition stack.",
+    "Suggested Action": "Research Head of Payments or CFO at Coolbet — reference the Aug 13 multi-market expansion (Chile, Peru, Canada) as the payment infrastructure trigger; frame GWC's USDT rails as the institutional deposit layer for Coolbet's cross-border crypto-active player base",
+    "Status": "",
+    "Source URL": "https://eegaming.org/latest-news/2026/08/13/52164/degen-studios-rolls-out-full-game-portfolio-on-coolbet-across-three-continents"
+  },
+  {
+    "Date": "2026-08-15",
+    "Category": "Partnership Intel",
+    "Company": "NGX",
+    "Headline": "NGX — Brazil's leading B2B iGaming platform — deepens third-party integrations (Optimove CRM, BETBY sportsbook, Xtremepush, AWS 5-year renewal) as Brazil's regulated market reaches 78 licensed operators running 138 brands",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "NGX is Brazil's leading B2B iGaming platform with a significant operator client base in the world's newest major regulated market ($5.6B projected GGR). Their active third-party integration strategy across four major tech partners confirms an open-platform model receptive to payment rail partnerships. No crypto payment processor integration identified. Embedding GWC's USDT/USD-to-EUR payment rails into NGX's platform would distribute institutional crypto deposit capability across NGX's operator client base through one B2B agreement — Brazil's card processing restrictions on gambling make USDT rails essential for operators serving crypto-native Brazilian players.",
+    "Suggested Action": "Research BD or integrations lead at NGX — frame GWC's USDT payment API as the institutional crypto deposit rail to embed in NGX's platform for operators serving Brazil's crypto-native player base; reference NGX's open integration model (Optimove, BETBY, Xtremepush precedents)",
+    "Status": "",
+    "Source URL": "https://igamingbrazil.com/en/online-en-2/2026/08/13/ngx-and-optimove-partner-to-expand-igaming-solutions-in-brazil/"
+  },
+  {
+    "Date": "2026-08-15",
+    "Category": "Lead Signal",
+    "Company": "IZIGROUP",
+    "Headline": "IZIGROUP (Malta-regulated operator group — izibet.com, lottery.mt, dragonara.com) expands content library with Evoplay integration across all three brands — August 14, 2026",
+    "Lead Potential": "LOW",
+    "Why It Matters": "IZIGROUP operates three distinct Malta-regulated online gaming brands simultaneously and is actively investing in content expansion, but no crypto payment option is identified across any of its platforms. Malta is a Tier 1 European regulated market with growing crypto deposit demand from international players; IZIGROUP's three-brand structure and active platform investment signals payment stack evaluation potential worth monitoring before a competitor establishes exclusivity.",
+    "Suggested Action": "Monitor — research payment infrastructure across IZIGROUP's three brands (izibet.com, lottery.mt, dragonara.com) and identify payments decision-maker before outreach",
+    "Status": "",
+    "Source URL": "https://europeangaming.eu/portal/press-releases/2026/08/14/212695/evoplay-izigroup-malta-content-deal/"
+  }
+]
