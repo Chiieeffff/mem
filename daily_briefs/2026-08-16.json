@@ -1,0 +1,68 @@
+[
+  {
+    "Date": "2026-08-16",
+    "Category": "Partnership Intel",
+    "Company": "BetConstruct AI",
+    "Headline": "BetConstruct AI waives up to 12 months of sportsbook fees and 65% off platform setup for new LatAm, Africa, and Asia operators in push to sign partners before October 2026",
+    "Lead Potential": "HIGH",
+    "Why It Matters": "BetConstruct AI is aggressively recruiting new operators in GWC's exact target geos (LatAm/Africa/Asia) with a commercial campaign expiring Oct 1, 2026 — these incoming operators will need crypto payment infrastructure as part of their launch stack, and no crypto payment processor is named in the offer. A GWC API integration into BetConstruct AI's platform would reach every new operator they sign through one B2B deal, replicating the Match-Trade/FXBO partnership multiplier model already in this sheet.",
+    "Suggested Action": "Run linkedin_outreach workflow for BetConstruct AI — target Head of Partnerships or Product, referencing the Purest Sportsbook operator acquisition campaign and GWC's LatAm/Africa crypto payment fit",
+    "Status": "",
+    "Source URL": "https://focusgn.com/betconstruct-ai-unveils-its-new-commercial-offer-the-purest-sportsbook"
+  },
+  {
+    "Date": "2026-08-16",
+    "Category": "Partnership Intel",
+    "Company": "Mrkts.com (Deep Ether Labs)",
+    "Headline": "Deep Ether Labs launches Mrkts.com, a B2B white-label prediction markets platform with payment and compliance infrastructure, with NYSE-listed High Roller Technologies as its first exclusive operator partner",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Mrkts.com is a new B2B iGaming infrastructure platform that bundles payment infrastructure as a core module — as it onboards additional operator partners beyond High Roller, those operators will need USDT/USDC multichain deposits and EUR fiat off-ramp alongside prediction markets settlement. GWC should position as the preferred payment layer for operators using Mrkts.com who want a dedicated iGaming payment processor rather than a generic exchange-connected module.",
+    "Suggested Action": "Research decision-maker at Deep Ether Labs / Mrkts.com — target BD or partnerships lead for payment integration discussion as they expand their operator roster beyond the initial High Roller exclusive",
+    "Status": "",
+    "Source URL": "https://europeangaming.eu/portal/press-releases/2026/08/14/212685/mrkts-com-prediction-markets-platform-high-roller/"
+  },
+  {
+    "Date": "2026-08-16",
+    "Category": "Lead Signal",
+    "Company": "eToro / TradeZero",
+    "Headline": "eToro acquires US-focused active trading broker TradeZero for $231M, adding 80,000+ active US traders and approximately $80M ARR to its global multi-asset platform",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "M&A creates a payment stack review window as eToro absorbs TradeZero's US operations (close expected H1 2027). TradeZero's active-trader client base skews crypto-native, and the combined entity's USDT/USDC rails may be insufficient for US active traders who prefer crypto deposits. GWC's multichain processing and zero-chargeback model is a differentiated pitch for eToro's post-merger product team as they unify payment infrastructure across US and LatAm active traders.",
+    "Suggested Action": "Monitor — research eToro's payments or product team post-acquisition; approach around deal close (H1 2027) as the combined entity evaluates its US payment stack unification",
+    "Status": "",
+    "Source URL": "https://fxnewsgroup.com/forex-news/retail-forex/etoro-buys-us-focused-online-broker-tradezero-for-231m/"
+  },
+  {
+    "Date": "2026-08-16",
+    "Category": "Lead Signal",
+    "Company": "High Roller Technologies (ROLR)",
+    "Headline": "High Roller Technologies (NYSE: ROLR) pivots to prediction markets via exclusive mrkts.com platform license and Crypto.com exchange integration, reports deepening Q2 2026 losses as it transitions from casino operations",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "High Roller's prediction markets (ROLR) rails are locked to Crypto.com exchange infrastructure, but the company's core online casino and sportsbook operations — still generating revenue — have no named crypto payment processor identified. The company is under financial pressure (deepening losses, new CPO hired) and evaluating its full stack: GWC's USDT/USDC multichain deposits and zero-chargeback model could be pitched for their existing gaming operations where Crypto.com exchange rails do not apply.",
+    "Suggested Action": "Research High Roller Technologies' casino/sportsbook payment team independently from their ROLR prediction markets vertical — target CFO or COO around their core gaming operations payment gap",
+    "Status": "",
+    "Source URL": "https://www.globenewswire.com/news-release/2026/08/11/3343166/0/en/high-roller-technologies-advances-planned-u-s-prediction-markets-launch-reports-second-quarter-2026-results.html"
+  },
+  {
+    "Date": "2026-08-16",
+    "Category": "Market Trend",
+    "Company": "LMAX Group",
+    "Headline": "LMAX Group hires Morgan Stanley and KBW to explore $5B Nasdaq IPO or sale, the highest valuation of any institutional crypto and FX trading platform seeking public markets — preferred route is Nasdaq listing",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "LMAX's $5B IPO valuation (5× its 2021 level) and the Morgan Stanley mandate signal that institutional crypto FX infrastructure is now mainstream investable. Retail Forex brokers following LMAX's IPO trajectory will accelerate their own crypto payment adoption to avoid client attrition to crypto-native rivals. Use LMAX's IPO as the highest-profile institutional validation of crypto FX infrastructure in outreach to mid-tier retail Forex brokers still evaluating USDT deposit rails.",
+    "Suggested Action": "Consider referencing LMAX's $5B IPO valuation as institutional crypto FX validation in outreach to retail Forex brokers — the message: institutional infrastructure is valued at 50× EBITDA; retail brokers without crypto payment rails are handing clients to Crypto.com and Kraken",
+    "Status": "",
+    "Source URL": "https://fxnewsgroup.com/forex-news/institutional/lmax-eyeing-nasdaq-ipo-spac-listing-at-5-billion-valuation/"
+  },
+  {
+    "Date": "2026-08-16",
+    "Category": "Market Trend",
+    "Company": "Robinhood UK",
+    "Headline": "Robinhood launches zero-fee crypto trading for UK clients on August 10, covering 50+ cryptocurrencies including Bitcoin, Ethereum, XRP, and Hyperliquid under its new FCA crypto registration",
+    "Lead Potential": "LOW",
+    "Why It Matters": "Robinhood's UK crypto launch signals that post-MiCA regulatory clarity has unlocked mainstream retail crypto adoption in the UK. The same regulatory clarity should be driving UK-licensed iGaming operators and Forex brokers to accelerate USDT/USDC deposit rails — if Robinhood offers zero-fee crypto to UK retail investors, players and traders now expect crypto deposit options at their betting and trading platforms. Use as a narrative anchor in outreach to UK-facing operator targets.",
+    "Suggested Action": "Consider referencing Robinhood UK crypto launch as UK retail normalisation signal in outreach to UK-licensed casino and Forex broker targets — positions GWC USDT rails as table stakes for any UK operator competing for crypto-native players",
+    "Status": "",
+    "Source URL": "https://fxnewsgroup.com/forex-news/retail-forex/robinhood-launches-crypto-trading-for-uk-clients/"
+  }
+]
