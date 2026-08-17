@@ -1,0 +1,57 @@
+[
+  {
+    "Date": "2026-08-17",
+    "Category": "Lead Signal",
+    "Company": "G2 Digital (Vegas Club Casino)",
+    "Headline": "G2 Digital launches Vegas Club Casino as New Jersey's 30th licensed online casino on July 22, 2026 — co-founded by ex-Rush Street Interactive CEO Greg Carlin and PlayStar launch veteran Dan Alexander, with planned expansion to Alberta, Ontario, and Pennsylvania",
+    "Lead Potential": "HIGH",
+    "Why It Matters": "G2 Digital is a new-to-market B2C casino operator founded by two executives with deep institutional knowledge of payment friction: Greg Carlin co-founded and led Rush Street Interactive (BetRivers), one of North America's largest online casino operators, and Dan Alexander helped build PlayStar into a top-10 NJ operator. No crypto payment processor is named in the launch announcement. Planned expansion into Alberta and Ontario — Canada's highest card-decline gambling markets — creates a near-term payment stack decision window. GWC's USDT multichain rails and EUR SEPA/SWIFT off-ramp are the institutional crypto deposit layer for a well-capitalized new operator building its payment infrastructure from scratch ahead of Canadian go-live.",
+    "Suggested Action": "Run linkedin_outreach workflow for G2 Digital — target Greg Carlin (co-founder) or Dan Alexander; reference the NJ launch and planned Alberta/Ontario expansion as the payment infrastructure evaluation trigger; emphasize GWC's institutional USDT rails as the crypto deposit layer for a new operator whose founders know firsthand how card chargebacks and payment friction impacted RSI/BetRivers and PlayStar",
+    "Status": "",
+    "Source URL": "https://www.prnewswire.com/news-releases/g2-digital-launches-vegas-club-casino-in-new-jersey-as-online-casino-market-continues-record-growth-302832327.html"
+  },
+  {
+    "Date": "2026-08-17",
+    "Category": "Lead Signal",
+    "Company": "Born2trade",
+    "Headline": "Born2trade CFD broker goes live with prediction markets on the Match-Trader platform on July 21, 2026 — one of the first Forex/CFD brokers to offer event-based outcome trading alongside standard FX and CFD instruments through the same execution engine",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Born2trade launched prediction markets on Match-Trader, a platform GWC already has a B2B partnership with. Born2trade's expansion into prediction markets — where crypto-native users dominate — combined with its core FX/CFD broker operations creates a dual opportunity: GWC's USDT/USDC multichain rails for client deposits across both product lines, and EUR SEPA/SWIFT settlement for B2B treasury. The Match-Trade partnership creates a warm introduction path rather than a cold outreach for the crypto payment conversation.",
+    "Suggested Action": "Research CFO or Head of Payments at Born2trade — reference the July 21 Match-Trader prediction markets launch and GWC's existing integration with Match-Trade as context for a crypto payment rail discussion; position GWC as the institutional USDT deposit layer for both the core FX/CFD client base and incoming crypto-native prediction markets traders",
+    "Status": "",
+    "Source URL": "https://www.financemagnates.com/forex/born2trade-rolls-out-prediction-markets-on-match-trader-platform/"
+  },
+  {
+    "Date": "2026-08-17",
+    "Category": "Lead Signal",
+    "Company": "Elefin",
+    "Headline": "Elefin Ltd. launches new online trading platform providing retail traders with access to global CFD and Forex markets in July 2026 — a new-to-market broker with a blank-slate payment stack entering a high-card-friction vertical",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Elefin is a newly launched CFD and Forex trading platform targeting individual traders, entering a market where card decline rates for retail trading deposits are a persistent pain point. As a new-to-market broker without an entrenched payment provider, Elefin is at the optimal window for GWC's USDT/USDC multichain rails and EUR SEPA/SWIFT fiat off-ramp — before a competing crypto payment processor establishes a relationship and before card friction begins eroding client acquisition conversion.",
+    "Suggested Action": "Research CEO or Head of Payments at Elefin Ltd — reference the July 2026 platform launch as the payment infrastructure evaluation window; frame GWC's USDT rails as the institutional crypto deposit layer for a new broker competing for crypto-native retail traders who prefer stablecoin-denominated trading accounts",
+    "Status": "",
+    "Source URL": "https://natlawreview.com/press-releases/elefin-launches-trading-platform-providing-access-global-cfd-and-forex"
+  },
+  {
+    "Date": "2026-08-17",
+    "Category": "Market Trend",
+    "Company": "Kenya Gambling Regulatory Authority (GRA)",
+    "Headline": "Kenya's High Court suspends the Gambling Control (Licensing) Regulations 2026 on July 20 after operators petition against licensing fee increases of up to 50,000%, creating regulatory cost uncertainty for 100+ licensed Kenyan sportsbook operators",
+    "Lead Potential": "LOW",
+    "Why It Matters": "The GRA fee suspension affects Kenya's 100+ licensed sportsbook operators — including OdiBets, SportPesa, and Betika — who now face regulatory and cost uncertainty on top of existing payment friction. Operators under cost pressure in a high-friction environment re-evaluate their payment stack to cut processing expenses: GWC's zero-chargeback USDT rails eliminate card fraud losses and reduce per-transaction cost compared to M-Pesa and card alternatives, making Kenya a timely geo to frame GWC as a cost-reduction tool during a period of regulatory cost escalation.",
+    "Suggested Action": "Consider referencing Kenya's GRA licensing fee crisis in outreach to East Africa iGaming operators — position GWC's USDT rails as a cost-reduction tool for operators facing compounding compliance cost increases; use as narrative anchor for OdiBets follow-up and other Kenya-facing operator targets",
+    "Status": "",
+    "Source URL": "https://igamingbusiness.com/legal-compliance/legal/kenya-high-court-suspends-gambling-licensing-framework/"
+  },
+  {
+    "Date": "2026-08-17",
+    "Category": "Market Trend",
+    "Company": "Brazil SPA (Secretaria de Premios e Apostas)",
+    "Headline": "Brazil's SPA opens a 45-day public consultation (July 27–September 9, 2026) on fixed-odds operator authorization rules with 87 active licensees and 14 pending applications, signaling a Q4 2026 second licensing window that could push licensed operators past 100",
+    "Lead Potential": "LOW",
+    "Why It Matters": "Brazil's Q4 2026 second licensing window will onboard new operators from 14 pending applications plus future entrants — each new licensee needs a crypto payment stack as card processing restrictions on online gambling remain in force. The SPA consultation is the lead-time signal for approaching Brazil-focused B2B iGaming platforms (NGX, Pragmatic Solutions) with a joint payment pitch before new operators finalize their platform and payment stack selections for Brazilian operations.",
+    "Suggested Action": "Consider referencing Brazil's Q4 2026 second licensing window in outreach to B2B iGaming platforms with Brazilian operator clients — position GWC as the institutional USDT payment layer for incoming licensees before they finalize their stack; use as a timing anchor in NGX and Pragmatic Solutions follow-up conversations",
+    "Status": "",
+    "Source URL": "https://news.worldcasinodirectory.com/brazil-reviews-rules-for-fixed-odds-betting-authorization-123691"
+  }
+]
