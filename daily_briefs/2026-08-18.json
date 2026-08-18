@@ -1,0 +1,57 @@
+[
+  {
+    "Date": "2026-08-18",
+    "Category": "Lead Signal",
+    "Company": "Fortuna Entertainment Group / TOPsport",
+    "Headline": "Fortuna Entertainment Group completes acquisition of TOPsport, Lithuania's market leader with ~50% online market share and €65M EBITDA, entering the Baltics for the first time — deal confirmed August 17, 2026",
+    "Lead Potential": "HIGH",
+    "Why It Matters": "M&A consolidation creates a forced payment-stack review: FEG operates across Czech Republic, Slovakia, Poland, Romania, and Croatia and now adds Lithuania's largest sportsbook (50% online market share, 54 retail locations). No crypto payment processor is named for any Fortuna or TOPsport entity. FEG's existing payment partner Nuvei/SafeCharge focuses on traditional card and e-wallet rails — GWC's USDT/USDC multichain processing and EUR SEPA/SWIFT fiat off-ramp are an additive layer for FEG's Lithuanian player base and broader CEE expansion where card processing friction is high.",
+    "Suggested Action": "Run linkedin_outreach workflow for Fortuna Entertainment Group — target VP of Payments or Product at FEG referencing the TOPsport acquisition and the open payment-stack evaluation window for Lithuanian operations; lead with GWC's zero-chargeback USDT rails as the crypto deposit layer for CEE markets with growing stablecoin adoption",
+    "Status": "",
+    "Source URL": "https://sbcnews.co.uk/sportsbook/2026/08/17/fortuna-topsport-2026/"
+  },
+  {
+    "Date": "2026-08-18",
+    "Category": "Partnership Intel",
+    "Company": "Tabcorp / BetMakers Technology Group",
+    "Headline": "Tabcorp makes A$267M bid to acquire BetMakers Technology Group (ASX: BET) on August 9-10, 2026 — BetMakers supplies B2B wagering infrastructure, data, and tote technology to operators globally, while BetMakers simultaneously signed a French PMU distribution deal (Aug 12) during the acquisition process",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "BetMakers is a B2B wagering technology provider serving operators worldwide with pari-mutuel/tote systems and data infrastructure — the Tabcorp acquisition will scale its operator client base under a well-funded ASX parent. BetMakers' B2B operator network (including Australia and international racing/sports wagering clients) operates in markets where USDT deposit rails reduce settlement friction and eliminate chargebacks; no crypto payment processor is named in BetMakers' infrastructure. A partnership with BetMakers' platform team could distribute GWC's payment API to wagering operators currently relying on traditional payment rails.",
+    "Suggested Action": "Research decision-maker at BetMakers Technology Group — target Head of Payments or Partnerships for a B2B crypto payment integration discussion before the Tabcorp acquisition closes (Q3 FY2027); frame GWC as the USDT settlement layer for BetMakers' international operator clients in wagering markets with high card-decline rates",
+    "Status": "",
+    "Source URL": "https://igamingbusiness.com/strategy/tabcorp-to-acquire-betmakers-in-267-million-deal/"
+  },
+  {
+    "Date": "2026-08-18",
+    "Category": "Lead Signal",
+    "Company": "Spec Markets",
+    "Headline": "Spec Markets (FSC Mauritius + FSCA South Africa regulated Forex/CFD broker) launches PAMM managed account service on August 13, 2026 via Brokeree Solutions — PAMM was its most-requested feature from a growing international client base",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Spec Markets is a regulated Forex/CFD broker entering active product expansion — PAMM is the most-requested feature from its client base, signaling strong international growth in high-crypto regions (Mauritius + South Africa regulatory footprint covers APAC and African retail trading markets). Money Managers using PAMM pools draw capital from diverse international investors who prefer USDT/USDC deposits for borderless, low-friction funding. GWC's USDT multichain rails and EUR SEPA/SWIFT fiat off-ramp are the institutional crypto deposit layer Spec Markets needs to serve its growing global client base; no crypto payment processor is identified in available coverage.",
+    "Suggested Action": "Research Head of Payments or CEO at Spec Markets — reference the August 13 PAMM launch as the product expansion trigger and position GWC's USDT/USDC multichain deposits as the institutional crypto payment layer for Money Managers and their investor clients in Spec Markets' APAC and African target markets",
+    "Status": "",
+    "Source URL": "https://fxnewsgroup.com/forex-news/platforms/spec-markets-launches-pamm-accounts-powered-by-brokeree/"
+  },
+  {
+    "Date": "2026-08-18",
+    "Category": "Market Trend",
+    "Company": "Skrill (Paysafe)",
+    "Headline": "Skrill introduces a 2.99% fee on all transfers sent to non-US Skrill accounts effective August 17, 2026 — impacting iGaming operators and affiliates using Skrill for international player and affiliate payments",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Skrill is one of the most widely used e-wallet payment methods across iGaming — used for player deposits, affiliate payouts, and B2B settlements globally. A 2.99% international transfer fee raises the total cost of iGaming payments via Skrill significantly for operators paying affiliates and running international player bases. GWC's USDT multichain rails settle internationally with no percentage-based transfer fee and zero chargebacks — a direct cost-reduction argument for operators currently relying on Skrill for cross-border payment flows. Use this Skrill fee increase as a timely outreach narrative: 'if Skrill now costs 3% more for international transfers, GWC's USDT settlement infrastructure is ready to replace that cost entirely.'",
+    "Suggested Action": "Consider referencing Skrill's 2.99% international fee increase (effective Aug 17) in outreach to operators currently using Skrill for player deposits and affiliate payments — position GWC's USDT rails as the zero-percentage-fee alternative with instant settlement and zero chargebacks replacing Skrill's cross-border payment cost",
+    "Status": "",
+    "Source URL": "https://www.skrill.com/en/siteinformation/fees/"
+  },
+  {
+    "Date": "2026-08-18",
+    "Category": "Partnership Intel",
+    "Company": "Awager (Aristocrat)",
+    "Headline": "Awager (an Aristocrat subsidiary) strikes a live-streamed slot partnership with BetMGM on August 13, 2026, streaming 50 physical slot cabinets and 30+ game titles to online NJ casino players — Awager already supplies FanDuel Casino and Caesars Entertainment with the same infrastructure",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Awager is rapidly becoming a tier-1 B2B live-streaming platform for the US regulated online casino sector, now supplying BetMGM, FanDuel Casino, and Caesars — three of the largest US operators already tracked in this sheet. As Awager expands its B2B client roster beyond these tier-1 brands to mid-tier US casino operators, those new operators will need crypto payment infrastructure for their growing live-casino transaction volumes; GWC should monitor Awager's upcoming operator signings as warm outreach leads. Additionally, Awager's rapid expansion validates the live-casino streaming category's growth, which further raises total transaction volume per operator and makes the USDT zero-chargeback argument stronger for high-frequency live-casino session operators.",
+    "Suggested Action": "Monitor — identify Awager's next wave of B2B operator signings beyond BetMGM/FanDuel/Caesars; approach those mid-tier operator clients directly for GWC crypto payment rail conversations, using the live-casino streaming volume growth as the payment infrastructure urgency trigger",
+    "Status": "",
+    "Source URL": "https://cdcgaming.com/brief/new-jersey-awager-partners-with-betmgm-for-live-streamed-slots/"
+  }
+]
