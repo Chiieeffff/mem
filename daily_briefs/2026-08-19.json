@@ -1,0 +1,68 @@
+[
+  {
+    "Date": "2026-08-19",
+    "Category": "Lead Signal",
+    "Company": "DigiPlus Interactive",
+    "Headline": "DigiPlus Interactive (BingoPlus parent, Philippines) Q2 profit more than doubles as board approves New Zealand license expression of interest (Aug 4, 2026), with South Africa licenses already granted (Western Cape, April 2026) and GamePlus Brazil operating since September 2025 — triple-market international expansion underway",
+    "Lead Potential": "HIGH",
+    "Why It Matters": "DigiPlus is simultaneously building payment infrastructure in three distinct regulated jurisdictions: Brazil (card restrictions on gambling make USDT the dominant alternative), South Africa (emerging digital payments market with growing stablecoin adoption), and New Zealand (December 1, 2026 launch, up to 15 licenses). Q2 profit more than doubled YoY signaling financial firepower for expansion. No institutional crypto payment processor is identified for any of DigiPlus' three international entities. GWC's USDT/USDC multichain rails and EUR SEPA/SWIFT fiat off-ramp map exactly onto DigiPlus' multi-geo expansion footprint — a single B2B relationship could serve all three markets from one integration.",
+    "Suggested Action": "Run linkedin_outreach workflow for DigiPlus Interactive — target CFO or Head of Payments referencing the triple-market expansion (Brazil, South Africa, New Zealand) and Q2 results as the payment infrastructure build-out trigger; lead with GWC's USDT multichain rails as the institutional deposit layer for DigiPlus' international entities across three geos simultaneously",
+    "Status": "",
+    "Source URL": "https://bworldonline.com/corporate/2026/08/05/768099/digiplus-q2-profit-more-than-doubles-eyes-new-zealand-gaming-license/"
+  },
+  {
+    "Date": "2026-08-19",
+    "Category": "Lead Signal",
+    "Company": "Fanatics / Fanatics Casino (Ontario)",
+    "Headline": "Fanatics receives AGCO license for sportsbook and casino in Ontario on August 11, 2026 — its first regulated market entry outside the United States, with 22-state US sportsbook footprint and launch timeline pending iGaming Ontario operating agreement",
+    "Lead Potential": "HIGH",
+    "Why It Matters": "Ontario marks Fanatics' first international foray and a blank-slate Canadian payment stack build. Fanatics Casino's US checkout is confirmed 100% fiat (PayPal, Venmo, ACH, cards, Trustly, wire — zero crypto identified in the June NJ revenue entry). The Ontario operating agreement has not yet been executed, placing Fanatics squarely in the payment infrastructure evaluation window before any processor establishes a relationship. Ontario is Canada's largest regulated iGaming market (48 operators, 83 gaming sites); Fanatics has explicitly cited plans for further Canadian expansion to Alberta. GWC's USDT multichain deposits and zero-chargeback model are a differentiated pitch for Fanatics' payment team building the Canadian stack from scratch.",
+    "Suggested Action": "Run linkedin_outreach workflow for Fanatics — target VP Payments or Head of Product Canada referencing the August 11 AGCO Ontario license as the payment infrastructure evaluation window; frame GWC's USDT multichain deposits as the institutional crypto deposit layer for Fanatics' new Canadian entity before the iGaming Ontario operating agreement is finalized",
+    "Status": "",
+    "Source URL": "https://www.canadiangamingbusiness.com/2026/08/11/fanatics-ontario-license/"
+  },
+  {
+    "Date": "2026-08-19",
+    "Category": "Lead Signal",
+    "Company": "LeoVegas (MGM Resorts International)",
+    "Headline": "LeoVegas launches proprietary Tiger sportsbook across all three UK brands (BetMGM, LeoVegas, BetUK) on August 7, 2026 — replacing third-party technology as Britain becomes Tiger's fourth market after Denmark, Brazil, and Sweden",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "LeoVegas, the MGM Resorts-owned UK operator, has migrated all three UK brands onto its in-house Tiger platform — a technology consolidation that typically prompts a payment stack review alongside the platform change. With UK Remote Gaming Duty rising to 40%, LeoVegas is explicitly targeting cost reduction across its full technology stack. No crypto payment processor is identified for any LeoVegas UK entity. The Tiger platform is already live in Brazil, where USDT adoption is highest, creating a natural argument for payment infrastructure continuity across markets. GWC's USDT/USDC multichain rails and zero-chargeback model reduce per-transaction cost at high duty rates and give LeoVegas UK a consistent crypto deposit layer matched to its Brazilian operations.",
+    "Suggested Action": "Research Head of Payments or CFO at LeoVegas UK — reference the August 7 Tiger sportsbook rollout as the tech-stack consolidation trigger; propose GWC's USDT multichain rails as the crypto deposit layer for the three UK brands, emphasizing cost reduction under rising Remote Gaming Duty rates and payment infrastructure continuity with LeoVegas' existing Brazilian operations",
+    "Status": "",
+    "Source URL": "https://bettorsinsider.com/sports-betting/2026/08/09/leovegas-integrates-tiger-sportsbook-technology-across-uk-igaming-brands/"
+  },
+  {
+    "Date": "2026-08-19",
+    "Category": "Partnership Intel",
+    "Company": "PWP.BET (PlayWinPlay)",
+    "Headline": "PWP.BET expands PlayWinPlay B2B iGaming platform with new content and payment integration partners, adding regional technical support for operators launching in Latin America and Southeast Asia — announced August 4, 2026",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "PWP.BET is a modular B2B iGaming platform (160+ content providers, multi-currency payment infrastructure, anti-fraud tools) actively expanding its network of payment integration partners in LatAm and Southeast Asia — GWC's top target geos where USDT is the dominant player deposit method and card processing friction is highest. No dedicated institutional crypto payment processor is named in the announcement. Embedding GWC's USDT/USDC multichain API into PWP.BET's platform would distribute institutional crypto deposit capability across every operator launching on the PlayWinPlay platform in LatAm and SE Asia, replicating the BetConstruct/Match-Trade partnership multiplier model already proven in this sheet.",
+    "Suggested Action": "Research BD or integrations lead at PWP.BET — reference the August 4 expansion announcement and GWC's LatAm/SE Asia geo fit for a USDT payment API integration discussion; frame GWC as the institutional crypto deposit layer for operators launching casino and sportsbook brands on the PlayWinPlay platform in GWC's primary growth geos",
+    "Status": "",
+    "Source URL": "https://www.manilatimes.net/2026/08/04/tmt-newswire/globenewswire/pwpbet-expands-its-b2b-igaming-technology-platform-for-operators-in-2026/2398209"
+  },
+  {
+    "Date": "2026-08-19",
+    "Category": "Partnership Intel",
+    "Company": "Pragmatic Solutions",
+    "Headline": "Pragmatic Solutions (PAM platform provider, not to be confused with Pragmatic Play) goes live in Ireland supporting iGaming operators from July 1, 2026 launch of Ireland's new GRAI gambling licensing regime — first online casino and gaming licences issued under the Gambling Regulation Act 2024",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Pragmatic Solutions is an enterprise Player Account Management (PAM) platform powering regulated iGaming operators across multiple markets; Ireland's July 1, 2026 GRAI launch is its newest regulated market entry with operator clients already live. Operators launching in Ireland on Pragmatic Solutions' PAM platform need a complete payment stack — including crypto deposit rails — that the PAM provider does not supply natively. No crypto payment processor is named in Pragmatic Solutions' Irish launch coverage. Embedding GWC's USDT/USDC payment API as the crypto deposit module for Pragmatic Solutions' Irish operator clients would distribute institutional crypto deposit capability across their entire Ireland-market roster, with precedent to roll out across all Pragmatic Solutions-powered regulated markets where the same operators typically request payment rail standardisation.",
+    "Suggested Action": "Research BD or integrations lead at Pragmatic Solutions — reference the July 1 Ireland GRAI market launch as the payment stack build-out window for their Irish operator clients; propose GWC's USDT/USDC payment API as the institutional crypto deposit module to embed across Pragmatic Solutions' PAM infrastructure in Ireland and beyond",
+    "Status": "",
+    "Source URL": "https://igamingbusiness.com/company-news/pragmatic-solutions-igaming-platform-live-in-irelands-regulated-market/"
+  },
+  {
+    "Date": "2026-08-19",
+    "Category": "Lead Signal",
+    "Company": "Brex Capital",
+    "Headline": "FX industry veteran Sophie Squillacioti launches Brex Capital, an Asia-focused CFD and FX brokerage, in early August 2026 — a blank-slate new broker entering Southeast and East Asian retail trading markets with no established payment provider relationships",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Brex Capital is a brand-new Asia-focused CFD/Forex broker founded by a recognized industry veteran, entering markets where USDT deposit adoption among retail traders is among the highest globally. As a new-to-market broker with no legacy payment contracts, Brex Capital is at the optimal window for GWC's USDT/USDC multichain rails and EUR SEPA/SWIFT fiat off-ramp before competing processors (CoinsPaid, B2BinPay) establish a relationship. Asia-focused CFD brokers targeting retail traders increasingly lead with USDT deposit options as the primary funding method, and a broker founded by an experienced operator will prioritize institutional-grade payment infrastructure from day one.",
+    "Suggested Action": "Research Sophie Squillacioti (founder) at Brex Capital — reference the August 2026 launch and Asia market focus as the payment infrastructure evaluation window; frame GWC's USDT multichain rails as the institutional crypto deposit layer for Brex Capital's Asian retail trading client base before legacy processors establish exclusivity",
+    "Status": "",
+    "Source URL": "https://fxnewsgroup.com/forex-news/retail-forex/exclusive-sophie-squillacioti-launches-asia-focused-cfds-broker-brex-capital/"
+  }
+]
