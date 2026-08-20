@@ -1,0 +1,57 @@
+[
+  {
+    "Date": "2026-08-20",
+    "Category": "Lead Signal",
+    "Company": "Betfred",
+    "Headline": "Betfred expands technology stack with T5C BRUNO-powered Bet Builder launch across its online sportsbook on August 18-19, 2026, following World Cup 2026 retail deployment across 1,300 betting shops — one of the UK's largest bookmakers actively modernising its full technology stack",
+    "Lead Potential": "HIGH",
+    "Why It Matters": "Betfred is one of the UK's largest bookmakers with major online sportsbook and casino operations, currently undergoing a technology modernisation cycle (T5C data platform, new bet builder engine). No crypto payment processor is identified for any Betfred entity. Technology stack refreshes in iGaming typically trigger concurrent payment infrastructure reviews — Betfred's active modernisation creates the optimal window for GWC's institutional USDT/USDC multichain rails and zero-chargeback model as a complementary crypto deposit layer. UK Remote Gaming Duty rising to 40% adds cost pressure, strengthening the zero-chargeback USDT settlement pitch as a margin-preservation tool for Betfred's growing online vertical.",
+    "Suggested Action": "Research Head of Payments or CFO at Betfred — reference the August 2026 technology stack modernisation (T5C BRUNO Bet Builder rollout) as the payment infrastructure review trigger; propose GWC's USDT multichain rails as the institutional crypto deposit layer for Betfred's online sportsbook and casino, with zero-chargeback model reducing processing costs as UK Remote Gaming Duty rises to 40%",
+    "Status": "",
+    "Source URL": "https://sbcnews.co.uk/sportsbook/2026/08/19/betfred-butbuilder-2026/"
+  },
+  {
+    "Date": "2026-08-20",
+    "Category": "Market Trend",
+    "Company": "Cantor Fitzgerald / Kalshi",
+    "Headline": "Cantor Fitzgerald & Co. launches institutional block trading on Kalshi prediction markets on August 19, 2026 — becoming the first major full-service investment bank to give ~3,000 institutional clients access to CFTC-regulated event contracts via Susquehanna-provided liquidity",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Cantor Fitzgerald opening institutional-scale prediction markets trading on Kalshi signals that the event contracts asset class is now firmly institutional — the same maturation trajectory that preceded institutional crypto payment adoption across retail platforms. As institutional-grade prediction market operators scale transaction volumes, they will require payment infrastructure beyond retail exchange connections. GWC's EUR SEPA/SWIFT fiat off-ramp and zero-chargeback USDT multichain rails are the institutional payment layer that prediction markets operators need as they grow. Use this announcement as a narrative anchor in outreach to prediction markets operators (Kalshi B2B clients, Sporttrade, Prophet Exchange): institutional payment infrastructure is the next build layer after regulatory legitimacy.",
+    "Suggested Action": "Monitor Kalshi's B2B operator partnerships following Cantor's institutional block trading launch — approach prediction market operators using Kalshi's infrastructure for GWC payment conversations; frame GWC as the institutional crypto payment layer for event contract operators requiring fiat-crypto settlement at scale beyond exchange-native rails",
+    "Status": "",
+    "Source URL": "https://www.cantor.com/cantor-commences-institutional-block-trading-in-prediction-markets/"
+  },
+  {
+    "Date": "2026-08-20",
+    "Category": "Competitor Move",
+    "Company": "Payhound / AS Monaco",
+    "Headline": "Payhound (Maltese B2B crypto payment processor, Circle Alliance partner) signs as Official B2B Crypto Payment Partner of AS Monaco for 2026-2027 season — announced August 19, 2026, marking its first major European football club sponsorship and a direct competitive push into regulated European iGaming and Forex operator outreach",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Payhound is a direct GWC competitor in B2B institutional crypto payment processing. Its AS Monaco partnership mirrors the sports sponsorship playbook that BVNK, CoinsPaid, and Crypto.com have used to legitimise themselves with European regulated operators. Payhound's European football sponsorship signals an active BD push into regulated European iGaming and Forex operators — the same client base GWC targets. GWC should differentiate on multichain processing breadth (300+ assets vs. Payhound's narrower offering), iGaming-specific zero-chargeback guarantee, dedicated Backoffice operator compliance tooling, and EUR SEPA/SWIFT fiat off-ramp depth. The Monaco deal also confirms market demand for B2B crypto payment brand credibility in European regulated markets.",
+    "Suggested Action": "Use Payhound's AS Monaco deal as a competitive intelligence signal — identify European regulated iGaming and Forex operators Payhound is approaching and prioritise GWC outreach before Payhound establishes those relationships; differentiate GWC on iGaming-specific zero-chargeback guarantee, 300+ asset multichain support, and dedicated Backoffice tooling for operator compliance and treasury teams",
+    "Status": "",
+    "Source URL": "https://igamingbusiness.com/company-news/payhound-announced-as-new-partner-of-as-monaco/"
+  },
+  {
+    "Date": "2026-08-20",
+    "Category": "Lead Signal",
+    "Company": "Plus500",
+    "Headline": "Plus500 (FTSE 250 CFD/Forex broker, 2,800+ instruments, multi-jurisdiction) joins the Bahamas Institute of FX & CFD Issuers (BIFCI) on August 13, 2026 — expanding its regulated footprint alongside Pepperstone, Capital.com, Trade Nation, and IC as BIFCI grows into a tier-1 offshore broker alliance",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Plus500 is one of the largest publicly listed CFD brokers globally, adding a Bahamas regulatory entity through BIFCI — a jurisdiction that targets international retail traders in high-crypto regions (Asia, LatAm, Africa) where card-decline rates make USDT the dominant deposit alternative. Plus500 currently accepts USDT deposits but through non-institutional infrastructure; GWC's institutional USDT multichain rails, dedicated operator Backoffice, and EUR SEPA/SWIFT fiat off-ramp represent a differentiated upgrade path for Plus500's Bahamas entity. The BIFCI expansion signals Plus500 is actively building new jurisdictional payment stacks and could serve as the opening for a payment processor conversation before Bahamas operations fully scale.",
+    "Suggested Action": "Research VP Payments or Head of Product at Plus500 — reference the August 13 BIFCI Bahamas expansion as the jurisdictional payment stack evaluation window; propose GWC's institutional USDT multichain processing as an upgrade from Plus500's current crypto deposit infrastructure, with dedicated Backoffice operator tooling and EUR SEPA/SWIFT fiat off-ramp for cross-border settlement serving Plus500's growing international retail trader base",
+    "Status": "",
+    "Source URL": "https://fxnewsgroup.com/forex-news/retail-forex/plus500-jumps-on-the-bahamas-cfd-broker-bandwagon-joining-bifci/"
+  },
+  {
+    "Date": "2026-08-20",
+    "Category": "Market Trend",
+    "Company": "CreedRoomz",
+    "Headline": "CreedRoomz (B2B live casino game supplier) launches 'Crypto Market', a live dealer crypto trading simulator with 99% payout and 10-second rounds, on August 17-18, 2026 — the first dedicated crypto trading-themed live casino product reaching iGaming operators via B2B content distribution",
+    "Lead Potential": "LOW",
+    "Why It Matters": "CreedRoomz's Crypto Market product signals growing operator demand for crypto-native gaming content — operators integrating this product are self-selecting as crypto-friendly platforms with a player base expecting crypto deposit and withdrawal options. Any online casino operator licensing Crypto Market without institutional USDT payment rails is creating a brand-audience mismatch: players attracted by crypto trading-themed games will expect USDT deposits. Use this as a warm targeting signal — operators licensing Crypto Market who do not yet have GWC as a payment partner are natural outreach targets for GWC's institutional USDT deposit layer.",
+    "Suggested Action": "Monitor CreedRoomz's operator client announcements for Crypto Market integrations — approach those operators as warm USDT payment outreach targets; frame GWC's institutional crypto deposit layer as the natural complement to a crypto trading-themed live casino game offering in operator player acquisition conversations",
+    "Status": "",
+    "Source URL": "https://igamingbusiness.com/company-news/creedroomz-launches-crypto-market-a-99-payout-trading-simulator/"
+  }
+]
