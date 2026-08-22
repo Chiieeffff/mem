@@ -1,0 +1,57 @@
+[
+  {
+    "Date": "2026-08-22",
+    "Category": "Lead Signal",
+    "Company": "BiggerZ",
+    "Headline": "BiggerZ launches fairness-first combined crypto casino, sportsbook, and prediction markets platform in August 2026 — one account and balance across all three verticals, supporting cryptocurrency and selected fiat, with celebrity brand partnerships (Cardi B, Rick Ross, Nate Diaz) signalling active scaling ahead of broader market rollout",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "BiggerZ is a new-to-market B2C operator combining three verticals (casino, sportsbook, prediction markets) under one account and balance — matching GWC's ICP for B2C casino and sportsbook operators. The platform's 'selected fiat payment methods' formulation signals limited fiat infrastructure beyond crypto-native rails; as BiggerZ scales with celebrity-backed brand reach, they will face EUR treasury settlement requirements and institutional USDT depth beyond on-chain mechanics. GWC's institutional USDT/USDC multichain processing (300+ assets) and EUR SEPA/SWIFT fiat off-ramp are exactly the institutional settlement layer that distinguishes a scaling operator from a startup — the same gap GWC addresses for BC.GAME and BetFury as they move toward regulated markets requiring fiat payout channels.",
+    "Suggested Action": "Research Head of Operations or CFO at BiggerZ for institutional USDT settlement and EUR fiat off-ramp discussion; reference the August 2026 platform launch and celebrity brand partnerships as evidence of an active scaling phase ahead of regulated market entry — propose GWC as the institutional treasury layer complementing BiggerZ's native crypto UX",
+    "Status": "",
+    "Source URL": "https://hipther.com/gaming-and-entertainment-europe/2026/08/17/54531/biggerz-building-a-fairness-first-crypto-casino-sportsbook-and-prediction-markets-platform"
+  },
+  {
+    "Date": "2026-08-22",
+    "Category": "Partnership Intel",
+    "Company": "BETBY",
+    "Headline": "BETBY launches Watch & Bet live streaming integration on August 20, 2026, as H1 2026 results confirm 42.7% GGR growth and 47% growth in active players across its global B2B sportsbook operator network — no institutional crypto payment processor identified across BETBY's operator infrastructure",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "BETBY is a Tier 1 B2B sportsbook provider serving operators globally, with H1 GGR growth of 42.7% YoY and 47% more active players across its partner network — a rapidly scaling operator footprint covering events across more than 125 sports. BETBY's operator partners serve crypto-active player bases in emerging markets where USDT is the dominant alternative to card payment friction, yet no institutional crypto payment processor is named in BETBY's B2B platform stack. A GWC API integration at the BETBY platform level would distribute institutional USDT/USDC deposit capability and EUR SEPA/SWIFT treasury settlement across every operator running BETBY's sportsbook engine — the same platform-multiplier model as EveryMatrix and NGX already in GWC's pipeline. BETBY's active product cycle (Watch & Bet is their second major feature launch in 2026 after Q1 record GGR) signals an open-platform team receptive to co-integrations during their growth phase.",
+    "Suggested Action": "Research BD or integrations lead at BETBY — frame GWC's USDT payment API as the institutional crypto deposit rail to embed alongside BETBY's sportsbook infrastructure for operators serving crypto-active player bases in LatAm, Africa, and SE Asia; reference H1 growth (+42.7% GGR, +47% active players) as the platform-multiplier opportunity scaling in real time across their operator network",
+    "Status": "",
+    "Source URL": "https://europeangaming.eu/portal/press-releases/2026/08/21/212989/betby-watch-and-bet-live-streaming-feature/"
+  },
+  {
+    "Date": "2026-08-22",
+    "Category": "Lead Signal",
+    "Company": "STARTRADER",
+    "Headline": "STARTRADER launches XAUUSD247 — the first 24/7 gold CFD on MetaTrader 5 — going live August 21, 2026, as the global multi-asset Forex/CFD broker expands its product suite beyond traditional market hours with no institutional USDT payment processor identified for its client funding stack",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "STARTRADER is a global multi-asset Forex/CFD broker serving retail and institutional partners via MetaTrader, a proprietary app, and STAR Copy (social trading) — an active product development cycle that places it in an open payment infrastructure evaluation window. The XAUUSD247 launch signals a tech-forward broker team willing to lead on round-the-clock product access; traders funding 24/7 gold positions at 2:00 AM on weekends expect USDT settlement without banking delays. No institutional crypto payment processor is identified for STARTRADER's client funding stack. STARTRADER's APAC and MENA distribution — markets where USDT is the dominant retail Forex deposit alternative to card friction — aligns directly with GWC's USDT/USDC multichain deposits and EUR SEPA/SWIFT fiat off-ramp as the institutional payment layer matching the 24/7 trading access STARTRADER now offers.",
+    "Suggested Action": "Research Head of Payments or VP of Product at STARTRADER — reference the XAUUSD247 MT5 launch (Aug 21) as the active product cycle entry point; propose GWC's USDT multichain deposits as the 24/7 institutional funding infrastructure matching the round-the-clock trading access of STARTRADER's new gold instrument for its APAC and MENA retail client base",
+    "Status": "",
+    "Source URL": "https://www.prnewswire.com/news-releases/startrader-launches-xauusd247-extending-gold-cfd-access-across-the-full-week-302857216.html"
+  },
+  {
+    "Date": "2026-08-22",
+    "Category": "Competitor Move",
+    "Company": "Fluid Payments",
+    "Headline": "Fluid — iGaming's AI-powered 'smart cashier' payment solution with 10+ operator brand clients — secures strategic investment from HappyHour.io in August 2026, accelerating its AI-driven deposit journey and real-time payment intelligence platform for iGaming operators",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Fluid is a direct competitor in iGaming payment infrastructure — positioning as the 'first smart cashier built specifically for the iGaming industry' with AI-driven personalised deposit journeys, having reached €1M ARR and profitability within 14 months of seed round. HappyHour.io's strategic investment signals growing market confidence in Fluid's approach and accelerating its operator footprint in the same iGaming client segment GWC targets. GWC's differentiators are clear: institutional USDT/USDC multichain depth (300+ assets), zero-chargeback guarantee, EUR SEPA/SWIFT fiat off-ramp, and dedicated operator Backoffice compliance tooling — features Fluid's conversion-UX layer does not lead on. However, Fluid's growing list of 10+ operator brand relationships creates potential displacement risk if they expand from cashier UX into deeper settlement infrastructure. Monitor Fluid's operator client announcements as warm GWC outreach targets.",
+    "Suggested Action": "Note competitive context — update GWC pitch to contrast institutional USDT multichain settlement, zero-chargeback guarantee, and EUR SEPA/SWIFT fiat off-ramp vs Fluid's AI cashier and deposit conversion optimisation layer; monitor Fluid's operator client announcements as warm outreach targets for GWC's institutional settlement pitch alongside or in replacement of Fluid's cashier UX",
+    "Status": "",
+    "Source URL": "https://igamingbusiness.com/company-news/fluid-secures-strategic-investment-round/"
+  },
+  {
+    "Date": "2026-08-22",
+    "Category": "Lead Signal",
+    "Company": "Dexsport",
+    "Headline": "Dexsport (decentralised sports betting platform) adds Monero (XMR) support, Binance Pay integration, and esports event activations in August 2026 — now covering 85+ cryptocurrencies across 25+ blockchain networks, the broadest on-chain asset coverage in decentralised sports betting",
+    "Lead Potential": "LOW",
+    "Why It Matters": "Dexsport is a crypto-native decentralised sports betting platform with industry-leading on-chain asset coverage (85+ cryptocurrencies, 25+ chains), but its decentralised architecture creates the same fiat treasury gap as other crypto-first operators: as Dexsport scales toward regulated European markets requiring EUR payout channels, GWC's EUR SEPA/SWIFT fiat off-ramp is the institutional treasury bridge that complements their on-chain deposit stack. The XMR and Binance Pay additions signal active product investment and openness to new payment method integrations — and Binance Pay in particular signals a payment strategy that's already B2B-oriented.",
+    "Suggested Action": "Monitor — track Dexsport's regulated market expansion plans; if they seek European gaming licences requiring fiat payout infrastructure, approach for GWC's EUR SEPA/SWIFT fiat off-ramp and institutional B2B settlement rails as the regulated treasury layer for their crypto-native player base",
+    "Status": "",
+    "Source URL": "https://coinpedia.org/press-release/dexsport-august-update-xmr-binance-pay-and-esports-activations/"
+  }
+]
