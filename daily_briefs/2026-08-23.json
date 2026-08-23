@@ -1,0 +1,57 @@
+[
+  {
+    "Date": "2026-07-06",
+    "Category": "Lead Signal",
+    "Company": "BetCris",
+    "Headline": "BetCris, one of LatAm's largest sportsbook operators, launches ChatBet-powered conversational sportsbook in Latin America — enabling players to discover markets, build bet slips, and complete entire betting journeys through WhatsApp and Telegram without a traditional sportsbook app — announced July 6, 2026",
+    "Lead Potential": "HIGH",
+    "Why It Matters": "BetCris is a major established LatAm B2C sportsbook operator now building a WhatsApp-native betting channel — the primary commerce interface in markets where USDT deposits are the dominant alternative to card processing friction. A WhatsApp-first betting flow requires payment infrastructure that works seamlessly in high-friction, crypto-native LatAm markets; no institutional crypto payment processor is named in the ChatBet partnership announcement. GWC's USDT/USDC multichain rails and EUR SEPA/SWIFT fiat off-ramp are the institutional crypto deposit layer that BetCris needs to complete the payment leg of its WhatsApp betting stack — matching the casual, mobile-first Latin American player expecting frictionless USDT deposits without navigating a card decline in a betting chat window.",
+    "Suggested Action": "Research Head of Payments or CPO at BetCris — reference the July 6 ChatBet WhatsApp sportsbook launch as the payment infrastructure evaluation trigger; propose GWC's USDT/USDC multichain rails as the institutional crypto deposit layer for BetCris' LatAm player base accessing betting through WhatsApp chat flows; frame zero chargebacks as the critical guarantee for a payment model tied to conversational commerce where dispute rates on card payments are highest",
+    "Status": "",
+    "Source URL": "https://sbcnews.co.uk/features/2026/07/06/betcris-conversational-sportsbook/"
+  },
+  {
+    "Date": "2026-07-28",
+    "Category": "Partnership Intel",
+    "Company": "ChatBet (iSolutions Africa)",
+    "Headline": "ChatBet partners with B2B iGaming platform iSolutions to deploy AI-powered conversational betting across iSolutions-powered operator platforms in Africa — enabling operators to offer WhatsApp, Telegram, and chat widget-based sportsbook experiences to players across the continent — announced July 28, 2026",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "iSolutions is a B2B iGaming platform serving African operator clients; the ChatBet integration now deploys WhatsApp betting across iSolutions' entire operator roster. African operators building mobile-first betting experiences serve players in East and West African markets where USDT and mobile money are the dominant payment alternatives to card friction. No crypto payment processor is identified in the iSolutions platform stack. Embedding GWC's USDT/USDC multichain payment API into the iSolutions platform would distribute institutional crypto deposit capability across all iSolutions-powered operators via one B2B integration — the same platform-multiplier dynamic as the BetConstruct and Match-Trade partnerships tracked in this sheet — reaching African operators who are building mobile-first, crypto-adjacent payment experiences alongside their new WhatsApp betting layer.",
+    "Suggested Action": "Research BD or Integrations lead at iSolutions — reference the July 28 ChatBet WhatsApp partnership as the signal that iSolutions is actively modernising its operator platform for mobile-first, emerging-market players; propose GWC's USDT/USDC multichain payment API as the institutional crypto deposit complement to the iSolutions platform for operators targeting Africa's high-USDT player base; position the partnership as a multiplier across iSolutions' full African operator network rather than a single-operator deal",
+    "Status": "",
+    "Source URL": "https://igamingbusiness.com/tech-innovation/chatbet-isolutions-conversational-betting-africa/"
+  },
+  {
+    "Date": "2026-08-05",
+    "Category": "Competitor Move",
+    "Company": "LMAX Omnia (Monavate)",
+    "Headline": "LMAX Group's Omnia digital asset trading platform partners with Monavate to build institutional-grade digital asset payment and settlement infrastructure — announced August 5, 2026, targeting Forex and institutional trading clients needing stablecoin payment rails alongside digital asset trading",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "LMAX Group's Omnia product is constructing an institutional digital asset payment and settlement stack that directly competes with GWC in the Forex/FX broker vertical. Monavate provides the regulated payment infrastructure; Omnia supplies the institutional digital asset trading layer — together forming a combined trading-plus-settlement product for brokers and institutional operators. This is distinct from LMAX Kiosk (already tracked) and the LMAX Group $5B IPO (tracked in 08-16). GWC should monitor which Forex broker clients the Omnia/Monavate stack is approaching and lead with differentiators: zero-chargeback guarantee, 300+ asset multichain support, iGaming-specific compliance Backoffice, and EUR SEPA/SWIFT fiat off-ramp depth that a trading platform's embedded payment layer typically lacks.",
+    "Suggested Action": "Use LMAX Omnia + Monavate as a competitive intelligence signal — identify Forex brokers and institutional operators evaluating the Omnia settlement product; differentiate GWC on iGaming-specific zero-chargeback guarantee, 300+ asset multichain breadth, dedicated operator Backoffice for compliance and treasury, and EUR SEPA/SWIFT fiat off-ramp; prioritise outreach to brokers in the Omnia pipeline before settlement contracts are signed",
+    "Status": "",
+    "Source URL": "https://fxnewsgroup.com/forex-news/cryptocurrency/lmaxs-omnia-partners-with-monavate-on-digital-asset-payment-and-settlement/"
+  },
+  {
+    "Date": "2026-08-11",
+    "Category": "Lead Signal",
+    "Company": "FundingPips",
+    "Headline": "FundingPips signals 'the next evolution of prop trading' with PRIME rewards expansion (up to $20K/month additional payouts), Flex evaluation launches (1-Step and 2-Step, 12% static drawdown, up to $400K allocation), and local payment infrastructure build-out for its global funded trader base — announced August 11, 2026",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "FundingPips is a major prop trading firm actively building local payment infrastructure to reach funded traders in high-USDT markets — MENA, SE Asia, and LatAm — where card-based challenge fee payments consistently decline at checkout. The explicit 'local payments' expansion in the August 11 announcement signals FundingPips is in active payment infrastructure evaluation, building out new deposit channels for a global trader base that already skews toward USDT as the preferred borderless funding method for prop trading challenges. GWC's USDT/USDC multichain rails and EUR SEPA/SWIFT fiat off-ramp are the institutional crypto payment complement to FundingPips' local payment build — eliminating the cross-border card friction that loses challenge fee conversions in MENA and Asian markets. FundingPips is also confirmed as a Forex Expo Dubai September 2026 sponsor, creating a warm in-person meeting opportunity.",
+    "Suggested Action": "Research Head of Payments or CPO at FundingPips — reference the August 11 PRIME evolution and local payments expansion as the payment infrastructure evaluation trigger; frame GWC's USDT multichain rails as the institutional crypto deposit layer for FundingPips' global trader challenge-fee flow in MENA and Asian markets where local card alternatives remain constrained; flag Forex Expo Dubai September 2026 as an in-person meeting window given FundingPips' confirmed sponsor presence",
+    "Status": "",
+    "Source URL": "https://www.dailyforex.com/press-release/2026/08/fundingpips-press-release-11-august-2026/248574"
+  },
+  {
+    "Date": "2026-08-15",
+    "Category": "Lead Signal",
+    "Company": "Instant Funding",
+    "Headline": "Prop trading firm Instant Funding debuts dedicated crypto trading accounts (IF Micro Crypto and One-Phase Crypto, 30+ crypto instruments) after earlier launching its own CFD brokerage in 2026 — becoming a dual-product operator combining a prop trading challenge model with a live CFD brokerage and now a crypto trading platform",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Instant Funding is now a three-product operator: prop trading challenges, CFD brokerage, and a dedicated crypto trading platform — creating three distinct payment flow layers all requiring institutional-grade USDT/USDC processing. Prop trading challenge fees from traders in MENA, SE Asia, and LatAm are dominated by USDT deposits where card-based payment alternatives fail at checkout; crypto trading account funding on the new platform requires stablecoin deposit rails for clients who prefer borderless USDT onboarding over card processing friction; and CFD brokerage client funding needs the same EUR SEPA/SWIFT fiat off-ramp for institutional settlement. No institutional B2B crypto payment processor is named in the Instant Funding crypto platform launch. GWC's single integration covers all three deposit flows under one API contract.",
+    "Suggested Action": "Research Head of Payments or Operations at Instant Funding — reference the August 2026 crypto platform launch as the institutional payment infrastructure evaluation window for a three-product operator; propose GWC's USDT/USDC multichain rails as the unified crypto deposit layer across prop trading challenge fees, CFD brokerage client deposits, and crypto trading account funding; emphasize zero-chargeback guarantee as the risk-management fit for a prop firm monitoring both challenge-fee fraud and funded trader payout flows simultaneously",
+    "Status": "",
+    "Source URL": "https://www.financemagnates.com/forex/prop-firm-instant-funding-debuts-dedicated-crypto-accounts-after-launching-cfd-brokerage/"
+  }
+]
