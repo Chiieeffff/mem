@@ -1,0 +1,57 @@
+[
+  {
+    "Date": "2026-08-24",
+    "Category": "Lead Signal",
+    "Company": "London Capital Group (LCG)",
+    "Headline": "Dave Worsfold and Matt Basi complete acquisition of London Capital Group — an FCA-regulated UK CFD and spread-betting broker — out of FlowBank's bankruptcy estate, announced August 19-23, 2026, installing new ownership that triggers a full payment infrastructure review across LCG's UK client base",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "LCG is an FCA-regulated UK retail CFD and spread-betting broker now under new independent ownership after its parent FlowBank entered Swiss bankruptcy; change-of-control events of this type consistently trigger payment stack rationalisation as new owners evaluate every infrastructure contract for cost, compliance fit, and scalability. LCG's UK retail trader base includes MENA and Asian clients who use USDT for borderless broker deposits — the same segment where GWC's USDT multichain rails eliminate card-processing friction. No institutional crypto deposit processor is identified for LCG's revived operations under Worsfold/Basi ownership.",
+    "Suggested Action": "Monitor — research Head of Payments or COO at London Capital Group under new ownership; reference the change-of-control event as the natural payment infrastructure evaluation window; propose GWC's USDT multichain rails as the institutional crypto deposit layer for LCG's retail FX client base",
+    "Status": "",
+    "Source URL": "https://www.financemagnates.com/forex/matt-basi-and-dave-worsfold-become-owners-of-london-capital-group/"
+  },
+  {
+    "Date": "2026-08-24",
+    "Category": "Partnership Intel",
+    "Company": "Spotware / Intivion (AltimaCRM)",
+    "Headline": "Spotware (cTrader platform, 300+ brokers, 11M+ traders) partners with Intivion (AltimaCRM) to deliver an all-in-one CRM, trading infrastructure, and cBridge liquidity package to Forex brokers — announced August 19-22, 2026, bundling CRM and trading layers without an institutional crypto payment module",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Spotware's cTrader platform powers 300+ brokers serving 11M+ traders and is actively expanding its B2B integration ecosystem with the AltimaCRM partnership — creating an opportunity to embed GWC's USDT payment API into the cTrader/AltimaCRM bundle as the institutional crypto deposit layer. No crypto payment processor is named in the Spotware-Intivion package. A GWC payment API integration at the cTrader platform level would distribute USDT deposit capability to 300+ Forex broker clients via one B2B agreement — the same multiplier dynamic as Match-Trade and PrimeXM already in GWC's pipeline.",
+    "Suggested Action": "Research BD or Integrations lead at Spotware — reference the Intivion/AltimaCRM partnership as the signal of active B2B ecosystem expansion; propose GWC's USDT multichain payment API as the institutional crypto deposit module for the cTrader+AltimaCRM bundle serving 300+ brokers",
+    "Status": "",
+    "Source URL": "https://www.financemagnates.com/forex/spotware-partners-with-intivion-on-ctrader-crm-and-cbridge-package/"
+  },
+  {
+    "Date": "2026-08-24",
+    "Category": "Partnership Intel",
+    "Company": "Novusbet",
+    "Headline": "Zitro Digital partners with Novusbet — a B2B iGaming aggregator (part of the Softquo group alongside Goldenrace, Spinmatic, and Xpress.tech) active in LatAm, Africa, and Eastern Europe — to expand its global iGaming reach, announced August 18, 2026, signalling active operator network growth in GWC's priority geographies",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Novusbet is a Cyprus-based B2B iGaming aggregator serving operator clients across LatAm, Africa, and Eastern Europe — three of GWC's priority geographies for USDT adoption — and its parent Softquo group operates complementary B2B iGaming platforms (Goldenrace, Spinmatic). The Zitro Digital content partnership confirms an actively expanding operator network in markets where card processing friction is highest and stablecoin deposit demand is structurally elevated. No institutional USDT/USDC payment API is identified across the Novusbet/Softquo platform stack. A GWC integration at the Novusbet platform level would distribute institutional crypto deposit capability across all Novusbet-powered operator clients in LatAm, Africa, and Eastern Europe via one B2B agreement.",
+    "Suggested Action": "Research BD or Integrations lead at Novusbet / Softquo group — reference the August 18 Zitro Digital content partnership as the signal of active operator network expansion in LatAm, Africa, and Eastern Europe; propose GWC's USDT multichain payment API as the institutional crypto deposit module for Novusbet's B2B operator client network where stablecoin deposit demand is highest",
+    "Status": "",
+    "Source URL": "https://europeangaming.eu/portal/press-releases/2026/08/18/212855/zitro-digital-novusbet-content-deal/"
+  },
+  {
+    "Date": "2026-08-24",
+    "Category": "Market Trend",
+    "Company": "Circle / Coinbase",
+    "Headline": "Circle and Coinbase renew their USDC distribution partnership for three years — effective August 18, 2026, with Circle paying Coinbase $908M (up from $640M the prior year) to maintain the established USDC distribution economics through 2029 — locking the institutional stablecoin infrastructure layer for payment operators evaluating USDC rails",
+    "Lead Potential": "LOW",
+    "Why It Matters": "The Circle-Coinbase USDC renewal through 2029 confirms the institutional stability of USDC as a payment rail for iGaming and Forex operators: Circle's willingness to pay $908M to lock in USDC-on-Coinbase distribution signals that USDC volume and institutional demand are growing, not stagnating. Operators evaluating stablecoin payment rails in 2026 can now model USDC infrastructure costs with a 3-year pricing certainty horizon — removing a key uncertainty that previously complicated USDC adoption alongside USDT. Use this as a supporting signal in GWC outreach: institutional stablecoin infrastructure is validated through 2029, and GWC's USDT/USDC multichain support positions operators to benefit from both dominant stablecoins without hedging on rail uncertainty.",
+    "Suggested Action": "Consider referencing Circle-Coinbase USDC renewal in outreach for operators evaluating stablecoin rails — frame the 3-year locked economics as proof that USDC infrastructure is institutionally validated through 2029 and position GWC's USDT/USDC multichain support as the dual-stablecoin deposit solution that benefits from this stability",
+    "Status": "",
+    "Source URL": "https://cryptobriefing.com/circle-pays-coinbase-908m-usdc-distribution/"
+  },
+  {
+    "Date": "2026-08-24",
+    "Category": "Partnership Intel",
+    "Company": "Mrkts.com (Deep Ether Labs)",
+    "Headline": "Deep Ether Labs launches Mrkts.com — a B2B prediction markets infrastructure platform based in Malta — on August 14, 2026, offering white-label operator access to exchange connectivity, settlement, market data, compliance, and payment infrastructure via a single integration across sports, politics, finance, crypto, and entertainment markets",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Mrkts.com is a newly launched B2B prediction markets platform serving operators entering prediction markets — a sector where the operator client base is actively evaluating and constructing payment infrastructure from scratch. Mrkts.com's payment module covers exchange settlement and compliance, but an early-stage platform's embedded payment layer rarely includes the institutional USDT/USDC multichain depth, zero-chargeback guarantee, and EUR SEPA/SWIFT fiat off-ramp that licensed iGaming and Forex operators require as they scale. A GWC payment API integration alongside Mrkts.com's platform would give prediction market operators the institutional crypto settlement layer that the platform's native payment module does not lead on.",
+    "Suggested Action": "Research BD or CTO at Mrkts.com / Deep Ether Labs — reference the August 14 launch as an early-stage window to establish a payment infrastructure partnership before Mrkts.com's operator clients lock in alternative payment vendors; propose GWC's USDT multichain payment API as the institutional crypto deposit and settlement complement to Mrkts.com's prediction markets platform for operators across sports, crypto, and finance event markets",
+    "Status": "",
+    "Source URL": "https://europeangaming.eu/portal/press-releases/2026/08/14/212685/mrkts-com-prediction-markets-platform-high-roller/"
+  }
+]
