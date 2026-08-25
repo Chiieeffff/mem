@@ -1,0 +1,57 @@
+[
+  {
+    "Date": "2026-08-25",
+    "Category": "Lead Signal",
+    "Company": "A2FBR (Pinnacle / Matchbook Brazil group)",
+    "Headline": "OKTO PAYMENTS goes live with A2FBR — the 2-federal-licence Brazil operator group behind Pinnacle, Matchbook, BetEspecial, Bolsa de Aposta, Fulltbet, and BetBra — processing PIX deposits across all six brands simultaneously in August 2026, with no institutional USDT/crypto deposit processor identified across any brand",
+    "Lead Potential": "HIGH",
+    "Why It Matters": "A2FBR is the licensed holding entity operating six betting brands in Brazil under two federal SPA authorisation-class licences — including Pinnacle and Matchbook, two internationally recognised sharp/crypto-friendly sportsbook brands that carry a player base expecting USDT as a deposit option. OKTO's PIX integration covers Brazilian fiat players, but Brazil's card-processing restrictions on gambling drive structural USDT demand among the crypto-native bettor segment, particularly for Pinnacle's internationally sourced sharp-value player base. With six brands running simultaneously under A2FBR's infrastructure, a single GWC institutional USDT rail integration would serve the entire group's crypto deposit need and EUR SEPA/SWIFT treasury off-ramp in one B2B deal.",
+    "Suggested Action": "Run linkedin_outreach workflow for A2FBR — target CFO or Head of Payments; reference the August 2026 OKTO/PIX launch as the active payment stack build trigger; propose GWC's institutional USDT multichain rails as the crypto deposit complement to OKTO's PIX layer for A2FBR's six-brand Brazilian operation",
+    "Status": "",
+    "Source URL": "https://igamingbusiness.com/company-news/okto-payments-goes-live-with-a2fbr-powering-pix-across-six-betting-brands-in-brazil/"
+  },
+  {
+    "Date": "2026-08-25",
+    "Category": "Lead Signal",
+    "Company": "Silkbet",
+    "Headline": "Silkbet launches in the UK on August 24, 2026 — a newly licensed operator (May 2026 UKGC licence) deploying Digitain's full turnkey sportsbook, casino, CRM, and payments platform — entering the UK market at the optimal payment vendor evaluation window with no institutional USDT/crypto deposit processor identified",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Silkbet is a brand-new UK challenger operator now live on Digitain's turnkey stack, which bundles standard card and e-wallet payment methods but lacks institutional USDT/USDC multichain depth and the zero-chargeback guarantee GWC offers. As a new-to-market operator, Silkbet's payment stack is open before any processor has established an exclusive relationship — the optimal window for a GWC institutional crypto deposit conversation. UK Remote Gaming Duty at 40% makes payment cost-efficiency critical from day one, and GWC's zero-chargeback USDT rails directly reduce fraud overhead on a platform yet to finalise its full payment suite.",
+    "Suggested Action": "Research CEO or Head of Payments at Silkbet — reference the August 24 UK launch on Digitain as the active payment stack construction window; propose GWC's institutional USDT multichain rails as the crypto deposit layer before any legacy processor establishes exclusivity",
+    "Status": "",
+    "Source URL": "https://igamingbusiness.com/company-news/digitain-extends-uk-market-reach-with-silkbet-partnership/"
+  },
+  {
+    "Date": "2026-08-25",
+    "Category": "Lead Signal",
+    "Company": "Super Group / Betway (Namibia)",
+    "Headline": "Super Group confirms Q4 2026 Betway launch in Namibia in Q2 2026 earnings — licences secured, product certification underway — as Africa revenue reaches US$310M (+36% YoY) and sportsbook revenue hits US$108M (+50%), creating a fresh payment stack decision point for a new regulated Africa market entry",
+    "Lead Potential": "HIGH",
+    "Why It Matters": "Super Group is one of Africa's largest B2C sportsbook operators, now entering Namibia in Q4 2026 with a payment stack yet to be finalised for the new entity. While Super Group built ZAR Supercoin (Solana-based, ABSA-custodied) for its South Africa operations, a Namibian entity operates under NAD currency and a distinct regulatory framework — GWC's institutional USDT multichain rails and EUR SEPA/SWIFT fiat off-ramp address the cross-border settlement gap that Supercoin's ZAR-denominated architecture does not cover for Namibian operations or for international players funding Betway Namibia accounts in USDT.",
+    "Suggested Action": "Run linkedin_outreach workflow for Super Group / Betway — target VP of Africa Payments or Head of Product for Namibia; reference Q4 Namibia launch confirmed in Q2 earnings as the open payment stack decision window; propose GWC's institutional USDT multichain rails as the cross-border and non-ZAR settlement complement to Supercoin for Betway's Namibia entity",
+    "Status": "",
+    "Source URL": "https://igamingbusiness.com/strategy/super-group-africa-growth-story-continues-namibia-next-target/"
+  },
+  {
+    "Date": "2026-08-25",
+    "Category": "Partnership Intel",
+    "Company": "GR8_TECH",
+    "Headline": "GR8_TECH — a B2B iGaming technology provider supplying sportsbook and casino platforms to operators across multiple regulated markets — launches Managed Trading Services (MTS) for sportsbook operators on August 13, 2026, signalling an active platform expansion cycle and new operator client acquisition window",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "GR8_TECH's MTS launch expands its B2B sportsbook platform offering and signals an active operator acquisition phase — each new sportsbook operator signing to GR8_TECH represents a potential GWC payment integration target. No institutional USDT/USDC multichain payment API is identified as a native module in GR8_TECH's platform stack. A GWC payment API integration at the GR8_TECH platform level would distribute institutional crypto deposit capability across GR8_TECH's operator client network through one B2B agreement — the same multiplier dynamic as EveryMatrix, Match-Trade, and QTech already in GWC's pipeline.",
+    "Suggested Action": "Research Head of Partnerships or CTO at GR8_TECH — reference the August 13 MTS launch as the active platform expansion trigger; propose GWC's institutional USDT payment API as the crypto deposit module for GR8_TECH's B2B sportsbook operator clients in markets where stablecoin demand is highest",
+    "Status": "",
+    "Source URL": "https://sbcnews.co.uk/latestnews/2026/08/13/gr8-tech-mts-launch/"
+  },
+  {
+    "Date": "2026-08-25",
+    "Category": "Market Trend",
+    "Company": "Prop Firm Sector (Finance Magnates)",
+    "Headline": "Prop firm crypto payouts across the top 10 firms reached $115.1M in Q1 2026 — doubled YoY from $55M — but aggregate growth has stalled since December 2025, with the plateau driven by smaller firms losing share to those running institutional-grade payment infrastructure",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "The $115M Q1 2026 prop firm crypto payout figure — double the Q1 2025 level — combined with a growth stall since December signals a sector at a payment infrastructure ceiling rather than peak adoption. Firms like FundedNext CFDs (+293%) and MyFundedFutures (+161%) still show explosive growth precisely because they operate institutional-grade payment rails; smaller firms relying on fragmented retail crypto payout tools are stagnating. GWC's institutional USDT/USDC multichain processing, dedicated operator Backoffice, and EUR SEPA/SWIFT fiat off-ramp are the payment infrastructure layer that scales payout volumes without the capacity and compliance ceiling that stalls retail crypto solutions.",
+    "Suggested Action": "Reference the $115M Q1 2026 prop firm crypto payout data and growth stall as urgency context in outreach to existing prop firm pipeline targets (FundingPips, Instant Funding, MyFundedFutures) — frame GWC's institutional USDT rails as the infrastructure upgrade that separates growing firms from stagnating ones at scale",
+    "Status": "",
+    "Source URL": "https://www.financemagnates.com/forex/analysis/prop-firm-crypto-payouts-doubled-to-115-million-in-q1-2026-but-growth-has-stalled-since-december/"
+  }
+]
