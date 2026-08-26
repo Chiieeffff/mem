@@ -1,0 +1,57 @@
+[
+  {
+    "Date": "2026-08-26",
+    "Category": "Lead Signal",
+    "Company": "XTB",
+    "Headline": "XTB secures BAPPEBTI CFD approval in Indonesia and launches commodity CFDs (gold, silver, palladium, oil, natural gas) via its Eagle Capital Futures subsidiary — August 20-21, 2026 — expanding its Indonesian operation beyond stocks and ETFs into derivatives for the first time, with no institutional USDT crypto payment processor identified for its Indonesian client funding stack",
+    "Lead Potential": "HIGH",
+    "Why It Matters": "XTB is a major publicly-listed European Forex/CFD broker (Warsaw Stock Exchange: XTB) that entered Indonesia through the acquisition of Eagle Capital Futures in January 2024 and now holds a fresh BAPPEBTI CFD authorisation allowing commodity derivatives across its Indonesian client base. Indonesia is one of Southeast Asia's largest retail Forex markets and has the region's highest USDT adoption rate for broker deposit funding — Indonesian retail traders systematically use USDT to bypass local bank restrictions on international wire transfers to foreign Forex brokers. XTB's new CFD product launch is the trigger that drives a payment stack review for its Indonesian entity: new derivatives clients require faster, 24/7 deposit infrastructure beyond the ETF and stock-funding rails that served XTB Indonesia's prior-model clients. No institutional USDT/USDC crypto payment processor is named for XTB Indonesia. GWC's USDT multichain rails and EUR SEPA/SWIFT fiat off-ramp are the institutional payment infrastructure that matches both XTB Indonesia's 24/7 CFD access ambition and the USDT-first deposit behaviour of Indonesian retail Forex traders.",
+    "Suggested Action": "Run linkedin_outreach workflow for XTB — target Head of Payments or VP of Product for Asia-Pacific; reference the August 20-21 BAPPEBTI CFD approval and Indonesian market expansion as the active payment stack evaluation window; propose GWC's USDT multichain rails as the institutional crypto deposit layer for XTB Indonesia's CFD client base where local bank restrictions drive structural USDT deposit demand",
+    "Status": "",
+    "Source URL": "https://www.financemagnates.com/forex/xtb-secures-indonesian-cfd-approval-plans-launch-within-weeks/"
+  },
+  {
+    "Date": "2026-08-26",
+    "Category": "Partnership Intel",
+    "Company": "Betable",
+    "Headline": "Betable — a B2B iGaming platform provider supporting casino, sportsbook, bingo and other verticals — selects Delasport to power its global sportsbook proposition, with the integration already live across eight operator brands simultaneously as of August 24-25, 2026, with no institutional crypto payment processor identified in Betable's platform stack",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Betable is a modern B2B iGaming platform built for operators launching and scaling across regulated international markets, with a turnkey casino-first architecture, cloud-based infrastructure, unified PAM, and multi-jurisdiction compliance tooling — the same platform profile as EveryMatrix and GR8_TECH already in GWC's partnership pipeline. The Delasport integration is already live across eight operator brands, confirming Betable's operator network is actively scaling in real time. No institutional USDT/USDC multichain payment API is identified as a native module in Betable's platform stack. A GWC payment API integration at the Betable platform level would distribute institutional crypto deposit capability and EUR SEPA/SWIFT treasury settlement across all Betable-powered operator brands through one B2B agreement — the same platform-multiplier dynamic that makes B2B platform partnerships GWC's highest-leverage outreach category.",
+    "Suggested Action": "Research BD or Integrations lead at Betable — reference the August 24-25 Delasport sportsbook go-live across eight operator brands as evidence of an actively scaling operator network; propose GWC's USDT multichain payment API as the institutional crypto deposit module for Betable's B2B platform in markets where stablecoin deposit demand is highest (LatAm, Africa, Eastern Europe, SE Asia)",
+    "Status": "",
+    "Source URL": "https://www.globenewswire.com/news-release/2026/08/24/3349527/0/en/betable-selects-delasport-to-power-its-global-sportsbook-proposition.html"
+  },
+  {
+    "Date": "2026-08-26",
+    "Category": "Partnership Intel",
+    "Company": "Leverate",
+    "Headline": "Leverate — a B2B white-label trading platform provider serving hundreds of Forex/CFD brokers globally — launches xChart (next-gen broker-controlled charting with unified desktop/mobile order management) on August 25, 2026, following its earlier white-label Prediction Markets platform launch, signalling an active multi-vertical product expansion cycle across Forex and iGaming-adjacent broker markets with no institutional USDT payment API identified in its broker platform stack",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Leverate powers white-label trading infrastructure for hundreds of Forex and CFD brokers across MENA, Eastern Europe, and Asia — markets where USDT is the dominant retail broker deposit method and card-based payment alternatives consistently fail at checkout. The xChart launch (August 25) and Prediction Markets white-label platform together signal a Leverate product cycle in active expansion mode: more broker clients onboarding and new verticals bridging Forex with iGaming-adjacent products. No institutional USDT/USDC payment API is identified in Leverate's white-label platform stack. A GWC payment API integration at the Leverate platform level would distribute institutional crypto deposit capability and EUR SEPA/SWIFT fiat off-ramp across every broker running Leverate's infrastructure via one B2B agreement — the same platform-multiplier model as Match-Trade and Brokeree Solutions already in GWC's pipeline. Leverate's Prediction Markets expansion creates a natural iGaming bridge, making GWC's dual iGaming + Forex payment credentials directly relevant to a Leverate partnership conversation.",
+    "Suggested Action": "Research BD or Integrations lead at Leverate — reference the August 25 xChart launch and Prediction Markets white-label as evidence of an active platform expansion cycle across Forex and iGaming-adjacent verticals; propose GWC's USDT multichain payment API as the institutional crypto deposit module for Leverate's broker client network where MENA and Asian traders use USDT as the primary Forex deposit alternative to card payment friction",
+    "Status": "",
+    "Source URL": "https://fxnewsgroup.com/forex-news/platforms/leverate-launches-xchart-next-gen-charting-with-broker-controlled-trading/"
+  },
+  {
+    "Date": "2026-08-26",
+    "Category": "Partnership Intel",
+    "Company": "Fintake (Helio)",
+    "Headline": "Fintake — a Cyprus-based Forex broker technology startup founded by ex-Pepperstone Head of Engineering Ahmad Said — makes its cloud-native MT5-alternative trading platform Helio available to early broker partners on August 19, 2026 at $2,950/month, combining trading server, admin console, web/mobile interfaces and direct liquidity routing in one package, with spot crypto and prediction markets in development and no institutional USDT payment processor yet embedded",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Fintake's Helio is a brand-new cloud-native trading platform entering the MT5-dominant Forex broker infrastructure market at the earliest stage of its broker client acquisition — the optimal window to embed GWC's USDT payment API as native infrastructure before B2BinPay, NOWPayments, or Unlimit establishes an exclusive payment relationship. Helio's roadmap explicitly includes spot crypto and prediction markets, confirming a crypto-native product direction; the founding team (ex-Pepperstone, EMEA Head of Engineering) has deep institutional understanding of crypto deposit demand in MENA and Asian Forex markets where USDT is the primary deposit method. Embedding GWC's institutional USDT/USDC payment rails into Helio's platform from the ground-up level means every Forex broker that adopts Helio as their MT5 alternative arrives with GWC payment infrastructure pre-integrated — a multiplier that scales with Helio's broker client acquisition without requiring per-broker outreach.",
+    "Suggested Action": "Research CEO Ahmad Said or BD lead at Fintake — reference Helio's August 19 broker availability and its spot-crypto + prediction markets development roadmap as the natural entry point for a payment infrastructure partnership; propose GWC's USDT multichain payment API as the native institutional crypto deposit module for Helio's MT5-alternative platform, embedded at the platform level for every broker Fintake onboards in MENA and Asian markets",
+    "Status": "",
+    "Source URL": "https://www.financemagnates.com/forex/helio-puts-its-mt5-alternative-in-brokers-hands-at-2950-a-month/"
+  },
+  {
+    "Date": "2026-08-26",
+    "Category": "Lead Signal",
+    "Company": "Hydra Funding",
+    "Headline": "Hydra Funding — a prop trading firm — launches combined Forex and digital asset trading accounts in August 2026, claiming to be the first prop firm to offer a single account covering both FX and digital asset trading, creating a new payment infrastructure requirement for challenge-fee funding and digital asset account deposits across its global trader base",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Hydra Funding is creating a combined FX + digital asset prop trading product — a new account type that requires payment infrastructure covering both traditional Forex challenge-fee deposits (where USDT is the dominant method for traders in MENA, SE Asia, and LatAm) and digital asset account funding (where institutional-grade USDT/USDC multichain rails are required for credibility with crypto-native traders). As a prop firm launching a new combined product, Hydra Funding is in active payment infrastructure evaluation with no institutional B2B crypto payment processor identified for its global trader base. GWC's USDT/USDC multichain rails cover both challenge-fee deposits from MENA/Asian traders and digital asset account funding in one institutional B2B contract — eliminating the need for Hydra to maintain separate retail crypto payment integrations for each product line.",
+    "Suggested Action": "Research Head of Payments or Operations at Hydra Funding — reference the August 2026 FX + digital asset combined account launch as the active payment stack construction window; propose GWC's USDT multichain rails as the unified institutional crypto deposit layer covering challenge-fee funding and digital asset account deposits in one B2B integration, with zero-chargeback guarantee as the fraud-management fit for a prop firm monitoring challenge-fee integrity across both product lines",
+    "Status": "",
+    "Source URL": "https://www.financemagnates.com/forex/this-prop-firm-expands-into-crypto-offering-forex-and-digital-asset-accounts/"
+  }
+]
