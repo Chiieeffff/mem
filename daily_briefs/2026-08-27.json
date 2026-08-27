@@ -1,0 +1,35 @@
+[
+  {
+    "Date": "2026-08-27",
+    "Category": "Lead Signal",
+    "Company": "GiG Software",
+    "Headline": "GiG Software acquires 80% of 888Africa from Evoke for €16.4M — entering B2C African markets (Mozambique, Kenya, Zambia, Angola, Tanzania) and triggering an institutional payment infrastructure build for a USDT-heavy cross-border operator footprint",
+    "Lead Potential": "HIGH",
+    "Why It Matters": "GiG Software is a major B2B iGaming platform provider (serving Betsson, L7, and regulated-market operators across Europe, LatAm, and North America via its CoreX platform) that is re-entering B2C markets through 888Africa. The acquisition spans five African markets — Mozambique, Kenya, Zambia, Angola, Tanzania — where cross-border USDT settlement is the dominant institutional payment solution for operators facing local banking restrictions. No named payment processor has been confirmed for 888Africa under GiG ownership; the acquisition creates an immediate infrastructure decision point for institutional USDT multichain rails and EUR SEPA/SWIFT fiat off-ramp for African market treasury settlement.",
+    "Suggested Action": "Run linkedin_outreach workflow for GiG Software — target CFO or VP of Product at GiG Software PLC; reference the August 26 888Africa acquisition (€16.4M for 80%) as the active payment infrastructure build trigger for five-market African operations; propose GWC's institutional USDT multichain rails and EUR SEPA/SWIFT off-ramp as the institutional settlement layer for GiG/888Africa's African footprint",
+    "Status": "",
+    "Source URL": "https://sbcnews.co.uk/africa/2026/08/26/gig-evoke-888africa/"
+  },
+  {
+    "Date": "2026-08-27",
+    "Category": "Lead Signal",
+    "Company": "LCKY Group",
+    "Headline": "LCKY Group — a 6-brand iGaming operator (LuckyCasino, HappyCasino, FlaxCasino, Vera&John, OneCasino, RoyalCasino) plus B2B studio Swintt — selects Flows orchestration platform to accelerate multi-brand innovation, signalling an active tech stack and payment infrastructure review cycle across its portfolio",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "LCKY Group's Flows orchestration adoption signals an active tech-stack consolidation and innovation cycle across six live casino and sportsbook brands — the same operational context in which operators evaluate payment processor upgrades. No institutional USDT/USDC crypto payment processor is identified across the LCKY Group brand portfolio. A GWC integration via one B2B agreement would distribute institutional USDT multichain deposit capability across the entire portfolio, with the zero-chargeback guarantee directly relevant to Vera&John and OneCasino's internationally recognised brands with crypto-native player expectations.",
+    "Suggested Action": "Research Head of Payments or VP of Product at LCKY Group — reference the Flows orchestration selection as evidence of an active tech stack innovation cycle across the 6-brand portfolio; propose GWC's institutional USDT multichain rails as the crypto payment upgrade that complements the Flows orchestration investment across all LCKY Group brands",
+    "Status": "",
+    "Source URL": "https://igamingbusiness.com/company-news/lcky-group-selects-flows-to-accelerate-innovation-across-its-multi-brand-portfolio/"
+  },
+  {
+    "Date": "2026-08-27",
+    "Category": "Lead Signal",
+    "Company": "SkyCity Entertainment Group",
+    "Headline": "SkyCity Entertainment Group rejects two unsolicited takeover bids — Oaktree at NZ$0.70/share and an unnamed party at NZ$0.75/share — choosing independence and entering a strategic review mode that triggers vendor stack rationalisation across its Adelaide Casino and New Zealand casino operations",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "SkyCity's double-bid rejection confirms the board is entering a strategic cost and vendor rationalisation cycle — the same context that drives payment processor reviews at land-based casino operators with growing online arms. SkyCity operates Adelaide Casino and multiple NZ venues with no institutional crypto payment processor identified for its online deposit stack. A rejected M&A bid followed by a stated independence strategy is a catalyst for operational efficiency reviews including payment infrastructure; GWC's zero-chargeback USDT rails and EUR SEPA/SWIFT fiat off-ramp address both the cost-efficiency narrative and crypto deposit demand from SkyCity's international player base.",
+    "Suggested Action": "Monitor — research CFO or Head of Payments at SkyCity Entertainment Group; reference the August 25 double-bid rejection as the trigger for strategic independence and cost rationalisation; propose GWC's institutional USDT rails as the payment efficiency upgrade for SkyCity's online operations across Australia and New Zealand",
+    "Status": "",
+    "Source URL": "https://asgam.com/2026/08/25/skycity-says-two-takeover-bids-recently-received-and-rejected-amid-reports-of-further-acquisition-interest/"
+  }
+]
