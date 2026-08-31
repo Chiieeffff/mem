@@ -1,0 +1,57 @@
+[
+  {
+    "Date": "2026-08-31",
+    "Category": "Market Trend",
+    "Company": "Revolut (EURR stablecoin)",
+    "Headline": "Revolut launches euro-pegged stablecoin EURR (via Stripe's Bridge) across Europe on August 26, 2026, simultaneously removing USDT access for 80M+ EU customers — forcing iGaming operators and Forex brokers to replace USDT deposit rails for EU-based players immediately",
+    "Lead Potential": "HIGH",
+    "Why It Matters": "Revolut's USDT removal for 80M+ EU customers severs a key deposit channel for iGaming operators and Forex brokers whose EU player/trader segment relied on Revolut-linked USDT transfers. Operators serving EU players from MENA or Eastern European diaspora communities — who funded accounts via USDT through Revolut — now face a sudden payment gap with no existing backup. GWC's institutional USDT multichain rails and EUR SEPA/SWIFT fiat off-ramp provide the compliant alternative: USDT deposits routed through GWC avoid Revolut entirely and settle directly into EUR for EU-licensed operators, filling the gap created by Revolut's stablecoin policy shift.",
+    "Suggested Action": "Reference Revolut's USDT ban in outreach to UK and EU-licensed iGaming operators and Forex brokers targeting MENA and Eastern European player segments — use it as proof of urgency for institutional USDT deposit infrastructure that bypasses consumer fintech payment restrictions; position GWC as the B2B USDT rail that remains stable regardless of Revolut's consumer policy changes",
+    "Status": "",
+    "Source URL": "https://www.coindesk.com/business/2026/08/26/euro-stablecoins-get-a-mainstream-push-as-revolut-begins-rolling-out-eurr-in-europe"
+  },
+  {
+    "Date": "2026-08-31",
+    "Category": "Lead Signal",
+    "Company": "888AFRICA",
+    "Headline": "GiG Software initiates €16.4M acquisition of 888AFRICA from evoke on August 26, 2026 — a B2C iGaming operator active in Kenya, Tanzania, Mozambique, Zambia, Malawi, and Angola — days after 888AFRICA deployed Axom Gaming CRM achieving 18% NGR uplift; acquisition triggers full payment infrastructure review across six African crypto-primary markets",
+    "Lead Potential": "HIGH",
+    "Why It Matters": "888AFRICA is a B2C sportsbook and casino operator across six African markets where USDT and mobile money are the dominant player deposit alternatives to card friction: Kenya, Tanzania, Mozambique, Zambia, Malawi, and Angola. The GiG Software acquisition (€16.4M, initiated Aug 26) signals a full technology stack integration and payment infrastructure consolidation — the highest-probability window for a new crypto payment processor agreement before GiG's existing B2B payment relationships are extended to 888AFRICA's African operations. The Aug 24 Axom Gaming CRM deployment (18% NGR uplift in three months) confirms 888AFRICA is actively investing in its operator tech stack right now. No institutional USDT B2B payment processor is identified for 888AFRICA's African market operations. GWC's institutional USDT multichain rails address the dominant player deposit method across all six of 888AFRICA's markets in one integration.",
+    "Suggested Action": "Run linkedin_outreach workflow for 888AFRICA and GiG Software — target CFO or Head of Payments at 888AFRICA and simultaneously contact GiG Software's integration/payments team; reference the August 26 GiG acquisition as the active payment infrastructure review window and 888AFRICA's six African markets (Kenya, Tanzania, Mozambique, Zambia, Malawi, Angola) as the primary use case for GWC's USDT multichain rails where USDT is the dominant player deposit method and card processing friction is highest",
+    "Status": "",
+    "Source URL": "https://alienwp.com/gig-to-acquire-888africa-in-e16-4-million-deal/"
+  },
+  {
+    "Date": "2026-08-31",
+    "Category": "Partnership Intel",
+    "Company": "Amusnet Gaming",
+    "Headline": "Amusnet Gaming — a B2B iGaming content provider with 250+ slot titles, 230+ operator clients, and presence in 20+ countries — receives Alberta iGaming conditional licence as Critical Gaming Systems Provider on August 27, 2026, entering Canada's most crypto-progressive regulated province",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Amusnet Gaming's Alberta conditional licence as a Critical Gaming Systems Provider places its 230+ operator clients and content distribution network inside Canada's most crypto-open regulated province — a market where USDT adoption among Alberta's tech-forward betting population is among North America's highest. Amusnet's B2B operator network spans regulated European and emerging markets where USDT deposit demand is structurally growing. A GWC partnership with Amusnet — positioning GWC as a recommended institutional USDT payment module for Amusnet's operator network — would reach its full 230+ operator client base through one B2B agreement, with the Alberta licence creating a natural market entry conversation point.",
+    "Suggested Action": "Research VP of Business Development or Head of Partnerships at Amusnet Gaming — reference the August 27 Alberta Critical Gaming Systems Provider conditional licence as the active regulatory build cycle trigger; propose GWC's institutional USDT/USDC multichain rails as the recommended crypto payment module for Amusnet's 230+ operator clients, distributed through one B2B partnership agreement across their full operator network",
+    "Status": "",
+    "Source URL": "https://www.canadiangamingbusiness.com/2026/08/27/amusnet-gaming-alberta/"
+  },
+  {
+    "Date": "2026-08-31",
+    "Category": "Partnership Intel",
+    "Company": "PWP.BET",
+    "Headline": "PWP.BET releases unified operator console combining casino, sportsbook, compliance, and multi-currency/digital-asset payment tools in one system on August 29, 2026, targeting LatAm and Southeast Asia operators with integrated crypto-native deposit infrastructure",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "PWP.BET is a B2B iGaming platform launching an integrated console that bundles casino, sportsbook, compliance management, and digital-asset payment processing for LatAm and SEA operators — markets where USDT is the dominant player deposit method. While PWP.BET includes multi-currency and digital asset payments in its console, the institutional-grade USDT multichain processing and zero-chargeback guarantee GWC provides as a standalone B2B rail goes deeper than a bundled payment module. Operators adopting PWP.BET's platform who want a specialist crypto processor — with dedicated operator Backoffice and EUR SEPA/SWIFT fiat off-ramp — are the target for a GWC co-integration discussion at the platform level.",
+    "Suggested Action": "Research CEO or Head of Partnerships at PWP.BET — reference the August 29 unified console launch and LatAm/SEA market focus as the partnership context; propose GWC's institutional USDT multichain rails as the specialist crypto deposit module for PWP.BET's operator network, positioned as the deeper institutional-grade payment layer that complements PWP.BET's bundled digital asset capability",
+    "Status": "",
+    "Source URL": "https://www.globenewswire.com/news-release/2026/08/29/3352940/0/en/pwp-bet-releases-unified-operator-console-combining-casino-sportsbook-and-compliance-tools-in-one-system.html"
+  },
+  {
+    "Date": "2026-08-31",
+    "Category": "Lead Signal",
+    "Company": "FOREX.com (StoneX)",
+    "Headline": "FOREX.com (StoneX subsidiary) launches Japan Stock CFDs with overnight trading and 24/7 gold CFD (XAU/USD 7-Day) on August 24, 2026 — a product expansion signaling active technology investment at one of the world's largest retail Forex and CFD brokers serving international traders across MENA, Asia, and LatAm",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "FOREX.com is the retail trading brand of StoneX Group (NYSE: SNEX), one of the world's largest financial services companies, serving millions of retail traders across MENA, Asia, LatAm, and Europe. The August 24 product expansion (Japan Stock CFDs, 24/7 gold CFD) signals active investment in client-facing infrastructure — the same cycle in which payment infrastructure decisions are made for international trader deposit channels. International retail traders at FOREX.com in MENA and Asian markets routinely prefer USDT deposits over card or bank wire to avoid cross-border friction; no institutional B2B USDT payment processor is identified for FOREX.com's retail deposit stack. GWC's USDT multichain rails and EUR SEPA/SWIFT fiat off-ramp would give FOREX.com's international client base a compliant stablecoin funding channel alongside the new product expansion.",
+    "Suggested Action": "Research Head of Payments or VP of Product at FOREX.com/StoneX — reference the August 24 Japan Stock CFD and 24/7 gold CFD product expansion as the active investment cycle trigger; propose GWC's institutional USDT multichain rails as the B2B crypto deposit layer for FOREX.com's international trader base in MENA and Asian markets where USDT is the dominant alternative to card processing friction",
+    "Status": "",
+    "Source URL": "https://www.globenewswire.com/news-release/2026/08/24/3349500/11961/en/forex-com-launches-the-first-overnight-japan-stock-cfds-and-japan-stock-cfd-knock-out-options-service.html"
+  }
+]
