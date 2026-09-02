@@ -1,0 +1,57 @@
+[
+  {
+    "Date": "2026-09-02",
+    "Category": "Lead Signal",
+    "Company": "FTMO",
+    "Headline": "FTMO — the world's largest prop trading firm, owner of OANDA — launches FTMO Futures Beta on August 31, 2026 with up to $450K simulated capital across three account tiers ($50K–$150K, $119–$229/month), resuming US operations via OANDA's CFTC-regulated entity; currently accepts USDT TRC-20 and ERC-20 for challenge fees with no institutional multichain rail in place",
+    "Lead Potential": "HIGH",
+    "Why It Matters": "FTMO Futures Beta creates a new payment infrastructure decision point separate from FTMO's existing CFD programme — challenge fees for the new futures accounts ($119–$229/month, scaling to $450K capital) require their own USDT payment stack. FTMO currently accepts only basic TRC-20 and ERC-20 USDT, without the institutional multichain depth GWC provides (300+ assets, dedicated Backoffice, EUR SEPA/SWIFT treasury off-ramp). The OANDA acquisition and US re-entry confirm active group-level infrastructure investment precisely when FTMO Futures is establishing its payment stack — the highest-probability window to land the institutional crypto rail before a processor is selected.",
+    "Suggested Action": "Run linkedin_outreach workflow for FTMO — target Head of Payments or Chief Product Officer; reference the August 31, 2026 Futures Beta launch and OANDA acquisition as the active infrastructure investment cycle; propose GWC's institutional USDT multichain rails as the upgrade from FTMO's current TRC-20/ERC-20-only infrastructure to full institutional payment coverage across both Futures and CFD challenge-fee flows",
+    "Status": "",
+    "Source URL": "https://www.financemagnates.com/forex/prop-firm-ftmo-launches-futures-beta/"
+  },
+  {
+    "Date": "2026-09-02",
+    "Category": "Lead Signal",
+    "Company": "STARTRADER",
+    "Headline": "STARTRADER — a multi-regulated Forex/CFD broker (ASIC, FSCA, FSA Seychelles, FSC Mauritius, CMA UAE) — launches XAUUSD247 (24/7 Gold CFD on MT5) on August 21, 2026 and follows with 30 new US stock and ETF CFDs on August 24–25; active dual-product expansion cycle across five regulated jurisdictions while current crypto deposit support is limited to TRC-20 USDT only",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "STARTRADER's back-to-back August product launches (24/7 Gold CFD + 30 US Stock/ETF CFDs) signal an active investment cycle in which payment infrastructure is evaluated alongside new product rollouts. Regulated across 5 jurisdictions including MENA (CMA UAE) and Africa (FSCA), STARTRADER's international trader base predominantly funds via USDT — but only TRC-20 is currently supported, leaving ERC-20, BEP-20, Polygon, Solana, and 295+ additional assets unserved. GWC's full institutional multichain USDT rails plus EUR SEPA/SWIFT fiat off-ramp would provide complete institutional payment coverage aligned with STARTRADER's 5-jurisdiction expansion phase.",
+    "Suggested Action": "Research Head of Payments or VP of Product at STARTRADER — reference the August 2026 dual product expansion (XAUUSD247 + 30 US Stock/ETF CFDs) as the active investment cycle trigger; propose GWC's institutional multichain USDT rails as the upgrade from TRC-20-only crypto deposits to full institutional multichain infrastructure serving STARTRADER's MENA and African market trader base",
+    "Status": "",
+    "Source URL": "https://www.prnewswire.com/news-releases/startrader-launches-xauusd247-extending-gold-cfd-access-across-the-full-week-302857216.html"
+  },
+  {
+    "Date": "2026-09-02",
+    "Category": "Competitor Move",
+    "Company": "GR8 Tech / Cryptopay",
+    "Headline": "Cryptopay is confirmed as the primary embedded crypto processor across GR8 Tech's Hyper Turnkey and Crypto Turnkey B2B iGaming platforms in an August 20, 2026 SBC News speed-test feature — confirming live deployment serving GR8 Tech's ~100+ iGaming operator clients; Cryptopay is GatewayCrypto's direct competitor in B2B iGaming USDT processing",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "GR8 Tech's ~100+ iGaming operator clients are now routed through Cryptopay — GWC's direct competitor — at the platform level. Operators outside the GR8 Tech ecosystem targeting the same crypto-deposit markets (LatAm, MENA, SEA) remain fully accessible. Key pitch update: when prospects cite Cryptopay, reference the GR8 Tech integration as market validation of embedded demand, then contrast GWC's dedicated Backoffice, EUR SEPA/SWIFT treasury off-ramp, and 300+ multichain asset depth as the institutional-grade alternative that Cryptopay's turnkey-embedded model cannot match for operators with complex treasury or compliance needs.",
+    "Suggested Action": "Note competitive context — update GWC pitch to reference Cryptopay's GR8 Tech platform integration as market validation; differentiate on dedicated Backoffice, EUR SEPA/SWIFT fiat off-ramp, and 300+ multichain assets vs Cryptopay's embedded-only model; monitor GR8 Tech operator client announcements for operators switching platforms or seeking independent processor alternatives",
+    "Status": "",
+    "Source URL": "https://sbcnews.co.uk/technology/2026/08/20/gr8-tech-crypto-payments/"
+  },
+  {
+    "Date": "2026-09-02",
+    "Category": "Partnership Intel",
+    "Company": "Kambi Group / Station Casinos",
+    "Headline": "Kambi Group signs a 10-year turnkey sportsbook and Player Account Management (PAM) platform deal with Station Casinos (Red Rock Resorts, 16+ Las Vegas locals venues) on August 5–6, 2026 — Kambi's first full statewide Nevada deployment and first integrated Turnkey Sportsbook + PAM solution, extending to Treasure Island and Fontainebleau on the Las Vegas Strip; mid-single-digit million-euro annual revenue uplift expected from 2027",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Kambi's PAM platform is the payment infrastructure layer controlling player account funding and withdrawals for all Station Casinos sportsbooks in Nevada. The 10-year deal creates a major new payment infrastructure build cycle — with Kambi's PAM decisions determining what deposit methods (including crypto) are available across 16+ Station venues and two Strip properties before the 2027 revenue launch. Engaging Kambi's PAM product team on USDT/crypto deposit API integration now, while the platform is being built, is the highest-probability window to influence the Station Casinos payment stack before processor decisions are locked.",
+    "Suggested Action": "Research Head of Product (PAM) or VP of Partnerships at Kambi Group — reference the August 5–6, 2026 Station Casinos 10-year Nevada deal as the active PAM payment infrastructure build cycle; propose GWC's institutional USDT multichain rails as the crypto deposit layer for Kambi's PAM platform, reaching Station Casinos' 16+ Nevada venues and two Strip properties via one B2B integration ahead of the 2027 revenue launch",
+    "Status": "",
+    "Source URL": "https://bettorsinsider.com/news/2026/08/06/kambi-to-partner-with-station-casinos-for-sportsbook-and-player-account-management-platform/"
+  },
+  {
+    "Date": "2026-09-02",
+    "Category": "Lead Signal",
+    "Company": "Futurionex",
+    "Headline": "Futurionex — a digital-asset trading platform — announces a global strategic upgrade on August 31, 2026, launching a comprehensive multi-asset CFD platform covering Forex, precious metals, indices, commodities, and stock CFDs; a second GlobeNewswire release on September 1, 2026 details the platform's advanced security and risk management framework, confirming active infrastructure build",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "Futurionex is pivoting from pure crypto/digital-asset trading into multi-asset CFD brokerage — the same transition path as BingX, ByBit, and OKX entering regulated CFD markets. As a crypto-native platform expanding into regulated CFDs, its existing trader base funds exclusively through crypto (USDT/BTC); scaling a regulated CFD business requires institutional-grade USDT payment rails with Backoffice, compliance separation from the spot trading entity, and EUR SEPA/SWIFT fiat off-ramp. The dual August 31/September 1 announcement confirms an active infrastructure build phase in which payment processor decisions are being made now.",
+    "Suggested Action": "Research CEO or Head of Payments at Futurionex — reference the August 31, 2026 global strategic upgrade as the active payment infrastructure build trigger; propose GWC's institutional USDT multichain rails as the B2B payment layer for Futurionex's regulated CFD trader base, with compliance separation from the digital-asset parent entity and EUR SEPA/SWIFT fiat off-ramp for CFD account settlement",
+    "Status": "",
+    "Source URL": "https://www.globenewswire.com/news-release/2026/08/31/3353092/0/en/futurionex-announces-global-strategic-upgrade-advancing-multi-asset-cfd-trading.html"
+  }
+]
