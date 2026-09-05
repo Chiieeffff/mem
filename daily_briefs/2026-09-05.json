@@ -1,0 +1,57 @@
+[
+  {
+    "Date": "2026-09-05",
+    "Category": "Partnership Intel",
+    "Company": "River Markets",
+    "Headline": "River Markets raises $8.5M seed (Haun Ventures, Coinbase Ventures, Y Combinator) to launch the first institutional prime brokerage for prediction markets — connecting Kalshi, Polymarket, and similar platforms with institutional-grade liquidity, execution, and clearing infrastructure on August 11, 2026",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "River Markets is building the institutional prime brokerage layer for prediction market platforms (Kalshi, Polymarket), meaning the operators riding River Markets' rails will increasingly require institutional USDT payment infrastructure for player account deposits. As River Markets grows, prediction market operators using its liquidity services become natural GWC prospects: these are crypto-native venues whose player base deposits via USDT/USDC rather than bank wire or card. A GWC partnership or referral arrangement with River Markets — positioning GWC as the recommended USDT deposit processor for River Markets' operator clients — would reach a growing set of prediction market venues through one B2B agreement.",
+    "Suggested Action": "Research CEO or Head of Business Development at River Markets — reference the August 11, 2026 $8.5M seed and prediction market prime brokerage launch; propose GWC as the institutional USDT payment rails for River Markets' operator clients (Kalshi, Polymarket, and future prediction market venues) who need compliant crypto deposit infrastructure as they scale beyond wallet-based solutions",
+    "Status": "",
+    "Source URL": "https://www.financemagnates.com/fintech/river-markets-raises-85m-to-build-the-first-prime-broker-for-prediction-markets/"
+  },
+  {
+    "Date": "2026-09-05",
+    "Category": "Lead Signal",
+    "Company": "FunderPro",
+    "Headline": "FunderPro — a Malta-based prop firm already paying out in USDT — announces launch of a regulated brokerage in 2026 with custom challenge types and a futures division, signaling a full-stack expansion from prop trading into regulated CFD brokerage that requires institutional payment infrastructure",
+    "Lead Potential": "MEDIUM",
+    "Why It Matters": "FunderPro's regulated brokerage launch follows the pattern that consistently creates institutional payment infrastructure demand: a prop firm with existing USDT payout experience crossing into regulated CFD brokerage, which requires formal B2B payment processor relationships for trader account deposits and withdrawals. FunderPro already pays in USDT but relies on basic transfer infrastructure; the regulated brokerage launch, custom challenge types, and futures division each create a new payment infrastructure decision point. No institutional multichain USDT processor (ERC-20 + TRC-20 + BEP-20 + Polygon + Solana) or EUR SEPA/SWIFT fiat off-ramp is identified for FunderPro's brokerage entity.",
+    "Suggested Action": "Research CEO Gary Mullen or Head of Operations at FunderPro — reference the 2026 regulated brokerage launch and futures division expansion as the active payment infrastructure selection window; propose GWC's institutional USDT multichain rails as the upgrade from FunderPro's current basic USDT payout infrastructure to full institutional payment coverage across both the prop firm and the regulated brokerage entity, plus EUR SEPA/SWIFT treasury off-ramp",
+    "Status": "",
+    "Source URL": "https://financefeeds.com/funderpro-launches-regulated-broker-and-custom-challenges-to-evolve-beyond-prop-trading/"
+  },
+  {
+    "Date": "2026-09-05",
+    "Category": "Lead Signal",
+    "Company": "Merkur / Société Française de Casinos",
+    "Headline": "German gaming group Merkur AG signs a put option on August 27, 2026 to acquire a controlling stake in Société Française de Casinos (SFC) — operator of 33 French land-based casinos with €430M GGR — targeting deal completion in Q1 2027; acquisition triggers payment stack review across SFC's French casino network",
+    "Lead Potential": "LOW",
+    "Why It Matters": "The Merkur/SFC deal creates a payment infrastructure review window as Merkur's acquisition team evaluates SFC's existing processor stack. However, French land-based casinos operate under strict ANJ regulations that restrict crypto payments for French-licensed gaming venues, limiting the near-term crypto payment opportunity significantly. Merkur's broader portfolio — including digital gaming operations outside France — is the more actionable long-term GWC target once the acquisition closes and infrastructure consolidation begins in Q1 2027.",
+    "Suggested Action": "Monitor — flag for Q1 2027 follow-up when Merkur/SFC acquisition closes; research Merkur's international digital gaming operations (outside France) as the near-term GWC target for institutional USDT payment rails where French iGaming restrictions do not apply",
+    "Status": "",
+    "Source URL": "https://igamingbusiness.com/strategy/ma/merkur-to-acquire-controlling-stake-in-societe-francaise-de-casinos/"
+  },
+  {
+    "Date": "2026-09-05",
+    "Category": "Lead Signal",
+    "Company": "bet365 (West Virginia)",
+    "Headline": "bet365 launches its online sportsbook and casino in West Virginia on August 28, 2026 — its 18th US state and 6th North American market in 13 months — with no crypto payment method identified for the West Virginia launch",
+    "Lead Potential": "LOW",
+    "Why It Matters": "bet365's West Virginia entry continues a 13-month US expansion streak but follows the same regulated US pattern: card and ACH deposits, no crypto. US iGaming regulatory constraints on crypto are structural; the GWC opportunity with bet365 remains in its international markets (LatAm, MENA) rather than US state-by-state entries. Informational — already in GWC seen history from June 18 Michigan entry.",
+    "Suggested Action": "Monitor — revisit if any US iGaming state where bet365 operates legalizes crypto deposits or if bet365 announces a crypto payment option for US properties; focus current GWC outreach on bet365's international markets (LatAm, MENA) where the institutional USDT opportunity is structurally stronger",
+    "Status": "",
+    "Source URL": "https://www.yogonet.com/international/news/2026/08/28/126128-bet365-expands-us-footprint-with-online-sportsbook-and-casino-launch-in-west-virginia"
+  },
+  {
+    "Date": "2026-09-05",
+    "Category": "Lead Signal",
+    "Company": "ChainSpin",
+    "Headline": "ChainSpin — a new crypto casino and sportsbook — raises $170,000+ in the first days of its Stage 1 token presale on September 2, 2026 with its live casino and sportsbook already operational, natively built on USDT/crypto deposit infrastructure from day one",
+    "Lead Potential": "LOW",
+    "Why It Matters": "ChainSpin is an early-stage crypto-native gaming operator at presale stage — institutional B2B payment conversations typically open when an operator scales to 10,000+ monthly active players or begins institutional investor engagement requiring formal payment compliance. Self-managed USDT wallets are standard at this stage; monitor for Series A or institutional round as the signal to engage.",
+    "Suggested Action": "Monitor — revisit ChainSpin in 90-120 days for scale signals (player milestone, institutional funding round, or B2B platform partnership) indicating institutional USDT payment infrastructure is a live operational need",
+    "Status": "",
+    "Source URL": "https://www.globenewswire.com/news-release/2026/09/02/3354824/0/en/chainspin-raises-over-170-000-as-stage-1-passes-30-with-live-casino-and-sportsbook-already-operational.html"
+  }
+]
